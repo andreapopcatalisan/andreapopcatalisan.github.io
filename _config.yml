@@ -17,12 +17,13 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/andrea.pdf", title: "CV", icon: home}
+  - {file: "/andrea.pdf", title: "CV", icon: home}
   - {file: "index.html"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:andrea.pop@psemail.eu"}
-  - {title: Linkedin, icon: Linkedin, url: "/feed.xml"}
+  - {title: Linkedin, icon: linkedin, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
