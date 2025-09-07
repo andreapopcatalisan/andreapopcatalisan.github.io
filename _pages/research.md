@@ -7,75 +7,64 @@ nav_order: 3
 ---
 
 <style>
-  /* Container */
-  .research-container {
-    margin: 0 auto;
-    padding: 10px 20px;
-    max-width: 900px;
+  .container .jumbotron {
+    padding-top: 12px; 
+    padding-bottom: 8px; 
+    padding-left: 20px; 
+    padding-right: 20px; 
+    display: flex; /* Enable flexbox layout */
+    flex-direction: row; /* Default for larger screens, image next to text */
   }
 
-  /* Block */
-  .research-block {
-    padding: 12px 20px 8px 20px;
-    display: flex;
-    flex-direction: row;
-    border-radius: 8px;
-    background-color: #f9f9f9;
-    margin-bottom: 20px;
+  .jumbotron.no-image {
+    display: block; /* Use block display for jumbotrons without images */
   }
 
-  .research-block.no-image {
-    display: block;
-  }
-
-  .research-block img {
-    flex: 0 0 20%;
-    max-width: 30%;
-    height: auto;
-    margin: auto 15px auto 0;
+  .jumbotron img {
+    flex: 0 0 20%; /* Adjust the size of the image as needed */
+    max-width: 30%; /* Make the image responsive to its container */
+    height: auto; /* Maintain aspect ratio */
+    margin-top: auto; /* Center vertically */
+    margin-bottom: auto; /* Center vertically */
+    margin-right: 15px; /* Space between the image and text */
   }
 
   .text-container {
     flex: 1;
-    max-width: 80%;
+    max-width: 80%; /* Adjust to ensure text fits next to the image */
   }
 
   @media (max-width: 768px) {
-    .research-block {
-        flex-direction: column;
+    .container .jumbotron {
+        flex-direction: column; /* Stack the image and text vertically */
     }
-    .research-block img {
-        max-width: 100%;
-        margin: 0 0 15px 0;
+    
+    .jumbotron img {
+        max-width: 100%; /* Image takes full width in mobile view */
+        margin-right: 0; /* Remove right margin */
+        margin-bottom: 15px; /* Add space between image and text */
     }
+    
     .text-container {
-        max-width: 100%;
+        max-width: 100%; /* Ensure text takes full width */
     }
   }
 
-  /* Buttons */
   .btn-ssrn {
     display: inline-block;
-    padding: 5px 5px;
-    background-color: #e5e5e5;
-    color: #1C1C1D;
+    padding: 5px 5px; /* Adjust padding as needed */
+    background-color: #e5e5e5; /* Same as background color */
+    color: #1C1C1D; /* Button text color */
     text-decoration: none;
-    border: 0;
-    border-radius: 10px;
+    border: 0px solid #8e7bd0; /* Button border color */
+    border-radius: 10px; /* Make borders round */
     font-size: 11px;
-    margin-left: 10px;
+    margin-left: 10px; /* Adjust margin as needed */
   }
 
   .btn-ssrn:hover {
-    background-color: #CF8852;
+    background-color: #CF8852; /* Hover background color */
     color: #1C1C1D;
-  }
-
-  /* Typography */
-  .section-title {
-    margin-bottom: 20px;
-    font-size: 1.3rem;
-    font-weight: bold;
   }
 
   .paper-title {
@@ -84,12 +73,13 @@ nav_order: 3
   }
 
   .paper-title a {
-    color: #CC0099;
+    color: #4682b4; /* Match the default link color */
     text-decoration: none;
     font-weight: bold;
   }
 
-  .abstract {
+
+    .abstract {
     text-align: justify;
     font-size: 15px;
     margin-left: 25px;
@@ -103,6 +93,56 @@ nav_order: 3
     line-height: 1.2em;
   }
 </style>
+
+<!-------------------
+WORKING PAPERS 
+--------------------->
+<h4 style="margin-bottom: 20px;">Work in Progresss</h4>
+<div class="container">
+<div class="jumbotron no-image">
+  <h6 class="paper-title"><a target="_blank" href="#">Children, Household Specialization and Relationship Quality</a></h6> 
+  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>) <b></b></span>
+  
+  <p class="abstract">
+    We i
+  </p>
+
+  <p class="presentation-info">
+  Presented at: 
+  </p>
+  
+</div>
+</div>
+
+
+<div class="container">
+<div class="jumbotron no-image">
+  <h6 class="paper-title"><a target="_blank" href="#">Measuring </a></h6>  
+  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>)</span>
+
+  <p class="abstract">
+    This pa
+  </p>
+</div>
+</div>
+
+
+
+<!-------------------
+WORK IN PROGRESS 
+--------------------->
+<h4 style="margin-bottom: 20px;">Work in Progress</h4>
+
+<div class="container">
+<div class="jumbotron no-image">
+  <h6 class="paper-title">Until the City Do Us Part</h6>
+  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a>)</span>
+
+  <p class="abstract">
+    In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.
+  </p>
+</div>
+</div>
 
 
 <!-------------------
