@@ -118,7 +118,7 @@ WORKING PAPERS
 <div class="container">
 <div class="jumbotron no-image">
   <h6 class="paper-title"><a target="_blank" href="#">The Price of Settling Down</a></h6>  
-  <span style="font-size = 15px;">(with <a target="_blank" href="#">Sveva Manfredi</a>)</span>
+  <span style="font-size = 16px;">(with <a target="_blank" href="#">Sveva Manfredi</a>)</span>
 
   <p class="abstract">
    
@@ -137,15 +137,12 @@ Other Research Contributions
 <div class="container">
 <div class="jumbotron no-image">
    <h6 class="paper-title"><a target="_blank" href="#">Inequality, Repression, and Redistributive Preferences in Catalonia</a></h6> 
-  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>, Daniel Carrera)</span>
+  <span style="font-size = 16px;">(with <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>, Daniel Carrera)</span>
   <p class="abstract">
     Using a regression discontinuity design (RDD) comparing municipalities close to but on the opposite side of the historical frontier, this paper shows that the existence of this frontier separating areas conquered relatively slowly (the North of Southern Catalonia) and those conquered faster (the South of Southern Catalonia) led to ground-breaking differences in preferences for socialism and redistribution, both historically and today. 
   </p>
 </div>
 </div>
-
-<br>
-
 
 
 <div class="container">
