@@ -100,7 +100,7 @@ WORKING PAPERS
 <h4 style="margin-bottom: 20px;">Work in Progresss</h4>
 <div class="container">
 <div class="jumbotron no-image">
-  <h6 class="paper-title"><a target="_blank" href="#">Empty Nest Syndrome: Parents’Labor Supply and Well-Being</a></h6> 
+  <h6 class="paper-title"><a target="_blank" href="#">Empty Nest Syndrome: Parents’ Labor Supply and Well-Being</a></h6> 
   <span style="font-size = 16px;"> <b></b></span>
   
   <p class="abstract">
