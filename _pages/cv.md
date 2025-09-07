@@ -1,5 +1,5 @@
 ---
-permalink: /cv/
+permalink: /assets/CV_APC.pdf
 title: CV
 nav: true
 nav_order: 3
