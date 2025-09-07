@@ -15,7 +15,7 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my website!!
+Welcome to my website!
 
 I am a Ph.D. student in Economics at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/). I completed my master’s and bachelor's degrees at University Carlos III of Madrid. My research interests are mainly in family, labor and gender economics.
 
