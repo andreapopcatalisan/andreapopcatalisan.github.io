@@ -1,4 +1,7 @@
-nav_external_links:
-  - title: "CV"
-    url: https://andreapopcatalisan.github.io/assets/CV_APC.pdf
-    nav_order: 4
+---
+permalink: /cv/
+title: CV
+nav: true
+nav_order: 3
+redirect_to: "{{ '/assets/CV_APC.pdf' | relative_url }}"
+---
