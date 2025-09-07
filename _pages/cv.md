@@ -1,9 +1,4 @@
----
-layout: none
-permalink: /cv/
-title: CV
-nav: true
-nav_order: 3
----
-
-<meta http-equiv="refresh" content="0; url={{ '/CV_APC.pdf' | relative_url }}">
+nav_external_links:
+  - title: "CV"
+    url: https://andreapopcatalisan.github.io/assets/CV_APC.pdf
+    nav_order: 4
