@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /research/
 title: RESEARCH
 nav: true
 nav_order: 2
