@@ -187,23 +187,8 @@ keep_files:
 
 # Plug-ins
 plugins:
- # - jekyll-archives
- # - jekyll-redirect-from
- # - jekyll-email-protect
-#  - jekyll-feed
-#  - jekyll-get-json
-#  - jekyll-imagemagick
-#  - jekyll-jupyter-notebook
-#  - jekyll-link-attributes
-#  - jekyll-minifier
-#  - jekyll-paginate-v2
- # - jekyll/scholar
-#  - jekyll-sitemap
- # - jekyll-toc
-#  - jekyll-twitter-plugin
-#  - jemoji
-
-  - jekyll-archives-v2
+  - jekyll-archives
+  - jekyll-redirect-from
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
