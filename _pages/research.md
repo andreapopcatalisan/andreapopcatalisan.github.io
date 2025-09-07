@@ -73,7 +73,7 @@ nav_order: 3
   }
 
   .paper-title a {
-    color: #4682b4; /* Match the default link color */
+    color: #ad2392; /* Match the default link color */
     text-decoration: none;
     font-weight: bold;
   }
@@ -100,15 +100,15 @@ WORKING PAPERS
 <h4 style="margin-bottom: 20px;">Work in Progresss</h4>
 <div class="container">
 <div class="jumbotron no-image">
-  <h6 class="paper-title"><a target="_blank" href="#">Children, Household Specialization and Relationship Quality</a></h6> 
-  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>) <b></b></span>
+  <h6 class="paper-title"><a target="_blank" href="#">Empty Nest Syndrome: Parents’Labor Supply and Well-Being</a></h6> 
+  <span style="font-size = 16px;"> <b></b></span>
   
   <p class="abstract">
-    We i
+    Exploring how children's departure from the household affects parents' work patterns and psychological outcomes.
   </p>
 
   <p class="presentation-info">
-  Presented at: 
+  Presented at: European Health Economics Association (Brussels); European Doctoral Program (Bonn); PSE Behavioural Atelier (Paris).
   </p>
   
 </div>
@@ -117,11 +117,11 @@ WORKING PAPERS
 
 <div class="container">
 <div class="jumbotron no-image">
-  <h6 class="paper-title"><a target="_blank" href="#">Measuring </a></h6>  
-  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>)</span>
+  <h6 class="paper-title"><a target="_blank" href="#">The Price of Settling Down</a></h6>  
+  <span style="font-size = 15px;">(with <a target="_blank" href="#">Sveva Manfredi</a>)</span>
 
   <p class="abstract">
-    This pa
+   
   </p>
 </div>
 </div>
@@ -129,17 +129,17 @@ WORKING PAPERS
 
 
 <!-------------------
-WORK IN PROGRESS 
+Other Research Contributions
 --------------------->
-<h4 style="margin-bottom: 20px;">Work in Progress</h4>
+<h4 style="margin-bottom: 20px;">Other Research Contributions</h4>
 
 <div class="container">
 <div class="jumbotron no-image">
-  <h6 class="paper-title">Until the City Do Us Part</h6>
-  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a>)</span>
+  <h6 class="paper-title">Inequality, Repression, and Redistributive Preferences in Catalonia</h6>
+  <span style="font-size = 15px;">(with <a target="_blank" href="[https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado](https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>, Daniel Carrera)</a>)</span>
 
   <p class="abstract">
-    In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.
+    Using a regression discontinuity design (RDD) comparing municipalities close to but on the opposite side of the historical frontier, this paper shows that the existence of this frontier separating areas conquered relatively slowly (the North of Southern Catalonia) and those conquered faster (the South of Southern Catalonia) led to ground-breaking differences in preferences for socialism and redistribution, both historically and today. 
   </p>
 </div>
 </div>
