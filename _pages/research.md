@@ -73,7 +73,7 @@ nav_order: 2
   }
 
   .paper-title a {
-    color: #ad2392; /* Match the default link color */
+    color: #FF7A9E; /* Match the default link color */
     text-decoration: none;
     font-weight: bold;
   }
