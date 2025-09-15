@@ -108,7 +108,7 @@ WORKING PAPERS
   </p>
 
   <p class="presentation-info">
-  Presented at: European Health Economics Association (Brussels); ECONtribute European Doctoral Program Jamboree  (Bonn); PSE Behavioural Atelier (Paris); Gendhi (Paris).
+  Presented at: European Health Economics Association (Brussels); ECONtribute European Doctoral Program Jamboree (Bonn); PSE Behavioural Atelier (Paris); GENDHI (Paris).
   </p>
   
 </div>
