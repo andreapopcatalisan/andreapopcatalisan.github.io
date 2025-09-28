@@ -1,3 +1,9 @@
+<!-- SEO basics -->
+<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{{ site.description | escape }}">
+<meta name="author" content="Your Name">
+
+
 <!-- Metadata, OpenGraph and Schema.org -->
 {% include metadata.liquid %}
 
