@@ -20,14 +20,14 @@ social: true # includes social icons at the bottom of the page
 </h1>
 
 <p style="text-align: justify;">
-Welcome to my website!
+Welcome to my website! <br><br>
 
-I am a Ph.D. student in Economics at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/). My research interests are mainly in family, labor and gender economics. I completed my master’s and bachelor's degrees at University Carlos III of Madrid. 
+I am a Ph.D. student in Economics at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/). My research interests are mainly in family, labor and gender economics. I completed my master’s and bachelor's degrees at University Carlos III of Madrid.  <br><br>
 
-Previously, I worked as a Research Analyst at the European Central Bank at DG Economics and DG Research. I also completed a pre-doc at the Barcelona School of Economics/UPF and worked as a Research Assistant at the Kiel Institute for the World Economy and the Bank of Spain.
+Previously, I worked as a Research Analyst at the European Central Bank at DG Economics and DG Research. I also completed a pre-doc at the Barcelona School of Economics/UPF and worked as a Research Assistant at the Kiel Institute for the World Economy and the Bank of Spain. <br><br>
 
-You can find my [CV](https://andreapopcatalisan.github.io/assets/CV_APC.pdf) here and learn more about my [research](https://andreapopcatalisan.github.io/research/) here.
+You can find my [CV](https://andreapopcatalisan.github.io/assets/CV_APC.pdf) here and learn more about my [research](https://andreapopcatalisan.github.io/research/) here. <br><br>
 
-You can email me at [andrea.pop@psemail.eu](mailto:andrea.pop@psemail.eu)!
+You can email me at [andrea.pop@psemail.eu](mailto:andrea.pop@psemail.eu)! <br><br>
 
 </p>
