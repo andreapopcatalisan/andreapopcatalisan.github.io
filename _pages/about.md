@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 ---
 <style>
   .about-profile img {
-    margin-top: 80px; /* adjust to move image lower */
+    margin-top: 120px; /* adjust to move image lower */
   }
 </style>
 
