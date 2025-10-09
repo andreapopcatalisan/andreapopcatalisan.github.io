@@ -15,7 +15,7 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-<h1 style="font-size: 2.5em; font-weight: 800; color: #111; margin-bottom: 1.5em;">
+<h1 style="font-size: 2.5em; font-weight: 800; color: #111; margin-top: 1.5em; margin-bottom: 0.5em;">
   Andrea Pop-Catalisan
 </h1>
 
