@@ -242,10 +242,10 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
-scholar:
-  last_name: [Pop-Catalisan]
-  first_name: [Andrea]
 
+scholar:
+  last_name: [Einstein]
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
