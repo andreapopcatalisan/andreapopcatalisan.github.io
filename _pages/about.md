@@ -14,10 +14,9 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 <style>
-  /* Push the profile image further down */
-  .about-profile img {
-    margin-top: 150px; /* increase this number to move the photo lower */
-  }
+.profile-picture {
+  margin-top: 150px; /* pushes the photo down */
+}
 </style>
 
 
