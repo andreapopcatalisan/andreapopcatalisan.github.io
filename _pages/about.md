@@ -19,6 +19,7 @@ social: true # includes social icons at the bottom of the page
   Andrea Pop-Catalisan
 </h1>
 
+<p style="text-align: justify;">
 Welcome to my website!
 
 I am a Ph.D. student in Economics at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/). My research interests are mainly in family, labor and gender economics. I completed my master’s and bachelor's degrees at University Carlos III of Madrid. 
@@ -28,3 +29,5 @@ Previously, I worked as a Research Analyst at the European Central Bank at DG Ec
 You can find my [CV](https://andreapopcatalisan.github.io/assets/CV_APC.pdf) here and learn more about my [research](https://andreapopcatalisan.github.io/research/) here.
 
 You can email me at [andrea.pop@psemail.eu](mailto:andrea.pop@psemail.eu)!
+
+</p>
