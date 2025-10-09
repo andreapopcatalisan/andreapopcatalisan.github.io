@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: https://github.com/andreapopcatalisan/andreapopcatalisan.github.io/blob/master/assets/img/apcprofile.jpg
+  image: apcprofile.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
 
