@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: apcprofile.jpg
+  image: [apcprofile.jpg](https://github.com/andreapopcatalisan/andreapopcatalisan.github.io/blob/master/assets/img/apcprofile.jpg)
   image_circular: false # crops the image to make it circular
   # more_info: >
 
@@ -15,7 +15,9 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-<h1 style="font-size: 2em; font-weight: 800; color: #111;">Andrea Pop-Catalisan</h1>
+<h1 style="font-size: 2.5em; font-weight: 800; color: #111; margin-bottom: 1.5em;">
+  Andrea Pop-Catalisan
+</h1>
 
 Welcome to my website!
 
