@@ -13,6 +13,11 @@ news: false # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+<style>
+  .about-profile img {
+    margin-top: 80px; /* adjust to move image lower */
+  }
+</style>
 
 
 <h1 style="font-size: 2.5em; font-weight: 800; color: #111; margin-top: 1.5em; margin-bottom: 0.5em;">
