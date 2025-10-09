@@ -15,6 +15,8 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
+<h1 style="font-size: 4em; font-weight: 800; color: #111;">Andrea Pop-Catalisan</h1>
+
 Welcome to my website!
 
 I am a Ph.D. student in Economics at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/). My research interests are mainly in family, labor and gender economics. I completed my master’s and bachelor's degrees at University Carlos III of Madrid. 
