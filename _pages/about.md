@@ -6,8 +6,8 @@ permalink: /
 profile:
   align: right
   image: apcprofile.jpg
-  image_circular: false # crops the image to make it circular
-  # more_info: >
+  image_circular: false
+  style: "margin-top: 50px;"
 
 news: false # includes a list of news items
 # latest_posts: true # includes a list of the newest posts
