@@ -27,10 +27,4 @@ $max-content-width: {{ site.max_width }};
 
 
 
-/* --- Hide dark/light mode toggle (moon/sun icon) --- */
-.theme-toggle,
-[data-theme-toggle],
-button[aria-label="Toggle theme"],
-#mode-toggle {
-  display: none !important;
-}
+
