@@ -7,7 +7,8 @@ profile:
   align: right
   image: apcprofile.jpg
   image_circular: false
-
+  image_style: "margin-top: 40px;"
+  
 news: false # includes a list of news items
 # latest_posts: true # includes a list of the newest posts
 # selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 <p style="text-align: justify;">
 Welcome to my website!<br><br>
 
-I am a Ph.D. student in Economics at the <a href="https://www.parisschoolofeconomics.eu/" target="_blank">Paris School of Economics (PSE)</a>. My research interests are mainly in family, labor and gender economics. I completed my master’s and bachelor's degrees at University Carlos III of Madrid.<br><br>
+I am a Ph.D. student in Economics at the <a href="https://www.parisschoolofeconomics.eu/" target="_blank">Paris School of Economics (PSE)</a>. My research interests are mainly in family, health and gender economics. I completed my master’s and bachelor's degrees at University Carlos III of Madrid.<br><br>
 
 Previously, I worked as a Research Analyst at the European Central Bank in DG Economics and DG Research. I also completed a pre-doc at the Barcelona School of Economics/UPF and a research internship at the Bank of Spain.<br><br>
 
