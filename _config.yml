@@ -30,11 +30,12 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 # Theme Mode
 # -----------------------------------------------------------------------------
 
+# repo color theme 
 repo_theme_light: default 
 repo_theme_dark: default 
-repo_trophies: enabled: true
-theme_light: flat 
-theme_dark: flat theme_mode: light
+repo_trophies: enabled: true 
+theme_light: flat theme_dark: flat 
+theme_mode: light # forces light mode, disables moon toggle
 
 # -----------------------------------------------------------------------------
 # RSS Feed
