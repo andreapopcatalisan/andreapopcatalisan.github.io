@@ -13,7 +13,7 @@ email: andrea.pop@psemail.eu
 #   # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #   # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: Andrea Pop-Catalisan, andreapopcatalisan, Pop-Catalisan, Andrea Pop-Catalisan, Andrea POP-CATALISAN
+keywords: Andrea Pop-Catalisan, andreapopcatalisan, Pop-Catalisan, Andrea Pop-Catalisan, Andrea POP-CATALISAN, POP-CATALISAN, POP CATALISAN
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: apc2.png
 
@@ -26,14 +26,12 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 # Theme
 # -----------------------------------------------------------------------------
 
-# repo color theme
-repo_theme_light: default
-repo_theme_dark: default
-repo_trophies:
-  enabled: true
-  theme_light: flat
-  theme_dark: flat
+# -----------------------------------------------------------------------------
+# Theme Mode
+# -----------------------------------------------------------------------------
 theme_mode: light  # forces light mode, disables moon toggle
+
+
 
 # -----------------------------------------------------------------------------
 # RSS Feed
