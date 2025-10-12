@@ -18,3 +18,9 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+
+/* --- Custom styling for profile image spacing --- */
+.profile {
+  margin-top: 40px;
+}
