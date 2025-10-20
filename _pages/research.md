@@ -118,7 +118,7 @@ WORKING PAPERS
 <div class="container">
 <div class="jumbotron no-image">
   <h6 class="paper-title"><a target="_blank" href="#">The Price of Settling Down</a></h6>  
-  <span style="font-size = 16px;">(with <a target="_blank" href="https://sticerd.lse.ac.uk/_new/people/person.asp?id=11352">Sveva Manfredi</a>)</span>
+  <span style="font-size = 16px;">(with <a target="_blank" href="https://svemanfre.github.io/">Sveva Manfredi</a>)</span>
 
   <p class="abstract">
    
