@@ -128,6 +128,20 @@ WORKING PAPERS
 
 
 
+<div class="container">
+<div class="jumbotron no-image">
+  <h6 class="paper-title"><a target="_blank" href="#">Surviving School Holidays</a></h6>  
+  <span style="font-size = 16px;">(with <a target="_blank" href="https://sites.google.com/view/manuelestevolago/about?authuser=0/">Manuel E. Lago</a>)</span>
+
+  <p class="abstract">
+   
+  </p>
+</div>
+</div>
+
+
+
+
 <!-------------------
 Other Research Contributions
 --------------------->
