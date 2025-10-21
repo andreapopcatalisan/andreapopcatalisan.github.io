@@ -19,10 +19,12 @@ nav_order: 2
 > 2025-2026: Applied Econometrics
 
 
-</div>
-</div>
-</div>
 
+<div style="text-align: center;">
+  <h2 style="display: inline-block; margin-bottom: 0; border-bottom: 2px solid var(--global-theme-color); padding-bottom: 1.5px;">
+    Mentoring
+  </h2>
+</div>
 
 > ##### **Mentoring - Alumni – UC3M**
 >
