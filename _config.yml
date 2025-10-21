@@ -422,6 +422,8 @@ vega-lite:
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------
+enable_darkmode:            false  # enables switching between light/dark modes
+
 
 jekyll_get_json:
   - data: resume
