@@ -26,5 +26,22 @@ $max-content-width: {{ site.max_width }};
 }
 
 
+/* --- Force Light Mode for the whole site --- */
+:root, body {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+/* Remove dark mode entirely */
+[data-theme="dark"] {
+  display: none !important;
+}
+
+/* Hide dark mode toggle (moon icon) */
+#dark-mode-toggle,
+.theme-toggle {
+  display: none !important;
+}
+
 
 
