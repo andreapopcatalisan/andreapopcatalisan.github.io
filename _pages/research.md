@@ -167,7 +167,7 @@ Other Research Contributions
     During my stay at the European Central Bank (ECB), I provided research assistance to Luc Laeven and Matthew Baron.
   </p>
   <p class="presentation-info">
-  Presented at: ECB
+  Presented at: European Central Bank.
   </p>
 </div>
 </div>
