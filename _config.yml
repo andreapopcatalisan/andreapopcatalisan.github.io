@@ -49,7 +49,7 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-
+dark_mode: false
 # Dimensions
 max_width: 1000px
 
@@ -245,8 +245,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [POP-CATALISAN]
+  first_name: [Andrea]
 
   style: apa
   locale: en
