@@ -34,6 +34,7 @@ repo_trophies:
   enabled: false
   theme_light: flat 
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+enable_darkmode: false
 
 # -----------------------------------------------------------------------------
 # RSS Feed
