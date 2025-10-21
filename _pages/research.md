@@ -97,7 +97,16 @@ nav_order: 1
 <!-------------------
 WORKING PAPERS 
 --------------------->
-<h4 style="margin-bottom: 20px;">Work in Progresss</h4>
+
+
+<div style="text-align: center;">
+  <h2 style="display: inline-block; margin-bottom: 0; border-bottom: 2px solid var(--global-theme-color); padding-bottom: 2px;">
+    Work in Progresss
+  </h2>
+</div>
+
+
+
 <div class="container">
 <div class="jumbotron no-image">
   <h6 class="paper-title"><a target="_blank" href="#">Empty Nest Syndrome: Parents’ Labor Supply and Well-Being</a></h6> 
