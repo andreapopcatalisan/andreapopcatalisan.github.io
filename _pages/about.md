@@ -17,11 +17,11 @@ social: true # includes social icons at the bottom of the page
 
 <style>
 body {
-  background-color: #FFF2F2;
+  background-color: #FCEEEF;
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFC9C9 !important;
+  background-color: #F6CED0 !important;
 }
 </style>
 
