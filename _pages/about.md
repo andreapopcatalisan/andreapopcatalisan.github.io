@@ -11,11 +11,37 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-<div class="profile" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+<div class="profile">
   <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
-       alt="Profile Photo" 
-       style="width:250px; height:auto; border-radius:0;">
+       alt="Profile Photo">
 </div>
+
+<style>
+.profile img {
+  width: 250px;
+  height: auto;
+  border-radius: 0;
+  display: block; /* ensures centering works */
+  margin-bottom: 10px;
+}
+
+/* Default for small screens (phones) */
+.profile {
+  text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+  float: none;
+}
+
+/* For larger screens (laptops) */
+@media (min-width: 992px) {
+  .profile {
+    float: right;
+    margin-left: 20px;
+    text-align: left; /* optional, aligns content to left inside the div */
+  }
+}
+</style>
 
 
 
@@ -30,12 +56,24 @@ body {
 </style>
 
 
-<h1 style="font-size: 2.5em; font-weight: 800; color: #111; margin-top: 1.5em; margin-bottom: 0.5em;">
-  Andrea Pop-Catalisan
-</h1>
+
+<div style="text-align: center;">
+  <h1 style="
+      display: inline-block;
+      font-size: 2.5em;
+      font-weight: 800;
+      color: #111;
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+      border-bottom: 2px solid #007BFF; /* change color as needed */
+      padding-bottom: 4px; /* space between text and line */
+    ">
+    Andrea Pop-Catalisan
+  </h1>
+</div>
 
 <p style="text-align: justify;">
-Welcome to my website!<br><br>
+<br><br>
 
 I am a Ph.D. student in Economics at the <a href="https://www.parisschoolofeconomics.eu/" target="_blank">Paris School of Economics (PSE)</a>.  I completed my master’s and bachelor’s degrees in Economics at <a href="https://www.uc3m.es/inicio" target="_blank">University Carlos III of Madrid (UC3M)</a>. My research interests primarily focus on family, health, and gender economics. <br><br>
 
