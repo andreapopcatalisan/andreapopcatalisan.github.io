@@ -8,7 +8,7 @@ nav_order: 2
 ---
 <style>
 body {
-  background-color: #FFFAFC;
+  background-color: #FFF5F9;
 }
 </style>
 
