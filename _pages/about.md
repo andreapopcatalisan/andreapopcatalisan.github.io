@@ -28,7 +28,7 @@ social: true # includes social icons at the bottom of the page
 /* Default for small screens (phones) */
 .profile {
   text-align: center;
-  margin-left: 50px;
+  margin-left: 60px;
   margin-right: 15px;
   float: none;
 }
@@ -64,10 +64,10 @@ body {
       font-size: 2.5em;
       font-weight: 800;
       color: #111;
-      margin-top: 1.5em;
-      margin-bottom: 0.5em;
+      margin-top: 1em;
+      margin-bottom: 0.4em;
       border-bottom: 2px solid #F55878;
-      padding-bottom: 4px;
+      padding-bottom: 3px;
     ">
     Andrea Pop-Catalisan
   </h1>
