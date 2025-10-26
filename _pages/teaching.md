@@ -6,6 +6,12 @@ description:
 nav: true
 nav_order: 2
 ---
+<style>
+body {
+  background-color: #FFFAFC;
+}
+</style>
+
 
 <div style="text-align: center;">
   <h2 style="display: inline-block; margin-bottom: 0; border-bottom: 2px solid var(--global-theme-color); padding-bottom: 2px;">
