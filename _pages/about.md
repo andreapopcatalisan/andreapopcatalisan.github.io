@@ -11,13 +11,12 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-<style>
-.profile.float-left {
-  float: left;
-  margin-right: 20px; /* space between image and text */
-  margin-bottom: 10px; /* optional */
-}
-</style>
+<div class="profile" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+  <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
+       alt="Profile Photo" 
+       style="width:150px; height:auto; border-radius:50%;">
+</div>
+
 
 <style>
 body {
