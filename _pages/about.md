@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 <style>
 body {
-  background-color: #FFFAFC;
+  background-color: #FFF5F9;
 }
 </style>
 
