@@ -37,6 +37,7 @@ social: true # includes social icons at the bottom of the page
 @media (min-width: 992px) {
   .profile {
     float: right;
+    margin-top: 70px; 
     margin-left: 20px;
     text-align: left; /* optional, aligns content to left inside the div */
   }
@@ -65,7 +66,7 @@ body {
       color: #111;
       margin-top: 1.5em;
       margin-bottom: 0.5em;
-      border-bottom: 2px solid #007BFF; /* change color as needed */
+      border-bottom: 2px solid #F55878; /* change color as needed */
       padding-bottom: 4px; /* space between text and line */
     ">
     Andrea Pop-Catalisan
