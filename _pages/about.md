@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 <style>
 .profile img {
-  width: 250px;
+  width: 260px;
   height: auto;
   border-radius: 0;
   display: block; /* ensures centering works */
@@ -28,7 +28,7 @@ social: true # includes social icons at the bottom of the page
 /* Default for small screens (phones) */
 .profile {
   text-align: center;
-  margin-left: 30px;
+  margin-left: 50px;
   margin-right: 15px;
   float: none;
 }
@@ -71,7 +71,7 @@ body {
     ">
     Andrea Pop-Catalisan
   </h1>
- <p style="margin-top: -1px; font-size: 0.85em; color: #555;">
+ <p style="margin-top: -4px; font-size: 0.85em; color: #555;">
   <strong>PhD student in Economics at PSE</strong>
 </p>
 </div>
