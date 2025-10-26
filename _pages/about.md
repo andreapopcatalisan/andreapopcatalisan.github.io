@@ -28,8 +28,8 @@ social: true # includes social icons at the bottom of the page
 /* Default for small screens (phones) */
 .profile {
   text-align: center;
-  margin-left: 0;
-  margin-right: 0;
+  margin-left: 20px;
+  margin-right: 20px;
   float: none;
 }
 
@@ -71,9 +71,9 @@ body {
     ">
     Andrea Pop-Catalisan
   </h1>
-  <p style="margin-top: 6px; font-size: 0.85em; color: #555;">
-    PhD student in Economics at PSE
-  </p>
+ <p style="margin-top: 2px; font-size: 0.85em; color: #555;">
+  <strong>PhD student in Economics at PSE</strong>
+</p>
 </div>
 
 <p style="text-align: justify;">
