@@ -3,10 +3,6 @@ layout: about
 title: HOME
 permalink: /
 
-profile:
-  align: right
-  image: apcprofile2.jpeg
-  image_circular: false
 
 
 news: false # includes a list of news items
@@ -14,6 +10,14 @@ news: false # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+<style>
+.profile.float-left {
+  float: left;
+  margin-right: 20px; /* space between image and text */
+  margin-bottom: 10px; /* optional */
+}
+</style>
 
 <style>
 body {
