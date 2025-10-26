@@ -28,8 +28,8 @@ social: true # includes social icons at the bottom of the page
 /* Default for small screens (phones) */
 .profile {
   text-align: center;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 30px;
+  margin-right: 15px;
   float: none;
 }
 
