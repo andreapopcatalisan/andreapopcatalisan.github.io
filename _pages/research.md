@@ -86,7 +86,7 @@ body {
   }
 
   .paper-title a {
-    color: #FF7A9E; /* Match the default link color */
+    color: #F55878; /* Match the default link color */
     text-decoration: none;
     font-weight: bold;
   }
