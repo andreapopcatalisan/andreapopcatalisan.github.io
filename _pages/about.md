@@ -66,11 +66,14 @@ body {
       color: #111;
       margin-top: 1.5em;
       margin-bottom: 0.5em;
-      border-bottom: 2px solid #F55878; /* change color as needed */
-      padding-bottom: 4px; /* space between text and line */
+      border-bottom: 2px solid #F55878;
+      padding-bottom: 4px;
     ">
     Andrea Pop-Catalisan
   </h1>
+  <p style="margin-top: 8px; font-size: 1.2em; color: #555;">
+    PhD student in Economics at PSE
+  </p>
 </div>
 
 <p style="text-align: justify;">
