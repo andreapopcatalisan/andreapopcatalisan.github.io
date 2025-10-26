@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image:  "{{ '/assets/apcprofile.jpg' | relative_url }}"
+  image: /assets/apcprofile.jpg' 
   image_circular: false
 
 news: false # includes a list of news items
