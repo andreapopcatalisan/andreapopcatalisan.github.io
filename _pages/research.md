@@ -7,6 +7,12 @@ nav_order: 1
 ---
 
 <style>
+body {
+  background-color: #FFFAFC;
+}
+</style>
+
+<style>
   .container .jumbotron {
     padding-top: 12px; 
     padding-bottom: 8px; 
