@@ -21,7 +21,7 @@ body {
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFF5F9 !important;
+  background-color: #FCB1B1 !important;
 }
 </style>
 
