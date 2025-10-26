@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 <style>
 .profile img {
-  width: 260px;
+  width: 272px;
   height: auto;
   border-radius: 0;
   display: block; /* ensures centering works */
@@ -28,7 +28,7 @@ social: true # includes social icons at the bottom of the page
 /* Default for small screens (phones) */
 .profile {
   text-align: center;
-  margin-left: 60px;
+  margin-left: 52px;
   margin-right: 15px;
   float: none;
 }
@@ -64,7 +64,7 @@ body {
       font-size: 2.5em;
       font-weight: 800;
       color: #111;
-      margin-top: 1em;
+      margin-top: 0.7em;
       margin-bottom: 0.4em;
       border-bottom: 2px solid #F55878;
       padding-bottom: 3px;
