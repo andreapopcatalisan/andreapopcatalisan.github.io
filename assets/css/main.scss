@@ -25,6 +25,12 @@ $max-content-width: {{ site.max_width }};
   margin-top: 40px;
 }
 
+/* Ensure the profile image is visible immediately */
+img[src*="apcprofile.jpg"] {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
 
 
 
