@@ -71,7 +71,7 @@ body {
     ">
     Andrea Pop-Catalisan
   </h1>
- <p style="margin-top: 2px; font-size: 0.85em; color: #555;">
+ <p style="margin-top: -1px; font-size: 0.85em; color: #555;">
   <strong>PhD student in Economics at PSE</strong>
 </p>
 </div>
