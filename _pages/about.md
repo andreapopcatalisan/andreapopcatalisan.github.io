@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: img/apcprofile.jpg
+  image: apcprofile.jpg
   image_circular: false
 
 news: false # includes a list of news items
