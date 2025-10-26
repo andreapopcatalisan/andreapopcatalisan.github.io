@@ -37,7 +37,7 @@ social: true # includes social icons at the bottom of the page
 @media (min-width: 992px) {
   .profile {
     float: right;
-    margin-top: 70px; 
+    margin-top: 160px; 
     margin-left: 20px;
     text-align: left; /* optional, aligns content to left inside the div */
   }
@@ -71,7 +71,7 @@ body {
     ">
     Andrea Pop-Catalisan
   </h1>
-  <p style="margin-top: 8px; font-size: 1.2em; color: #555;">
+  <p style="margin-top: 6px; font-size: 0.85em; color: #555;">
     PhD student in Economics at PSE
   </p>
 </div>
