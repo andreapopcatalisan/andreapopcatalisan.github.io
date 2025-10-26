@@ -6,11 +6,17 @@ description:
 nav: true
 nav_order: 2
 ---
+
 <style>
 body {
-  background-color: #FFF5F9;
+  background-color: #FFFCFC;
+}
+  /* Top fixed bar background */
+.navbar, .navbar-fixed-top {
+  background-color: #FFE0E0 !important;
 }
 </style>
+
 
 
 <div style="text-align: center;">
