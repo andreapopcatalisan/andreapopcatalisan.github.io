@@ -45,8 +45,6 @@ social: true # includes social icons at the bottom of the page
 </style>
 
 
-
-<!-- Header -->
 <header class="header-bar">
   <div class="pse-logo">
     <a href="https://www.parisschoolofeconomics.eu/">
@@ -55,40 +53,6 @@ social: true # includes social icons at the bottom of the page
   </div>
 </header>
 
-<style>
-/* Fixed header bar */
-.header-bar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 70px;                /* adjust as needed */
-  background-color: #fff;      /* or any color you like */
-  display: flex;
-  align-items: center;         /* vertically centers content */
-  justify-content: flex-start; /* aligns content to the left */
-  padding-left: 20px;          /* spacing from the left edge */
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* optional shadow */
-  z-index: 999;
-}
-
-/* PSE image */
-.pse-logo img {
-  width: 85px;
-  height: auto;
-}
-
-/* Responsive for phones */
-@media (max-width: 768px) {
-  .header-bar {
-    height: 60px;
-    padding-left: 15px;
-  }
-  .pse-logo img {
-    width: 65px;
-  }
-}
-</style>
 
 
 
@@ -133,4 +97,47 @@ You can find my <a href="https://andreapopcatalisan.github.io/assets/CV_APC.pdf"
 
 You can email me at <a href="mailto:andrea.pop@psemail.eu">andrea.pop@psemail.eu</a>!<br><br>
 </p>
+
+
+
+<style>
+/* Fixed header */
+.header-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;               /* adjust as needed */
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  z-index: 999;
+}
+
+/* Logo image */
+.pse-logo img {
+  width: 85px;
+  height: auto;
+}
+
+/* Responsive for phones */
+@media (max-width: 768px) {
+  .header-bar {
+    height: 60px;
+    padding-left: 15px;
+  }
+  .pse-logo img {
+    width: 65px;
+  }
+}
+
+/* Push content below the fixed header */
+.main-content {
+  padding-top: 80px; /* slightly more than header height */
+}
+</style>
+
 
