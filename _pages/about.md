@@ -46,28 +46,29 @@ social: true # includes social icons at the bottom of the page
 
 
 
-<!-- Fixed top bar -->
-<div class="top-bar">
+<!-- Header -->
+<header class="header-bar">
   <div class="pse-logo">
-    <img src="https://andreapopcatalisan.github.io/assets/img/pse.png" 
-         alt="PSE Logo">
+    <a href="https://www.parisschoolofeconomics.eu/">
+      <img src="https://andreapopcatalisan.github.io/assets/img/pse.png" alt="PSE Logo">
+    </a>
   </div>
-</div>
+</header>
 
 <style>
-/* Fixed top bar */
-.top-bar {
+/* Fixed header bar */
+.header-bar {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  height: 70px;                /* adjust height as needed */
-  background-color: #fff;      /* or transparent if you prefer */
+  height: 70px;                /* adjust as needed */
+  background-color: #fff;      /* or any color you like */
   display: flex;
-  align-items: center;
-  justify-content: flex-start; /* keeps content to the left */
+  align-items: center;         /* vertically centers content */
+  justify-content: flex-start; /* aligns content to the left */
   padding-left: 20px;          /* spacing from the left edge */
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* optional subtle shadow */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* optional shadow */
   z-index: 999;
 }
 
@@ -79,7 +80,7 @@ social: true # includes social icons at the bottom of the page
 
 /* Responsive for phones */
 @media (max-width: 768px) {
-  .top-bar {
+  .header-bar {
     height: 60px;
     padding-left: 15px;
   }
@@ -88,8 +89,6 @@ social: true # includes social icons at the bottom of the page
   }
 }
 </style>
-
-
 
 
 
