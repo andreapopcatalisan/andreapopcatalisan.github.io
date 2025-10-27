@@ -68,6 +68,22 @@ body {
   </div>
 </header>
 
+/* Logo inside header */
+.header-bar .pse-logo {
+  height: 50px;
+  display: inline-block;
+  margin-right: 15px;
+  vertical-align: middle;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .header-bar .pse-logo {
+    height: 40px;
+  }
+}
+
+
 <div style="text-align: center;">
   <h1 style="
       display: inline-block;
