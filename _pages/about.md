@@ -45,17 +45,6 @@ social: true # includes social icons at the bottom of the page
 </style>
 
 
-<header class="header-bar">
-  <div class="pse-logo">
-    <a href="https://www.parisschoolofeconomics.eu/">
-      <img src="https://andreapopcatalisan.github.io/assets/img/pse.png" alt="PSE Logo">
-    </a>
-  </div>
-</header>
-
-
-
-
 <style>
 body {
   background-color: #FFFCFC;
@@ -65,6 +54,19 @@ body {
   background-color: #FFE0E0 !important;
 }
 </style>
+
+
+
+
+
+<header class="header-bar">
+  <div class="pse-logo">
+    <a href="https://www.parisschoolofeconomics.eu/">
+      <img src="https://andreapopcatalisan.github.io/assets/img/pse.png" alt="PSE Logo">
+    </a>
+  </div>
+</header>
+
 
 
 
@@ -99,45 +101,5 @@ You can email me at <a href="mailto:andrea.pop@psemail.eu">andrea.pop@psemail.eu
 </p>
 
 
-
-<style>
-/* Fixed header */
-.header-bar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 70px;               /* adjust as needed */
-  background-color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  padding-left: 20px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  z-index: 999;
-}
-
-/* Logo image */
-.pse-logo img {
-  width: 85px;
-  height: auto;
-}
-
-/* Responsive for phones */
-@media (max-width: 768px) {
-  .header-bar {
-    height: 60px;
-    padding-left: 15px;
-  }
-  .pse-logo img {
-    width: 65px;
-  }
-}
-
-/* Push content below the fixed header */
-.main-content {
-  padding-top: 80px; /* slightly more than header height */
-}
-</style>
 
 
