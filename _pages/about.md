@@ -46,34 +46,45 @@ social: true # includes social icons at the bottom of the page
 
 
 
-<div class="pse">
-  <img src="https://andreapopcatalisan.github.io/assets/img/pse.png" 
-       alt="pse Photo">
+<!-- Fixed top bar -->
+<div class="top-bar">
+  <div class="pse-logo">
+    <img src="https://andreapopcatalisan.github.io/assets/img/pse.png" 
+         alt="PSE Logo">
+  </div>
 </div>
 
 <style>
-.pse {
-  position: fixed;         /* keeps it visible even when scrolling */
-  bottom: 60px;            /* distance from bottom */
-  left: 50%;               /* start from the horizontal center */
-  transform: translateX(-50%); /* center it exactly */
-  text-align: center;
-  z-index: 1000;           /* ensures it stays on top of other elements */
+/* Fixed top bar */
+.top-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;                /* adjust height as needed */
+  background-color: #fff;      /* or transparent if you prefer */
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* keeps content to the left */
+  padding-left: 20px;          /* spacing from the left edge */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* optional subtle shadow */
+  z-index: 999;
 }
 
-.pse img {
-  width: 115px;
+/* PSE image */
+.pse-logo img {
+  width: 85px;
   height: auto;
-  border-radius: 0;
 }
 
-/* Optional: adjust size or position for smaller screens */
+/* Responsive for phones */
 @media (max-width: 768px) {
-  .pse img {
-    width: 65px;           /* slightly smaller on phones */
+  .top-bar {
+    height: 60px;
+    padding-left: 15px;
   }
-  .pse {
-    bottom: 40px;          /* less padding on small screens */
+  .pse-logo img {
+    width: 65px;
   }
 }
 </style>
