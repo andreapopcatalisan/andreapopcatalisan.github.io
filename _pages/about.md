@@ -57,17 +57,14 @@ body {
 
 
 
-
-
-<header class="header-bar">
-  <div class="pse-logo">
-    <a href="https://www.parisschoolofeconomics.eu/">
-      <img src="https://andreapopcatalisan.github.io/assets/img/pse.png" alt="PSE Logo">
+<nav class="navbar navbar-fixed-top navbar-light" style="background-color:#FFE0E0;">
+  <div class="container">
+    <!-- PSE logo inside the fixed navbar -->
+    <a class="navbar-brand" href="https://www.parisschoolofeconomics.eu/">
+      <img src="https://andreapopcatalisan.github.io/assets/img/pse.png" alt="PSE Logo" style="height:50px;">
     </a>
   </div>
-</header>
-
-
+</nav>
 
 
 <div style="text-align: center;">
