@@ -62,7 +62,7 @@ social: true # includes social icons at the bottom of the page
 }
 
 .pse img {
-  width: 85px;
+  width: 115px;
   height: auto;
   border-radius: 0;
 }
@@ -73,7 +73,7 @@ social: true # includes social icons at the bottom of the page
     width: 65px;           /* slightly smaller on phones */
   }
   .pse {
-    bottom: 10px;          /* less padding on small screens */
+    bottom: 40px;          /* less padding on small screens */
   }
 }
 </style>
