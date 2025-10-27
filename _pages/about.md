@@ -56,16 +56,17 @@ body {
 </style>
 
 
+<header class="header-bar">
+  <!-- PSE logo -->
+  <a href="https://www.parisschoolofeconomics.eu/">
+    <img src="https://andreapopcatalisan.github.io/assets/img/pse.png" alt="PSE Logo" class="pse-logo">
+  </a>
 
-<nav class="navbar navbar-fixed-top navbar-light" style="background-color:#FFE0E0;">
-  <div class="container">
-    <!-- PSE logo inside the fixed navbar -->
-    <a class="navbar-brand" href="https://www.parisschoolofeconomics.eu/">
-      <img src="https://andreapopcatalisan.github.io/assets/img/pse.png" alt="PSE Logo" style="height:50px;">
-    </a>
+  <!-- existing content of your header -->
+  <div class="header-content">
+    <!-- your other header items here -->
   </div>
-</nav>
-
+</header>
 
 <div style="text-align: center;">
   <h1 style="
