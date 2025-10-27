@@ -34,7 +34,7 @@ img[src*="apcprofile.jpg"] {
 
 /* PSE logo inside navbar */
 .navbar-brand img {
-  height: 45px !important;       /* smaller size, overrides other CSS */
+  height: 55px !important;       /* smaller size, overrides other CSS */
   display: inline-block;
   vertical-align: middle;
   margin-right: 10px !important;
@@ -43,7 +43,7 @@ img[src*="apcprofile.jpg"] {
 /* Responsive for phones */
 @media (max-width: 768px) {
   .navbar-brand img {
-    height: 30px !important;      /* smaller on mobile */
+    height: 20px !important;      /* smaller on mobile */
   }
 }
 
