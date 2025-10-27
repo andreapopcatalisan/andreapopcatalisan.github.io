@@ -54,7 +54,7 @@ social: true # includes social icons at the bottom of the page
 <style>
 .pse {
   position: fixed;         /* keeps it visible even when scrolling */
-  bottom: 20px;            /* distance from bottom */
+  bottom: 60px;            /* distance from bottom */
   left: 50%;               /* start from the horizontal center */
   transform: translateX(-50%); /* center it exactly */
   text-align: center;
