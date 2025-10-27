@@ -56,32 +56,6 @@ body {
 </style>
 
 
-<header class="header-bar">
-  <!-- PSE logo -->
-  <a href="https://www.parisschoolofeconomics.eu/">
-    <img src="https://andreapopcatalisan.github.io/assets/img/pse.png" alt="PSE Logo" class="pse-logo">
-  </a>
-
-  <!-- existing content of your header -->
-  <div class="header-content">
-    <!-- your other header items here -->
-  </div>
-</header>
-
-/* Logo inside header */
-.header-bar .pse-logo {
-  height: 50px;
-  display: inline-block;
-  margin-right: 15px;
-  vertical-align: middle;
-}
-
-/* Responsive */
-@media (max-width: 768px) {
-  .header-bar .pse-logo {
-    height: 40px;
-  }
-}
 
 
 <div style="text-align: center;">
