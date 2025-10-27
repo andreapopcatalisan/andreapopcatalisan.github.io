@@ -46,6 +46,42 @@ social: true # includes social icons at the bottom of the page
 
 
 
+<div class="pse">
+  <img src="https://andreapopcatalisan.github.io/assets/img/pse.png" 
+       alt="pse Photo">
+</div>
+
+<style>
+.pse {
+  position: fixed;         /* keeps it visible even when scrolling */
+  bottom: 20px;            /* distance from bottom */
+  left: 50%;               /* start from the horizontal center */
+  transform: translateX(-50%); /* center it exactly */
+  text-align: center;
+  z-index: 1000;           /* ensures it stays on top of other elements */
+}
+
+.pse img {
+  width: 85px;
+  height: auto;
+  border-radius: 0;
+}
+
+/* Optional: adjust size or position for smaller screens */
+@media (max-width: 768px) {
+  .pse img {
+    width: 65px;           /* slightly smaller on phones */
+  }
+  .pse {
+    bottom: 10px;          /* less padding on small screens */
+  }
+}
+</style>
+
+
+
+
+
 <style>
 body {
   background-color: #FFFCFC;
