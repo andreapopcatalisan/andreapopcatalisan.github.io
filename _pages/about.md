@@ -38,7 +38,7 @@ social: true # includes social icons at the bottom of the page
   .profile {
     float: right;
     margin-top: 160px; 
-    margin-left: 52px;
+    margin-left: 32px;
     text-align: left; /* optional, aligns content to left inside the div */
   }
 }
