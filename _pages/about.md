@@ -64,7 +64,7 @@ body {
       font-size: 2.5em;
       font-weight: 800;
       color: #111;
-      margin-top: 0.7em;
+      margin-top: 0.55em;
       margin-bottom: 0.4em;
       border-bottom: 2px solid #F55878;
       padding-bottom: 3px;
