@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 <style>
 .profile img {
-  width: 272px;
+  width: 250px;
   height: auto;
   border-radius: 0;
   display: block; /* ensures centering works */
