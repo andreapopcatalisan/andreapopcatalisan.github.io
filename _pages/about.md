@@ -93,7 +93,6 @@ body {
   <p style="margin-top: -4px; font-size: 0.85em; color: #555;"> <strong>PhD student in Economics at PSE</strong> 
   </p>
 </div> 
-</style>
 
 
 
