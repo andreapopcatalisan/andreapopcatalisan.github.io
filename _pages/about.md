@@ -16,31 +16,34 @@ social: true # includes social icons at the bottom of the page
        alt="Profile Photo">
 </div>
 
+<div class="profile">
+  <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
+       alt="Profile Photo">
+</div>
+
 <style>
+.profile {
+  position: relative;
+  display: inline-block;
+}
+
+/* Image styling */
 .profile img {
   width: 250px;
   height: auto;
-  border-radius: 0;
-  display: block; /* ensures centering works */
-  margin-bottom: 10px;
+  display: block;
 }
 
-/* Default for small screens (phones) */
-.profile {
-  text-align: center;
-  margin-left: 52px;
-  margin-right: 15px;
-  float: none;
-}
-
-/* For larger screens (laptops) */
-@media (min-width: 992px) {
-  .profile {
-    float: right;
-    margin-top: 160px; 
-    margin-left: 32px;
-    text-align: left; /* optional, aligns content to left inside the div */
-  }
+/* Pink contour (_|) */
+.profile::after {
+  content: "";
+  position: absolute;
+  bottom: -10px;  /* space between photo and contour */
+  right: -10px;   /* space between photo and contour */
+  width: 60%;
+  height: 60%;
+  border-bottom: 3px solid pink;
+  border-right: 3px solid pink;
 }
 </style>
 
