@@ -11,6 +11,19 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
+<style>
+body {
+  background-color: #FFFCFC;
+}
+  /* Top fixed bar background */
+.navbar, .navbar-fixed-top {
+  background-color: #FFE0E0 !important;
+}
+</style>
+
+
+
+
 <div class="profile">
   <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
        alt="Profile Photo">
@@ -30,7 +43,7 @@ social: true # includes social icons at the bottom of the page
   .profile {
     float: right;
     margin-top: 160px; 
-    margin-left: 42px;
+    margin-left: 22px;
     text-align: left;
   }
 }
@@ -48,7 +61,7 @@ social: true # includes social icons at the bottom of the page
   content: "";
   position: absolute;
   bottom: -10px;   /* space below photo */
-  right: -10px;     /* slightly smaller space on right */
+  right: 10px;     /* slightly smaller space on right */
   width: 60%;
   height: 60%;
   border-bottom: 3px solid pink;
@@ -57,15 +70,6 @@ social: true # includes social icons at the bottom of the page
 </style>
 
 
-<style>
-body {
-  background-color: #FFFCFC;
-}
-  /* Top fixed bar background */
-.navbar, .navbar-fixed-top {
-  background-color: #FFE0E0 !important;
-}
-</style>
 
 
 
