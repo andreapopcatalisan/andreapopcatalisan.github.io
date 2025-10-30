@@ -36,8 +36,7 @@ body {
 
 
 
-
-<div class="profile">
+this is my code: <div class="profile">
   <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
        alt="Profile Photo">
 </div>
@@ -56,7 +55,7 @@ body {
   .profile {
     float: right;
     margin-top: 160px; 
-    margin-left: 42px;
+    margin-left: 22px;
     text-align: left;
   }
 }
@@ -74,7 +73,7 @@ body {
   content: "";
   position: absolute;
   bottom: -10px;   /* space below photo */
-  right: -10px;     /* slightly smaller space on right */
+  right: 10px;     /* slightly smaller space on right */
   width: 60%;
   height: 60%;
   border-bottom: 3px solid pink;
@@ -104,7 +103,7 @@ body {
   <strong>PhD student in Economics at PSE</strong>
 </p>
 </div>
-<img width="425" height="699" alt="image" src="https://github.com/user-attachments/assets/575c863c-6c19-4e62-99a7-b3dbf1105852" />
+
 
 
 <p style="text-align: justify;">
