@@ -24,28 +24,46 @@ body {
 
 
 
-<div class="profile">
-  <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
-       alt="Profile Photo">
+<div class="container">
+  <div class="profile">
+    <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
+         alt="Profile Photo">
+  </div>
+
+  <div class="info">
+    <h1 style="
+        display: inline-block;
+        font-size: 2.5em;
+        font-weight: 800;
+        color: #111;
+        margin-top: 0.55em;
+        margin-bottom: 0.4em;
+        border-bottom: 2px solid #F55878;
+        padding-bottom: 3px;
+      ">
+      Andrea Pop-Catalisan
+    </h1>
+    <p style="margin-top: -4px; font-size: 0.85em; color: #555;">
+      <strong>PhD student in Economics at PSE</strong>
+    </p>
+  </div>
 </div>
 
 <style>
+.container {
+  display: flex;
+  flex-direction: column; /* mobile: name first, then photo */
+  align-items: center;
+  text-align: center;
+}
+
+/* Photo styling */
 .profile {
-  position: relative; /* needed for the contour positioning */
+  position: relative;
   text-align: center;
   margin-left: 52px;
   margin-right: 15px;
   float: none;
-}
-
-/* For larger screens (laptops) */
-@media (min-width: 992px) {
-  .profile {
-    float: right;
-    margin-top: 160px; 
-    margin-left: 22px;
-    text-align: left;
-  }
 }
 
 .profile img {
@@ -60,37 +78,32 @@ body {
 .profile::after {
   content: "";
   position: absolute;
-  bottom: -10px;   /* space below photo */
-  right: 10px;     /* slightly smaller space on right */
+  bottom: -10px;
+  right: 10px;
   width: 60%;
   height: 60%;
   border-bottom: 3px solid pink;
   border-right: 3px solid pink;
 }
+
+/* Larger screens: keep your original desktop layout */
+@media (min-width: 992px) {
+  .container {
+    flex-direction: row-reverse; /* photo on right, name on left */
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  .profile {
+    float: right;
+    margin-top: 160px;
+    margin-left: 22px;
+    text-align: left;
+  }
+}
 </style>
 
 
-
-
-
-
-<div style="text-align: center;">
-  <h1 style="
-      display: inline-block;
-      font-size: 2.5em;
-      font-weight: 800;
-      color: #111;
-      margin-top: 0.55em;
-      margin-bottom: 0.4em;
-      border-bottom: 2px solid #F55878;
-      padding-bottom: 3px;
-    ">
-    Andrea Pop-Catalisan
-  </h1>
- <p style="margin-top: -4px; font-size: 0.85em; color: #555;">
-  <strong>PhD student in Economics at PSE</strong>
-</p>
-</div>
 
 <p style="text-align: justify;">
 <br><br>
