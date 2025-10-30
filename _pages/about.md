@@ -23,19 +23,6 @@ body {
 
 
 
-
-<style>
-body {
-  background-color: #FFFCFC;
-}
-  /* Top fixed bar background */
-.navbar, .navbar-fixed-top {
-  background-color: #FFE0E0 !important;
-}
-</style>
-
-
-
 <style>
 body {
   background-color: #FFFCFC;
@@ -46,28 +33,29 @@ body {
   background-color: #FFE0E0 !important;
 }
 
-/* Default (mobile-first) layout — photo below name */
+/* Default (for laptops/desktops) — your original style */
 .profile {
   position: relative;
-  text-align: center;
-  margin: 30px auto; /* centers on mobile */
-  float: none;
+  text-align: left;
+  margin-left: 22px;
+  margin-right: 15px;
+  float: right;
+  margin-top: 160px; 
 }
 
-/* Keep same photo size */
 .profile img {
   width: 250px;
   height: auto;
   display: block;
   border-radius: 0;
-  margin: 20px auto 10px;
+  margin-bottom: 10px;
 }
 
-/* Pink inverse L shape (_|) */
+/* Pink inverse L shape (_|) — original look */
 .profile::after {
   content: "";
   position: absolute;
-  bottom: -6px;   /* smaller distance between photo and line */
+  bottom: -10px;
   right: 60px;
   width: 60%;
   height: 60%;
@@ -75,18 +63,18 @@ body {
   border-right: 3px solid pink;
 }
 
-/* Laptops and larger screens */
-@media (min-width: 992px) {
+/* --- Mobile layout adjustments --- */
+@media (max-width: 991px) {
   .profile {
-    float: right;
-    margin-top: 160px;
-    margin-left: 22px;
-    text-align: left;
+    float: none;              /* stop floating right */
+    text-align: center;       /* center image */
+    margin: 30px auto;        /* center in viewport */
+    margin-top: 20px;         /* remove large top gap */
   }
 
   .profile::after {
-    bottom: -10px;  /* original distance restored */
-    right: 60px;
+    bottom: -4px;             /* smaller gap between photo and line */
+    right: 60px;              /* keep same size and position relative to photo */
     width: 60%;
     height: 60%;
     border-bottom: 3px solid pink;
@@ -119,7 +107,6 @@ body {
   <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
        alt="Profile Photo">
 </div>
-
 
 
 
