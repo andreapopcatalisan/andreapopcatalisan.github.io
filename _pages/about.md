@@ -30,7 +30,7 @@ social: true # includes social icons at the bottom of the page
   .profile {
     float: right;
     margin-top: 160px; 
-    margin-left: 32px;
+    margin-left: 42px;
     text-align: left;
   }
 }
@@ -48,7 +48,7 @@ social: true # includes social icons at the bottom of the page
   content: "";
   position: absolute;
   bottom: -10px;   /* space below photo */
-  right: -4px;     /* slightly smaller space on right */
+  right: -10px;     /* slightly smaller space on right */
   width: 60%;
   height: 60%;
   border-bottom: 3px solid pink;
