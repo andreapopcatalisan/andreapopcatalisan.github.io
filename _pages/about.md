@@ -73,7 +73,7 @@ body {
   content: "";
   position: absolute;
   bottom: -10px;   /* space below photo */
-  right: 40px;     /* slightly smaller space on right */
+  right: 60px;     /* slightly smaller space on right */
   width: 60%;
   height: 60%;
   border-bottom: 3px solid pink;
