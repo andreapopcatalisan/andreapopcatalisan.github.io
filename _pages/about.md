@@ -18,30 +18,43 @@ social: true # includes social icons at the bottom of the page
 
 <style>
 .profile {
-  position: relative;
-  display: inline-block;
+  position: relative; /* needed for the contour positioning */
+  text-align: center;
+  margin-left: 52px;
+  margin-right: 15px;
+  float: none;
 }
 
-/* Your image stays exactly as before */
+/* For larger screens (laptops) */
+@media (min-width: 992px) {
+  .profile {
+    float: right;
+    margin-top: 160px; 
+    margin-left: 32px;
+    text-align: left;
+  }
+}
+
 .profile img {
   width: 250px;
   height: auto;
   display: block;
+  border-radius: 0;
+  margin-bottom: 10px;
 }
 
-/* Add the inverse L shape ( _| ) */
+/* Pink inverse L shape (_|) */
 .profile::after {
   content: "";
   position: absolute;
-  bottom: -10px;   /* good spacing below */
-  right: -5px;     /* smaller space on the right */
+  bottom: -10px;   /* space below photo */
+  right: -4px;     /* slightly smaller space on right */
   width: 60%;
   height: 60%;
   border-bottom: 3px solid pink;
   border-right: 3px solid pink;
 }
 </style>
-
 
 
 <style>
