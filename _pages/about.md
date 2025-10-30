@@ -16,36 +16,32 @@ social: true # includes social icons at the bottom of the page
        alt="Profile Photo">
 </div>
 
-<div class="profile">
-  <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
-       alt="Profile Photo">
-</div>
-
 <style>
 .profile {
   position: relative;
   display: inline-block;
 }
 
-/* Image styling */
+/* Your image stays exactly as before */
 .profile img {
   width: 250px;
   height: auto;
   display: block;
 }
 
-/* Pink contour (_|) */
+/* Add the inverse L shape ( _| ) */
 .profile::after {
   content: "";
   position: absolute;
-  bottom: -10px;  /* space between photo and contour */
-  right: -10px;   /* space between photo and contour */
+  bottom: -10px;   /* good spacing below */
+  right: -5px;     /* smaller space on the right */
   width: 60%;
   height: 60%;
   border-bottom: 3px solid pink;
   border-right: 3px solid pink;
 }
 </style>
+
 
 
 <style>
