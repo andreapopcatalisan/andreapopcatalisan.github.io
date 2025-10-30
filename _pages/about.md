@@ -33,14 +33,12 @@ body {
   background-color: #FFE0E0 !important;
 }
 
-/* Default (for laptops/desktops) — your original style */
 .profile {
-  position: relative;
-  text-align: left;
-  margin-left: 22px;
+  position: relative; /* needed for the contour positioning */
+  text-align: center;
+  margin-left: 52px;
   margin-right: 15px;
-  float: right;
-  margin-top: 160px; 
+  float: none;
 }
 
 .profile img {
@@ -51,30 +49,21 @@ body {
   margin-bottom: 10px;
 }
 
-/* Pink inverse L shape (_|) — original look */
-.profile::after {
-  content: "";
-  position: absolute;
-  bottom: -10px;
-  right: 60px;
-  width: 60%;
-  height: 60%;
-  border-bottom: 3px solid pink;
-  border-right: 3px solid pink;
-}
-
-/* --- Mobile layout adjustments --- */
-@media (max-width: 991px) {
+/* For larger screens (laptops and up) */
+@media (min-width: 992px) {
   .profile {
-    float: none;              /* stop floating right */
-    text-align: center;       /* center image */
-    margin: 30px auto;        /* center in viewport */
-    margin-top: 20px;         /* remove large top gap */
+    float: right;
+    margin-top: 160px; 
+    margin-left: 22px;
+    text-align: left;
   }
 
+  /* Pink inverse L shape (_|) only on laptops */
   .profile::after {
-    bottom: -4px;             /* smaller gap between photo and line */
-    right: 60px;              /* keep same size and position relative to photo */
+    content: "";
+    position: absolute;
+    bottom: -10px;   /* space below photo */
+    right: 60px;     /* slightly smaller space on right */
     width: 60%;
     height: 60%;
     border-bottom: 3px solid pink;
@@ -83,31 +72,28 @@ body {
 }
 </style>
 
-<!-- Name and title -->
-<div style="text-align: center;">
-  <h1 style="
-      display: inline-block;
-      font-size: 2.5em;
-      font-weight: 800;
-      color: #111;
-      margin-top: 0.55em;
-      margin-bottom: 0.4em;
-      border-bottom: 2px solid #F55878;
-      padding-bottom: 3px;
-    ">
-    Andrea Pop-Catalisan
-  </h1>
-  <p style="margin-top: -4px; font-size: 0.85em; color: #555;">
-    <strong>PhD student in Economics at PSE</strong>
-  </p>
-</div>
-
-<!-- Profile photo -->
 <div class="profile">
   <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
        alt="Profile Photo">
 </div>
 
+<div style="text-align: center;"> 
+  <h1 style=" 
+    display: inline-block; 
+    font-size: 2.5em;
+    font-weight: 800; 
+    color: #111; 
+    margin-top: 0.55em; 
+    margin-bottom: 0.4em; 
+    border-bottom: 2px solid #F55878; 
+    padding-bottom: 3px; 
+    "> 
+    Andrea Pop-Catalisan
+  </h1> 
+  <p style="margin-top: -4px; font-size: 0.85em; color: #555;"> <strong>PhD student in Economics at PSE</strong> 
+  </p>
+</div> 
+</style>
 
 
 
