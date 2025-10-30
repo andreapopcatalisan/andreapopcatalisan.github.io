@@ -36,7 +36,7 @@ body {
 
 
 
-this is my code: <div class="profile">
+<div class="profile">
   <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
        alt="Profile Photo">
 </div>
