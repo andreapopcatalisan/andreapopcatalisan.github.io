@@ -36,50 +36,72 @@ body {
 
 
 
-<div class="profile">
-  <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
-       alt="Profile Photo">
-</div>
-
 <style>
+body {
+  background-color: #FFFCFC;
+}
+
+/* Top fixed bar background */
+.navbar, .navbar-fixed-top {
+  background-color: #FFE0E0 !important;
+}
+
+/* Default (mobile-first) styles */
 .profile {
-  position: relative; /* needed for the contour positioning */
+  position: relative;
   text-align: center;
-  margin-left: 52px;
-  margin-right: 15px;
+  margin: 40px auto; /* centers content on small screens */
   float: none;
 }
 
-/* For larger screens (laptops) */
-@media (min-width: 992px) {
-  .profile {
-    float: right;
-    margin-top: 160px; 
-    margin-left: 22px;
-    text-align: left;
-  }
-}
-
 .profile img {
-  width: 250px;
+  width: 180px;        /* smaller image on phones */
   height: auto;
   display: block;
+  margin: 20px auto 10px;
   border-radius: 0;
-  margin-bottom: 10px;
 }
 
-/* Pink inverse L shape (_|) */
+/* Smaller pink inverse L shape (_|) for phones */
 .profile::after {
   content: "";
   position: absolute;
-  bottom: -10px;   /* space below photo */
-  right: 60px;     /* slightly smaller space on right */
-  width: 60%;
-  height: 60%;
-  border-bottom: 3px solid pink;
-  border-right: 3px solid pink;
+  bottom: -5px;
+  right: 30%;
+  width: 30%;
+  height: 30%;
+  border-bottom: 2px solid pink;
+  border-right: 2px solid pink;
+}
+
+/* For larger screens (laptops/desktops) */
+@media (min-width: 992px) {
+  .profile {
+    float: right;
+    margin-top: 160px;
+    margin-left: 22px;
+    text-align: left;
+  }
+
+  .profile img {
+    width: 250px;
+  }
+
+  /* Bigger pink “_|” line for laptops */
+  .profile::after {
+    bottom: -10px;
+    right: 60px;
+    width: 60%;
+    height: 60%;
+    border-bottom: 3px solid pink;
+    border-right: 3px solid pink;
+  }
 }
 </style>
+
+<div class="profile">
+  <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" alt="Profile Photo">
+</div>
 
 
 
