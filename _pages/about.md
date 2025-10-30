@@ -46,35 +46,36 @@ body {
   background-color: #FFE0E0 !important;
 }
 
-/* Default (mobile-first) styles */
+/* Default (mobile-first) layout — photo below name */
 .profile {
   position: relative;
   text-align: center;
-  margin: 40px auto; /* centers content on small screens */
+  margin: 30px auto; /* centers on mobile */
   float: none;
 }
 
+/* Keep same photo size */
 .profile img {
-  width: 180px;        /* smaller image on phones */
+  width: 250px;
   height: auto;
   display: block;
-  margin: 20px auto 10px;
   border-radius: 0;
+  margin: 20px auto 10px;
 }
 
-/* Smaller pink inverse L shape (_|) for phones */
+/* Pink inverse L shape (_|) */
 .profile::after {
   content: "";
   position: absolute;
-  bottom: -5px;
-  right: 30%;
-  width: 30%;
-  height: 30%;
-  border-bottom: 2px solid pink;
-  border-right: 2px solid pink;
+  bottom: -6px;   /* smaller distance between photo and line */
+  right: 60px;
+  width: 60%;
+  height: 60%;
+  border-bottom: 3px solid pink;
+  border-right: 3px solid pink;
 }
 
-/* For larger screens (laptops/desktops) */
+/* Laptops and larger screens */
 @media (min-width: 992px) {
   .profile {
     float: right;
@@ -83,13 +84,8 @@ body {
     text-align: left;
   }
 
-  .profile img {
-    width: 250px;
-  }
-
-  /* Bigger pink “_|” line for laptops */
   .profile::after {
-    bottom: -10px;
+    bottom: -10px;  /* original distance restored */
     right: 60px;
     width: 60%;
     height: 60%;
@@ -99,15 +95,7 @@ body {
 }
 </style>
 
-<div class="profile">
-  <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" alt="Profile Photo">
-</div>
-
-
-
-
-
-
+<!-- Name and title -->
 <div style="text-align: center;">
   <h1 style="
       display: inline-block;
@@ -121,10 +109,20 @@ body {
     ">
     Andrea Pop-Catalisan
   </h1>
- <p style="margin-top: -4px; font-size: 0.85em; color: #555;">
-  <strong>PhD student in Economics at PSE</strong>
-</p>
+  <p style="margin-top: -4px; font-size: 0.85em; color: #555;">
+    <strong>PhD student in Economics at PSE</strong>
+  </p>
 </div>
+
+<!-- Profile photo -->
+<div class="profile">
+  <img src="https://andreapopcatalisan.github.io/assets/img/apcprofile2.jpeg" 
+       alt="Profile Photo">
+</div>
+
+
+
+
 
 
 
