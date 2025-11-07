@@ -103,7 +103,7 @@ body {
 
 I am a Ph.D. student in Economics at the <a href="https://www.parisschoolofeconomics.eu/" target="_blank">Paris School of Economics (PSE)</a>.  I completed my master's and bachelor's degrees in Economics at <a href="https://www.uc3m.es/inicio" target="_blank">University Carlos III of Madrid (UC3M)</a>. My research interests primarily focus on family, health, and gender economics. <br><br>
 
-Previously, I worked as a Research Analyst at the European Central Bank in DG Economics and DG Research. I also completed a pre-doc at the Barcelona School of Economics & UPF and a research internship at the Bank of Spain.<br><br>
+Previously, I worked as a Research Analyst at the European Central Bank in DG Economics & DG Research. I also completed a pre-doc at the Barcelona School of Economics & UPF and a research internship at the Bank of Spain.<br><br>
 
 You can find my <a href="https://andreapopcatalisan.github.io/assets/CV_APC.pdf" target="_blank">CV</a> here and learn more about my <a href="https://andreapopcatalisan.github.io/research/" target="_blank">research</a> here.<br><br>
 
