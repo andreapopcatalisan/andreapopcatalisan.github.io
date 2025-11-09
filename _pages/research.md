@@ -143,7 +143,7 @@ WORKING PAPERS
   <span style="font-size = 16px;">(with <a target="_blank" href="https://svemanfre.github.io/">Sveva Manfredi</a>)</span>
 
   <p class="abstract">
-   
+    In this paper we study the potential “settlement costs” of cohabitation using a pseudo–event-study design. We approximate within-person dynamics by comparing individuals at different durations since moving in with a partner, while controlling for observables and time-invariant regional factors.
   </p>
 </div>
 </div>
@@ -152,7 +152,7 @@ WORKING PAPERS
 
 <div class="container">
 <div class="jumbotron no-image">
-  <h6 class="paper-title"><a target="_blank" href="#">Surviving School Holidays</a></h6>  
+  <h6 class="paper-title"><a target="_blank" href="#">Surviving the School Holidays</a></h6>  
   <span style="font-size = 16px;">(with <a target="_blank" href="https://sites.google.com/view/manuelestevolago/about?authuser=0/">Manuel E. Lago</a>)</span>
 
   <p class="abstract">
