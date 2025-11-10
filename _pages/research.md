@@ -143,7 +143,7 @@ WORKING PAPERS
   <span style="font-size = 16px;">(with <a target="_blank" href="https://svemanfre.github.io/">Sveva Manfredi</a>)</span>
 
   <p class="abstract">
-    In this paper we study the potential “settlement costs” of cohabitation using a pseudo–event-study design. We approximate within-person dynamics by comparing individuals at different durations since moving in with a partner, while controlling for observables and time-invariant regional factors.
+    We study the potential “settlement costs” of cohabitation using a pseudo–event-study design. We approximate within-person dynamics by comparing individuals at different durations since moving in with a partner, while controlling for observables and time-invariant regional factors.
   </p>
 </div>
 </div>
