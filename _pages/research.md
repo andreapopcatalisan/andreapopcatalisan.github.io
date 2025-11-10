@@ -119,22 +119,27 @@ WORKING PAPERS
 </div>
 
 
-
 <div class="container">
-<div class="jumbotron no-image">
-  <h6 class="paper-title"><a target="_blank" href="#">Empty Nest Syndrome: Parents’ Labor Supply and Well-Being</a></h6> 
-  <span style="font-size = 16px;"> <b></b></span>
-  
-  <p class="abstract">
-    Exploring how children's departure from the household affects parents' work patterns and psychological outcomes.
-  </p>
+  <div class="jumbotron no-image">
+    <h6 class="paper-title">
+      <a target="_blank" href="#">
+        Empty Nest Syndrome: Parents’ Labor Supply and Well-Being
+      </a>
+    </h6>
 
-  <p class="presentation-info">
-  Presented at: European Health Economics Association (Brussels); ECONtribute European Doctoral Program Jamboree (Bonn); PSE Behavioural Atelier (Paris); GENDHI (EHESS, Paris).
-  </p>
-  
+    <button class="toggle-abstract">Abstract</button>
+    <p class="abstract-text" style="display:none;">
+      Exploring how children's departure from the household affects parents' work patterns and psychological outcomes.
+    </p>
+
+    <p class="presentation-info">
+      Presented at: European Health Economics Association (Brussels); ECONtribute European Doctoral Program Jamboree (Bonn); PSE Behavioural Atelier (Paris); GENDHI (EHESS, Paris).
+    </p>
+  </div>
 </div>
-</div>
+
+
+
 
 
 <div class="container">
