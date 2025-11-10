@@ -134,7 +134,7 @@ WORKING PAPERS
       </p>
     </details>
 
-<p class="presentation-info" style="margin-top: 20px;">
+<p class="presentation-info" style="margin-top: 12px;">
   Presented at: European Health Economics Association (Brussels); ECONtribute European Doctoral Program Jamboree (Bonn); PSE Behavioural Atelier (Paris); GENDHI (EHESS, Paris).
 </p>
   </div>
@@ -164,9 +164,13 @@ WORKING PAPERS
   <h6 class="paper-title"><a target="_blank" href="#">Surviving the School Holidays</a></h6>  
   <span style="font-size = 16px;">(with <a target="_blank" href="https://sites.google.com/view/manuelestevolago/about?authuser=0/">Manuel E. Lago</a>)</span>
 
-  <p class="abstract">
-   
-  </p>
+      <details class="abstract-box">
+      <summary><span class="triangle"></span>Abstract</summary>
+      <p>
+        Exploiting the quasi-random timing of interviews relative to school holidays, we assess whether parental responsibilities induce short-term changes in well-being and work behavior.
+      </p>
+    </details>
+    
 </div>
 </div>
 
@@ -188,9 +192,14 @@ Other Research Contributions
 <div class="jumbotron no-image">
    <h6 class="paper-title"><a target="_blank" href="#">Inequality, Repression, and Redistributive Preferences in Catalonia</a></h6> 
   <span style="font-size = 16px;">(with <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a> and Daniel Carrera)</span>
-  <p class="abstract">
-    Using a regression discontinuity design (RDD) comparing municipalities close to but on the opposite side of the historical frontier, this paper shows that the existence of this frontier separating areas conquered relatively slowly (the North of Southern Catalonia) and those conquered faster (the South of Southern Catalonia) led to ground-breaking differences in preferences for socialism and redistribution, both historically and today. 
-  </p>
+  
+        <details class="abstract-box">
+      <summary><span class="triangle"></span>Abstract</summary>
+      <p>
+          Using a regression discontinuity design (RDD) comparing municipalities close to but on the opposite side of the historical frontier, this paper shows that the existence of this frontier separating areas conquered relatively slowly (the North of Southern Catalonia) and those conquered faster (the South of Southern Catalonia) led to ground-breaking differences in preferences for socialism and redistribution, both historically and today. 
+      </p>
+    </details>
+    
 </div>
 </div>
 
