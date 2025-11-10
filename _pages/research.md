@@ -127,23 +127,18 @@ WORKING PAPERS
       </a>
     </h6>
 
-    <button class="toggle-abstract">Abstract</button>
-    <p class="abstract-text" style="display:none;">
-      Exploring how children's departure from the household affects parents' work patterns and psychological outcomes.
-    </p>
+    <details class="abstract-box">
+      <summary><span class="triangle"></span>Abstract</summary>
+      <p>
+        Exploring how children's departure from the household affects parents' work patterns and psychological outcomes.
+      </p>
+    </details>
 
     <p class="presentation-info">
       Presented at: European Health Economics Association (Brussels); ECONtribute European Doctoral Program Jamboree (Bonn); PSE Behavioural Atelier (Paris); GENDHI (EHESS, Paris).
     </p>
   </div>
 </div>
-
-<script>
-document.querySelector('.toggle-abstract').addEventListener('click', function() {
-  const abstract = document.querySelector('.abstract-text');
-  abstract.style.display = abstract.style.display === 'none' ? 'block' : 'none';
-});
-</script>
 
 
 
