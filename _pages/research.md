@@ -138,6 +138,12 @@ WORKING PAPERS
   </div>
 </div>
 
+<script>
+document.querySelector('.toggle-abstract').addEventListener('click', function() {
+  const abstract = document.querySelector('.abstract-text');
+  abstract.style.display = abstract.style.display === 'none' ? 'block' : 'none';
+});
+</script>
 
 
 
