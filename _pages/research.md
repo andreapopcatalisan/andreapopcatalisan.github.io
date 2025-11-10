@@ -134,9 +134,9 @@ WORKING PAPERS
       </p>
     </details>
 
-    <p class="presentation-info">
-      Presented at: European Health Economics Association (Brussels); ECONtribute European Doctoral Program Jamboree (Bonn); PSE Behavioural Atelier (Paris); GENDHI (EHESS, Paris).
-    </p>
+<p class="presentation-info" style="margin-top: 20px;">
+  Presented at: European Health Economics Association (Brussels); ECONtribute European Doctoral Program Jamboree (Bonn); PSE Behavioural Atelier (Paris); GENDHI (EHESS, Paris).
+</p>
   </div>
 </div>
 
@@ -148,9 +148,12 @@ WORKING PAPERS
   <h6 class="paper-title"><a target="_blank" href="#">The Price of Settling Down</a></h6>  
   <span style="font-size = 16px;">(with <a target="_blank" href="https://svemanfre.github.io/">Sveva Manfredi</a>)</span>
 
-  <p class="abstract">
-    We study the potential “settlement costs” of cohabitation using a pseudo–event-study design. We approximate within-person dynamics by comparing individuals at different durations since moving in with a partner, while controlling for observables and time-invariant regional factors.
-  </p>
+  <details class="abstract-box">
+      <summary><span class="triangle"></span>Abstract</summary>
+      <p>
+        We study the potential “settlement costs” of cohabitation using a pseudo–event-study design. We approximate within-person dynamics by comparing individuals at different durations since moving in with a partner, while controlling for observables and time-invariant regional factors.
+      </p>
+    </details>
 </div>
 </div>
 
