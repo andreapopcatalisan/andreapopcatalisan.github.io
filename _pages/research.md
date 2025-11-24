@@ -189,19 +189,29 @@ Other Research Contributions
 
 
 <div class="container">
-<div class="jumbotron no-image">
-   <h6 class="paper-title"><a target="_blank" href="#">Inequality and Social Conflict in Catalonia</a></h6> 
-  <span style="font-size = 16px;">(with <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>, href="[https://sites.google.com/view/stefanofalcone](https://gianlucarusso.github.io/)">Gianluca Russo</a> and Daniel Carrera)</span>
-  
+  <div class="jumbotron no-image">
+    <h6 class="paper-title">
+      <a target="_blank" href="#">Inequality and Social Conflict in Catalonia</a>
+    </h6> 
+    <span style="font-size:16px;">
+      (with 
+      <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>, 
+      <a target="_blank" href="https://gianlucarusso.github.io/">Gianluca Russo</a>, 
+      and Daniel Carrera)
+    </span>
+    
         <details class="abstract-box">
       <summary><span class="triangle"></span>Abstract</summary>
       <p>
           Using a regression discontinuity design (RDD) comparing municipalities close to but on the opposite side of the historical frontier, this paper shows that the existence of this frontier separating areas conquered relatively slowly (the North of Southern Catalonia) and those conquered faster (the South of Southern Catalonia) led to ground-breaking differences in preferences for socialism and redistribution, both historically and today. 
       </p>
-    </details>
-    
+
+ <p style="font-size: 13px;">
+   [<a href="[https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/](https://www.5centims.cat/category/economia-ecologica/)" target="_blank" style="color: #B45346">5centims</a>]
+  </p>
 </div>
 </div>
+
 
 
 <div class="container">
