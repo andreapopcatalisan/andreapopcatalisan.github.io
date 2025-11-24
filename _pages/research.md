@@ -210,30 +210,14 @@ Other Research Contributions
       </p>
     </details>
 
-    <!-- MEDIA COVERAGE OUTSIDE ABSTRACT -->
-    <p class="presentation-info"><b>Media Coverage:</b></p>
-    <p style="font-size: 13px;">
-      [<a href="https://www.5centims.cat/category/economia-ecologica/" 
-          target="_blank" style="color: #B45346">5centims</a>]
-    </p>
-
+    <p class="presentation-info" style="margin-top: 7px;">
+  Media Coverage:[<a href="https://www.5centims.cat/category/economia-ecologica/" target="_blank" style="color: #B45346">5centims</a>]
+  </p>
   </div>
 </div>
 
 
-<!-- ====== TWO BOXES BETWEEN PAPERS ====== -->
 
-<div class="container">
-  <div class="jumbotron no-image" style="height:120px;">
-    <p style="text-align:center; color:#888;">(Placeholder Box 1)</p>
-  </div>
-</div>
-
-<div class="container">
-  <div class="jumbotron no-image" style="height:120px;">
-    <p style="text-align:center; color:#888;">(Placeholder Box 2)</p>
-  </div>
-</div>
 
 
 <!-- ====== SECOND PAPER ====== -->
