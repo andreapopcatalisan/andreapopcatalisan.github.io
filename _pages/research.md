@@ -190,8 +190,8 @@ Other Research Contributions
 
 <div class="container">
 <div class="jumbotron no-image">
-   <h6 class="paper-title"><a target="_blank" href="#">Inequality, Repression, and Redistributive Preferences in Catalonia</a></h6> 
-  <span style="font-size = 16px;">(with <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a> and Daniel Carrera)</span>
+   <h6 class="paper-title"><a target="_blank" href="#">Inequality and Social Conflict in Catalonia</a></h6> 
+  <span style="font-size = 16px;">(with <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>, href="[https://sites.google.com/view/stefanofalcone](https://gianlucarusso.github.io/)">Gianluca Russo</a> and Daniel Carrera)</span>
   
         <details class="abstract-box">
       <summary><span class="triangle"></span>Abstract</summary>
