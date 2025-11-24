@@ -192,43 +192,73 @@ Other Research Contributions
   <div class="jumbotron no-image">
     <h6 class="paper-title">
       <a target="_blank" href="#">Inequality and Social Conflict in Catalonia</a>
-    </h6> 
+    </h6>
     <span style="font-size:16px;">
       (with 
       <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>, 
       <a target="_blank" href="https://gianlucarusso.github.io/">Gianluca Russo</a>, 
       and Daniel Carrera)
     </span>
-    
-        <details class="abstract-box">
+
+    <details class="abstract-box">
       <summary><span class="triangle"></span>Abstract</summary>
       <p>
-          Using a regression discontinuity design (RDD) comparing municipalities close to but on the opposite side of the historical frontier, this paper shows that the existence of this frontier separating areas conquered relatively slowly (the North of Southern Catalonia) and those conquered faster (the South of Southern Catalonia) led to ground-breaking differences in preferences for socialism and redistribution, both historically and today. 
+        Using a regression discontinuity design (RDD) comparing municipalities close to but on the opposite side 
+        of the historical frontier, this paper shows that the existence of this frontier separating areas conquered 
+        relatively slowly (the North of Southern Catalonia) and those conquered faster (the South of Southern Catalonia) 
+        led to ground-breaking differences in preferences for socialism and redistribution, both historically and today.
       </p>
+    </details>
 
- <p style="font-size: 13px;">
-   [<a href="[https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/](https://www.5centims.cat/category/economia-ecologica/)" target="_blank" style="color: #B45346">5centims</a>]
-  </p>
+    <!-- MEDIA COVERAGE OUTSIDE ABSTRACT -->
+    <p class="presentation-info"><b>Media Coverage:</b></p>
+    <p style="font-size: 13px;">
+      [<a href="https://www.5centims.cat/category/economia-ecologica/" 
+          target="_blank" style="color: #B45346">5centims</a>]
+    </p>
+
+  </div>
 </div>
-</div>
 
 
+<!-- ====== TWO BOXES BETWEEN PAPERS ====== -->
 
 <div class="container">
-<div class="jumbotron no-image">
-  <h6 class="paper-title"><a target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3762043">Banking Crises Without Panics</a></h6> 
-  <span style="font-size = 16px;"> <b></b></span>
-  <p class="abstract">
-    During my stay at the European Central Bank (ECB), I provided research assistance to Luc Laeven and Matthew Baron.
-  </p>
-  <p class="presentation-info">
-  Presented at: European Central Bank.
-  </p>
-</div>
+  <div class="jumbotron no-image" style="height:120px;">
+    <p style="text-align:center; color:#888;">(Placeholder Box 1)</p>
+  </div>
 </div>
 
+<div class="container">
+  <div class="jumbotron no-image" style="height:120px;">
+    <p style="text-align:center; color:#888;">(Placeholder Box 2)</p>
+  </div>
+</div>
 
 
-<br>
+<!-- ====== SECOND PAPER ====== -->
+
+<div class="container">
+  <div class="jumbotron no-image">
+    <h6 class="paper-title">
+      <a target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3762043">
+        Banking Crises Without Panics
+      </a>
+    </h6>
+    <span style="font-size:16px;"></span>
+
+    <p class="abstract">
+      During my stay at the European Central Bank (ECB), I provided research assistance to 
+      Luc Laeven and Matthew Baron.
+    </p>
+
+    <p class="presentation-info">
+      Presented at: European Central Bank.
+    </p>
+  </div>
+</div>
+
+
+
 
 
