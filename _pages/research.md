@@ -210,9 +210,10 @@ Other Research Contributions
       </p>
     </details>
 
-    <p class="presentation-info" style="margin-top: 7px;">
-  Media Coverage: [<a href="[[https://www.5centims.cat/category/economia-ecologica/](https://www.5centims.cat/desigualtat-i-conflicte-social-a-catalunya/)]" target="_blank" style="color: #B45346">5centims</a>]
-  </p>
+   <p class="presentation-info" style="margin-top: 7px;">
+  Media Coverage: 
+  [<a href="https://www.5centims.cat/desigualtat-i-conflicte-social-a-catalunya/" target="_blank" style="color: #B45346">5centims</a>]
+</p>
   </div>
 </div>
 
