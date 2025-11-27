@@ -11,6 +11,12 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
+<script>
+  document.title = "Andrea Pop-Catalisan";
+</script>
+
+
+
 <style>
 body {
   background-color: #FFFCFC;
