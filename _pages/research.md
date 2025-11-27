@@ -2,12 +2,10 @@
 layout: page
 permalink: /research/
 title: RESEARCH
+browser_title: Andrea Pop-Catalisan
 nav: true
 nav_order: 1
 ---
-
-{% capture custom_title %}<title>Research - Andrea Pop-Catalisan</title>{% endcapture %}
-{{ custom_title | strip_newlines }}
 
 
 
