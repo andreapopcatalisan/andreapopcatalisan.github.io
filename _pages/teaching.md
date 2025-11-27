@@ -9,7 +9,7 @@ nav_order: 2
 
 
 <script>
-  document.title = "Teaching - Andrea Pop-Catalisan";
+  document.title = "Teaching: Andrea Pop-Catalisan";
 </script>
 
 
