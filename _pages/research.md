@@ -217,8 +217,6 @@ shares for radical-left parties in all democratic elections since 1977, a greate
 
 
 
- Quarterly Journal of Economics #B45346
-
 
 <!-- ====== SECOND PAPER ====== -->
 
