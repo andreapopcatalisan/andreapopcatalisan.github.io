@@ -229,9 +229,14 @@ shares for radical-left parties in all democratic elections since 1977, a greate
     </h6>
     <span style="font-size:16px;"></span>
 
- <p class="presentation-info" style="margin-top: 7px;">
-  [<a href="[https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf052/8314061](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf052/8314061)" target="_blank" style="color: #B45346">Quarterly Journal of Economics</a>]
+<p class="presentation-info" style="margin-top: 7px;">
+  [<a href="https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf052/8314061" 
+      target="_blank" 
+      style="color: #B45346">
+    Quarterly Journal of Economics
+  </a>]
 </p>
+
 
     <p class="abstract">
       During my stay at the European Central Bank (ECB), I provided research assistance to 
