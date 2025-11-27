@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 <script>
-  document.title = "RESEARCH - Andrea Pop-Catalisan";
+  document.title = "Research - Andrea Pop-Catalisan";
 </script>
 
 <div class="post">
