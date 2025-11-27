@@ -10,16 +10,6 @@ nav_order: 1
   document.title = "Research - Andrea Pop-Catalisan";
 </script>
 
-<div class="post">
-  <header class="post-header">
-    <p class="post-description">{{ page.description }}</p>
-  </header>
-
-  <article>
-    {{ content }}
-  </article>
-</div>
-
 
 <style>
 body {
