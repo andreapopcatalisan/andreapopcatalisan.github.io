@@ -2,6 +2,7 @@
 layout: page
 permalink: /research/
 title: RESEARCH
+browser_title: Research - Andrea Pop-Catalisan
 nav: true
 nav_order: 1
 ---
