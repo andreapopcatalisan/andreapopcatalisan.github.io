@@ -129,7 +129,7 @@ WORKING PAPERS
 
     <details class="abstract-box">
       <summary><span class="triangle"></span>Abstract</summary>
-      <p>
+       <p style="text-align: justify;">
         Exploring how children's departure from the household affects parents' work patterns and psychological outcomes.
       </p>
     </details>
@@ -150,7 +150,7 @@ WORKING PAPERS
 
   <details class="abstract-box">
       <summary><span class="triangle"></span>Abstract</summary>
-      <p>
+       <p style="text-align: justify;">
         We study the potential “settlement costs” of cohabitation using a pseudo–event-study design. We approximate within-person dynamics by comparing individuals at different durations since moving in with a partner, while controlling for observables and time-invariant regional factors.
       </p>
     </details>
@@ -166,7 +166,7 @@ WORKING PAPERS
 
       <details class="abstract-box">
       <summary><span class="triangle"></span>Abstract</summary>
-      <p>
+       <p style="text-align: justify;">
         Exploiting the quasi-random timing of interviews relative to school holidays, we assess whether parental responsibilities induce short-term changes in well-being and work behavior.
       </p>
     </details>
