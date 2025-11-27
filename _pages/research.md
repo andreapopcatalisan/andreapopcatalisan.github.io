@@ -2,11 +2,23 @@
 layout: page
 permalink: /research/
 title: RESEARCH
-browser_title: Andrea Pop-Catalisan
 nav: true
 nav_order: 1
 ---
 
+<script>
+  document.title = "RESEARCH - Andrea Pop-Catalisan";
+</script>
+
+<div class="post">
+  <header class="post-header">
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+
+  <article>
+    {{ content }}
+  </article>
+</div>
 
 
 <style>
