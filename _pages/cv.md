@@ -1,5 +1,5 @@
 ---
-permalink: /assets/CV_APC.pdf
+permalink: /assets/CV_ANDREAPOP.pdf
 title: CV
 nav: true
 nav_order: 3
