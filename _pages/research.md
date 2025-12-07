@@ -180,14 +180,13 @@ WORKING PAPERS
 
 
 
-
 <!-------------------
 Other Research Contributions
 --------------------->
 
 <div style="text-align: center;">
   <h2 style="display: inline-block; margin-bottom: 0; border-bottom: 2px solid var(--global-theme-color); padding-bottom: 3px;">
-    Other Research Contributions
+  Working Papers
   </h2>
 </div>
 
@@ -212,6 +211,7 @@ shares for radical-left parties in all democratic elections since 1977, a greate
       </p>
     </details>
 
+ Draft coming soon
    <p class="presentation-info" style="margin-top: 7px;">
   Media Coverage: 
   [<a href="https://www.5centims.cat/desigualtat-i-conflicte-social-a-catalunya/" target="_blank" style="color: #B45346">5centims</a>]
@@ -220,7 +220,11 @@ shares for radical-left parties in all democratic elections since 1977, a greate
 </div>
 
 
-
+<div style="text-align: center;">
+  <h2 style="display: inline-block; margin-bottom: 0; border-bottom: 2px solid var(--global-theme-color); padding-bottom: 3px;">
+    Other Research Contributions
+  </h2>
+</div>
 
 <!-- ====== SECOND PAPER ====== -->
 
