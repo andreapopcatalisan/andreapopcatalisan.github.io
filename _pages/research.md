@@ -211,7 +211,9 @@ shares for radical-left parties in all democratic elections since 1977, a greate
       </p>
     </details>
 
- Draft coming soon
+<em style="font-size: 0.9em; font-style: italic; color:#555;">
+  Draft coming soon
+</em>
    <p class="presentation-info" style="margin-top: 7px;">
   Media Coverage: 
   [<a href="https://www.5centims.cat/desigualtat-i-conflicte-social-a-catalunya/" target="_blank" style="color: #B45346">5centims</a>]
