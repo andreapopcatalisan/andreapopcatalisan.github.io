@@ -224,7 +224,7 @@ shares for radical-left parties in all democratic elections since 1977, a greate
 
 <div style="text-align: center;">
   <h2 style="display: inline-block; margin-bottom: 0; border-bottom: 2px solid var(--global-theme-color); padding-bottom: 3px;">
-    Other Research Contributions
+   Research Contributions
   </h2>
 </div>
 
