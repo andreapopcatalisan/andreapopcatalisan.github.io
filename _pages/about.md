@@ -138,8 +138,8 @@ body {
 
 <p style="
   text-align: justify;   
-  font-size: 1.12em;
-  font-weight: 400;
+  font-size: 1.02em;
+  font-weight: 200;
   color: #333;
   line-height: 1.55em;
 ">
