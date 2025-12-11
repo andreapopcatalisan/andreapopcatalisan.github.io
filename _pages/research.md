@@ -131,26 +131,27 @@ WORKING PAPERS
 </div>
 
 
-<div class="container" style="font-family: 'EB Garamond', serif; line-height: 1.55em; color: #333;">
+
+<div class="container">
   <div class="jumbotron no-image">
     
     <!-- Paper title -->
-    <h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 600; margin-bottom: 0.5em;">
-      <a target="_blank" href="#" style="font-family: 'EB Garamond', serif; color: inherit; text-decoration: none;">
+    <h6 class="paper-title">
+      <a target="_blank" href="#">
         Empty Nest Syndrome: Parents’ Labor Supply and Well-Being
       </a>
     </h6>
 
     <!-- Abstract -->
-    <details class="abstract-box" style="margin-top: 0.5em;">
+    <details class="abstract-box">
       <summary><span class="triangle"></span>Abstract</summary>
-      <p style="text-align: justify; font-family: 'EB Garamond', serif; margin-top: 0.3em;">
+      <p style="text-align: justify;">
         Exploring how children's departure from the household affects parents' work patterns and psychological outcomes.
       </p>
     </details>
 
-    <!-- Presentation info -->
-    <p class="presentation-info" style="margin-top: 0.8em; font-family: 'EB Garamond', serif; font-size: 0.95em; color: #555;">
+    <!-- Presented at text in LaTeX-style -->
+    <p class="presentation-info" style="margin-top: 7px; font-family: 'EB Garamond', serif;">
       Presented at: European Health Economics Association (Brussels); ECONtribute European Doctoral Program Jamboree (Bonn); PSE Behavioural Atelier (Paris); GENDHI (EHESS, Paris).
     </p>
 
