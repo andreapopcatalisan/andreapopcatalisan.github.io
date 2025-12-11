@@ -137,11 +137,11 @@ WORKING PAPERS
   <div class="jumbotron no-image">
     
     <!-- Paper title -->
-    <h6 class="paper-title">
-      <a target="_blank" href="#">
-        Empty Nest Syndrome: Parents’ Labor Supply and Well-Being
-      </a>
-    </h6>
+  <h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 600;">
+  <a target="_blank" href="#" style="font-family: 'EB Garamond', serif; color: inherit; text-decoration: none;">
+    Empty Nest Syndrome: Parents’ Labor Supply and Well-Being
+  </a>
+</h6>
 
     <!-- Abstract -->
     <details class="abstract-box">
