@@ -114,7 +114,7 @@ body {
 <p style="
   text-align: justify;
   font-family: 'EB Garamond', serif;
-  font-size: 1.05em;
+  font-size: 1.15em;
   color: #333;
   line-height: 1.55em;
 ">
