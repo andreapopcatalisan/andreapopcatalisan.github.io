@@ -136,7 +136,7 @@ WORKING PAPERS
 <div class="container">
   <div class="jumbotron no-image">
     
-<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 700;">
+<h6 class="paper-title" style="font-family: '', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
     color: #BF245F;  /* your custom color */
     font-weight: 700; /* bold */
