@@ -13,13 +13,15 @@ nav_order: 1
 
 <style>
 body {
-  background-color: #FFFCFC;
+  background-color: #FFFCFB;
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFE0E0 !important;
+  background-color: #F7D8D6 !important;
 }
 </style>
+
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
 
 
 
@@ -90,7 +92,7 @@ body {
   }
 
   .paper-title a {
-    color: #F55878; /* Match the default link color */
+    color: #BF245F; /* Match the default link color */
     text-decoration: none;
     font-weight: bold;
   }
@@ -116,8 +118,14 @@ WORKING PAPERS
 --------------------->
 
 
-<div style="text-align: center;">
-  <h2 style="display: inline-block; margin-bottom: 0; border-bottom: 2px solid var(--global-theme-color); padding-bottom: 2px;">
+<div style="text-align: center; font-family: 'EB Garamond', serif;">
+  <h2 style="
+    display: inline-block;
+    margin-bottom: 0;
+    border-bottom: 2px solid var(--global-theme-color);
+    padding-bottom: 2px;
+    font-family: 'EB Garamond', serif;
+  ">
     Work in Progress
   </h2>
 </div>
