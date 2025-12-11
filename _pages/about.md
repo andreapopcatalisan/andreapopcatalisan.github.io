@@ -91,11 +91,11 @@ body {
        alt="Profile Photo">
 </div>
 
-<div style="text-align: center; font-family: 'EB Garamond', serif;">
+<div style="text-align: center; font-family: 'Cormorant Garamond', serif;">
   <h1 style="
     display: inline-block;
     font-size: 2.5em;
-    font-weight: 800;
+    font-weight: 900;
     color: #111;
     margin-top: 0.55em;
     margin-bottom: 0.4em;
@@ -136,7 +136,7 @@ body {
 <p style="
   text-align: justify;
   font-family: 'Cormorant Garamond', serif;
-  font-weight: 500;     
+  font-weight: 580;     
   font-size: 1.12em;
   color: #333;
   line-height: 1.55em;
