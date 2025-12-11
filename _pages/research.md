@@ -139,8 +139,8 @@ WORKING PAPERS
 <h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 600;">
   <a target="_blank" href="#" style="
     font-family: 'EB Garamond', serif;
-    color: #333; /* set the color you want */
-    text-decoration: none; /* remove underline if desired */
+    color: #BF245F;  /* your custom color */
+    text-decoration: none; /* remove underline */
   ">
     Empty Nest Syndrome: Parents’ Labor Supply and Well-Being
   </a>
