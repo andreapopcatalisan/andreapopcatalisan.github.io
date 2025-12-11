@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: HOME
 permalink: /
 
 
@@ -13,6 +13,7 @@ social: true # includes social icons at the bottom of the page
 
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
 
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 
 <script> 
@@ -129,7 +130,7 @@ body {
 
 <p style="
   text-align: justify;
-  font-family: 'EB Garamond', serif;
+  font-family: 'Cormorant Garamond', serif;
   font-size: 1.12em;
   color: #333;
   line-height: 1.55em;
