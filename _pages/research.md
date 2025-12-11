@@ -15,7 +15,11 @@ nav_order: 1
 body {
   background-color: #FFFCFB;
 }
-
+  /* Top fixed bar background */
+.navbar, .navbar-fixed-top {
+  background-color: #FFF6F8 !important;
+}
+</style>
   
 
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
@@ -42,7 +46,7 @@ body {
     height: auto; /* Maintain aspect ratio */
     margin-top: auto; /* Center vertically */
     margin-bottom: auto; /* Center vertically */
-    margin-right: 15px; /* Space between the image and text */
+    margin-right: 10px; /* Space between the image and text */
   }
 
   .text-container {
