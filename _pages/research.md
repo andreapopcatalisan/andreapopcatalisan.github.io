@@ -15,11 +15,8 @@ nav_order: 1
 body {
   background-color: #FFFCFB;
 }
-  /* Top fixed bar background */
-.navbar, .navbar-fixed-top {
-  background-color: #F7D8D6 !important;
-}
-</style>
+
+  
 
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
 
