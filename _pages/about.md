@@ -1,8 +1,6 @@
 ---
 layout: about
-<h1 style="font-family: 'EB Garamond', serif; font-size: 2.5em; font-weight: 800; text-align: center;">
-  HOME
-</h1>
+title: HOME
 permalink: /
 
 
