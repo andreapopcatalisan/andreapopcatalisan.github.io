@@ -13,13 +13,6 @@ social: true # includes social icons at the bottom of the page
 
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
 
-<style>
-  /* About page menu alignment fix */
-  body.about .nav-links {
-    text-align: left; /* or center */
-    margin-left: 0;   /* reset extra spacing */
-  }
-</style>
 
 
 <script> 
@@ -32,7 +25,7 @@ body {
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFF9FA !important;
+  background-color: #FFF4F6 !important;
 }
 </style>
 
@@ -45,7 +38,7 @@ body {
 
 /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFF9FA !important;
+  background-color: #FFF4F6 !important;
 }
 
 .profile {
@@ -69,7 +62,7 @@ body {
   .profile {
     float: right;
     margin-top: 178px; 
-    margin-left: 25px;
+    margin-left: 30px;
     text-align: left;
   }
 
