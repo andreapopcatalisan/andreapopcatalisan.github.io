@@ -32,7 +32,7 @@ body {
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #F7D8D6 !important;
+  background-color: #FFF9FA !important;
 }
 </style>
 
@@ -45,7 +45,7 @@ body {
 
 /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #F7D8D6 !important;
+  background-color: #FFF9FA !important;
 }
 
 .profile {
@@ -69,7 +69,7 @@ body {
   .profile {
     float: right;
     margin-top: 178px; 
-    margin-left: 15px;
+    margin-left: 12px;
     text-align: left;
   }
 
@@ -78,7 +78,7 @@ body {
     content: "";
     position: absolute;
     bottom: -10px;   /* space below photo */
-    right: 55px;     /* slightly smaller space on right */
+    right: 45px;     /* slightly smaller space on right */
     width: 60%;
     height: 60%;
     border-bottom: 3px solid #BF245F;
@@ -122,7 +122,7 @@ body {
   /* Reduce spacing before your text on small screens */
   @media (max-width: 600px) {
     .about-text {
-      margin-top: -1.5em;  /* smaller space on phones */
+      margin-top: -2.5em;  /* smaller space on phones */
     }
   }
 
