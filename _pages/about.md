@@ -74,8 +74,8 @@ body {
     right: 65px;     /* slightly smaller space on right */
     width: 60%;
     height: 60%;
-    border-bottom: 3px solid pink;
-    border-right: 3px solid pink;
+    border-bottom: 3px solid #BF245F;
+    border-right: 3px solid #BF245F;
   }
 }
 </style>
@@ -93,7 +93,7 @@ body {
     color: #111;
     margin-top: 0.55em;
     margin-bottom: 0.4em;
-    border-bottom: 2px solid #F55878;
+    border-bottom: 2px solid #BF245F;
     padding-bottom: 3px;
     font-family: 'EB Garamond', serif;
   ">
