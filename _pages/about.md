@@ -138,8 +138,7 @@ body {
 
 <p style="
   text-align: justify;
-  font-family: 'STIX Two Text', serif;
-  font-weight: 580;     
+  font-weight: 550;     
   font-size: 1.12em;
   color: #333;
   line-height: 1.55em;
