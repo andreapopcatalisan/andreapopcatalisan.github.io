@@ -71,7 +71,7 @@ body {
     content: "";
     position: absolute;
     bottom: -10px;   /* space below photo */
-    right: 72px;     /* slightly smaller space on right */
+    right: 74px;     /* slightly smaller space on right */
     width: 60%;
     height: 60%;
     border-bottom: 3px solid #BF245F;
@@ -140,7 +140,7 @@ I am a Ph.D. student in Economics at the <a href="https://www.parisschoolofecono
 
 Previously, I worked as a Research Analyst at the European Central Bank in DG Economics & DG Research. I also completed a pre-doc at the Barcelona School of Economics & UPF and a research internship at the Bank of Spain.<br><br>
 
-You can find my <a href="https://andreapopcatalisan.github.io/assets/CV_APC.pdf" target="_blank">CV</a> here and learn more about my <a href="https://andreapopcatalisan.github.io/research/" target="_blank">research</a> here.<br><br>
+You can find my <a href="https://andreapopcatalisan.github.io/assets/CV_ANDREAPOP.pdf" target="_blank">CV</a> here and learn more about my <a href="https://andreapopcatalisan.github.io/research/" target="_blank">research</a> here.<br><br>
 
 You can email me at <a href="mailto:andrea.pop@psemail.eu">andrea.pop@psemail.eu</a>!<br><br>
 </p>
