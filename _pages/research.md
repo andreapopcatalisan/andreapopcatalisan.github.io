@@ -24,7 +24,7 @@ body {
 
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
 
-
+<link href="https://fonts.googleapis.com/css2?family=STIX+Two+Text:wght@400;600&display=swap" rel="stylesheet"> 
 
 <style>
   .container .jumbotron {
@@ -136,7 +136,7 @@ WORKING PAPERS
 <div class="container">
   <div class="jumbotron no-image">
     
-<h6 class="paper-title" style="font-family: '', serif; font-weight: 700;">
+<h6 class="paper-title" style="font-family: 'STIX Two Text', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
     color: #BF245F;  /* your custom color */
     font-weight: 700; /* bold */
@@ -156,7 +156,7 @@ WORKING PAPERS
     </details>
 
     <!-- Presented at text in LaTeX-style -->
-    <p class="presentation-info" style="margin-top: 7px; font-family: 'EB Garamond', serif;">
+    <p class="presentation-info" style="margin-top: 7px; font-family: 'STIX Two Text', serif;">
       Presented at: European Health Economics Association (Brussels); ECONtribute European Doctoral Program Jamboree (Bonn); PSE Behavioural Atelier (Paris); GENDHI (EHESS, Paris).
     </p>
 
@@ -170,7 +170,7 @@ WORKING PAPERS
 <div class="jumbotron no-image">
 
   
-  <h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 700;">
+  <h6 class="paper-title" style="font-family: 'STIX Two Text', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
     color: #BF245F;  /* your custom color */
     font-weight: 700; /* bold */
@@ -192,7 +192,7 @@ WORKING PAPERS
 <div class="container">
 <div class="jumbotron no-image">
 
-<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 700;">
+<h6 class="paper-title" style="font-family: 'STIX Two Text', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
     font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
@@ -218,7 +218,7 @@ WORKING PAPERS
 Other Research Contributions
 --------------------->
 
-<div style="text-align: center; font-family: 'EB Garamond', serif;">
+<div style="text-align: center; font-family: 'STIX Two Text', serif;">
   <h2 style="
     display: inline-block;
     margin-bottom: 0;
@@ -234,7 +234,7 @@ Other Research Contributions
 <div class="container">
   <div class="jumbotron no-image">
         
-<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 700;">
+<h6 class="paper-title" style="font-family: 'STIX Two Text', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
     font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
@@ -258,7 +258,7 @@ shares for radical-left parties in all democratic elections since 1977, a greate
       </p>
     </details>
 
-<em style="font-size: 0.9em; font-family: 'EB Garamond'; color:#555;">
+<em style="font-size: 0.9em; font-family: 'STIX Two Text'; color:#555;">
   Draft coming soon
 </em>
    <p class="presentation-info" style="margin-top: 7px;">
@@ -269,7 +269,7 @@ shares for radical-left parties in all democratic elections since 1977, a greate
 </div>
 
 
-<div style="text-align: center; font-family: 'EB Garamond', serif;">
+<div style="text-align: center; font-family: 'STIX Two Text', serif;">
   <h2 style="
     display: inline-block;
     margin-bottom: 0;
@@ -286,7 +286,7 @@ shares for radical-left parties in all democratic elections since 1977, a greate
 <div class="container">
   <div class="jumbotron no-image">
     
-<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 700;">
+<h6 class="paper-title" style="font-family: 'STIX Two Text', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
     font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
