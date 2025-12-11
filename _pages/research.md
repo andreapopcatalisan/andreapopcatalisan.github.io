@@ -138,7 +138,6 @@ WORKING PAPERS
     
 <h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
-    font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
     font-weight: 700; /* bold */
     text-decoration: none; /* remove underline */
@@ -173,7 +172,6 @@ WORKING PAPERS
   
   <h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
-    font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
     font-weight: 700; /* bold */
     text-decoration: none; /* remove underline */
