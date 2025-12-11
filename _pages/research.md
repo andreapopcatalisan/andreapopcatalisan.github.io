@@ -17,7 +17,7 @@ body {
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFF9FA !important;
+  background-color: #FFF4F6 !important;
 }
 </style>
   
@@ -28,8 +28,8 @@ body {
 
 <style>
   .container .jumbotron {
-    padding-top: 6px; 
-    padding-bottom: 4px; 
+    padding-top: 10px; 
+    padding-bottom: 6px; 
     padding-left: 20px; 
     padding-right: 20px; 
     display: flex; /* Enable flexbox layout */
