@@ -46,7 +46,7 @@ body {
     height: auto; /* Maintain aspect ratio */
     margin-top: auto; /* Center vertically */
     margin-bottom: auto; /* Center vertically */
-    margin-right: 10px; /* Space between the image and text */
+    margin-right: 12px; /* Space between the image and text */
   }
 
   .text-container {
