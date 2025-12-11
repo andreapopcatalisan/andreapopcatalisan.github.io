@@ -15,6 +15,11 @@ social: true # includes social icons at the bottom of the page
 
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap" rel="stylesheet">
 
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600;700&display=swap"
+>
+
 
 <script> 
   document.title = "Andrea Pop-Catalisan";
@@ -130,7 +135,8 @@ body {
 
 <p style="
   text-align: justify;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Crimson Pro', serif;
+  font-weight: 600;     
   font-size: 1.12em;
   color: #333;
   line-height: 1.55em;
