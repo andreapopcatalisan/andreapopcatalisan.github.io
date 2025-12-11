@@ -136,11 +136,11 @@ WORKING PAPERS
 <div class="container">
   <div class="jumbotron no-image">
     
-<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1000;">
+<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
     font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
-    font-weight: 1000; /* bold */
+    font-weight: 700; /* bold */
     text-decoration: none; /* remove underline */
     font-size: 1.2em;   /* increase size */
   ">
@@ -171,11 +171,11 @@ WORKING PAPERS
 <div class="jumbotron no-image">
 
   
-  <h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1000;">
+  <h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
     font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
-    font-weight: 1000; /* bold */
+    font-weight: 700; /* bold */
     text-decoration: none; /* remove underline */
     font-size: 1.2em;   /* increase size */
   "> The Price of Settling Down</a></h6>  
@@ -194,11 +194,11 @@ WORKING PAPERS
 <div class="container">
 <div class="jumbotron no-image">
 
-<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1000;">
+<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
     font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
-    font-weight: 1000; /* bold */
+    font-weight: 700; /* bold */
     text-decoration: none; /* remove underline */
     font-size: 1.2em;   /* increase size */
   "> Surviving School Holidays: Mothers pay the Price</a></h6>  
@@ -236,11 +236,11 @@ Other Research Contributions
 <div class="container">
   <div class="jumbotron no-image">
         
-<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1200;">
+<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
     font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
-    font-weight: 1200; /* bold */
+    font-weight: 700; /* bold */
     text-decoration: none; /* remove underline */
     font-size: 1.2em;   /* increase size */
   "> Inequality and Conflict: The Long-Run Legacy of the Reconquesta</a>
@@ -288,11 +288,11 @@ shares for radical-left parties in all democratic elections since 1977, a greate
 <div class="container">
   <div class="jumbotron no-image">
     
-<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1200;">
+<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 700;">
   <a target="_blank" href="#" style="
     font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
-    font-weight: 1200; /* bold */
+    font-weight: 700; /* bold */
     text-decoration: none; /* remove underline */
     font-size: 1.2em;   /* increase size */
   "> Banking Crises Without Panics
