@@ -71,7 +71,7 @@ body {
     content: "";
     position: absolute;
     bottom: -10px;   /* space below photo */
-    right: 68px;     /* slightly smaller space on right */
+    right: 72px;     /* slightly smaller space on right */
     width: 60%;
     height: 60%;
     border-bottom: 3px solid #BF245F;
