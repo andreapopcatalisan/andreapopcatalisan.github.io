@@ -48,4 +48,21 @@ img[src*="apcprofile.jpg"] {
 }
 
 
+/* LaTeX-style navbar typography */
+.navbar a,
+.nav-links a,
+.site-nav .page-link {
+  font-family: 'EB Garamond', serif !important;
+  font-weight: 600;            /* elegant LaTeX bold-ish */
+  letter-spacing: 0.3px;       /* subtle typography spacing */
+  font-size: 1.05em;           /* slightly bigger */
+}
+
+/* Hover in your accent color */
+.navbar a:hover,
+.nav-links a:hover,
+.site-nav .page-link:hover {
+  color: #BF245F !important;
+}
+
 
