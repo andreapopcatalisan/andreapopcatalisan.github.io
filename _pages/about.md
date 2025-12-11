@@ -44,8 +44,8 @@ body {
 .profile {
   position: relative; /* needed for the contour positioning */
   text-align: center;
-  margin-left: 52px;
-  margin-right: 15px;
+  margin-left: 62px;
+  margin-right: 25px;
   float: none;
 }
 
