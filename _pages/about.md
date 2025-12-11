@@ -62,7 +62,7 @@ body {
   .profile {
     float: right;
     margin-top: 178px; 
-    margin-left: 40px;
+    margin-left: 50px;
     text-align: left;
   }
 
