@@ -44,8 +44,8 @@ body {
 .profile {
   position: relative; /* needed for the contour positioning */
   text-align: center;
-  margin-left: 42px;
-  margin-right: 15px;
+  margin-left: 52px;
+  margin-right: 25px;
   float: none;
 }
 
@@ -54,15 +54,15 @@ body {
   height: auto;
   display: block;
   border-radius: 0;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 /* For larger screens (laptops and up) */
 @media (min-width: 992px) {
   .profile {
     float: right;
-    margin-top: 160px; 
-    margin-left: 22px;
+    margin-top: 140px; 
+    margin-left: 12px;
     text-align: left;
   }
 
