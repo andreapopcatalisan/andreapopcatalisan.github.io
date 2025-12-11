@@ -37,10 +37,10 @@ body {
 </div>
 
 
-<div style="font-family: 'EB Garamond', serif; line-height: 1.5em; color: #333;">
-  <h5 style="font-weight: 600; margin-bottom: 0.2em;">Graduate Level - Sciences Po</h5>
-  <p style="margin-top: 0;">2025-2026: Applied Econometrics</p>
-</div>
+> ##### **Graduate Level - Sciences Po**
+>
+> 2025-2026: Applied Econometrics
+
 
 
 <!-- Header -->
@@ -56,10 +56,8 @@ body {
   </h2>
 </div>
 
-<!-- List -->
-<div style="font-family: 'EB Garamond', serif; line-height: 1.55em; margin-top: 0.8em;">
-  <ul style="list-style-type: disc; padding-left: 1.2em; color: #333;">
-    <li>2025–present: Mentor for <a href="https://www.women-in-economics.com/" target="_blank">The Women in Economics Initiative</a></li>
-    <li>2023–present: UC3M Alumni Mentoring Program</li>
-  </ul>
-</div>
+> ##### 2025–present: Mentor for <a href="https://www.women-in-economics.com/" target="_blank">The Women in Economics Initiative</a></li>
+>
+> #####  2023–present: UC3M Alumni Mentoring Program
+
+
