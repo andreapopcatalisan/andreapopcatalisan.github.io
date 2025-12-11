@@ -192,8 +192,14 @@ WORKING PAPERS
 Other Research Contributions
 --------------------->
 
-<div style="text-align: center;">
-  <h2 style="display: inline-block; margin-bottom: 0; border-bottom: 2px solid var(--global-theme-color); padding-bottom: 3px;">
+<div style="text-align: center; font-family: 'EB Garamond', serif;">
+  <h2 style="
+    display: inline-block;
+    margin-bottom: 0;
+    border-bottom: 2px solid var(--global-theme-color);
+    padding-bottom: 2px;
+    font-family: 'EB Garamond', serif;
+  ">
   Working Papers
   </h2>
 </div>
@@ -219,7 +225,7 @@ shares for radical-left parties in all democratic elections since 1977, a greate
       </p>
     </details>
 
-<em style="font-size: 0.9em; font-style: italic; color:#555;">
+<em style="font-size: 0.9em; font-family: 'EB Garamond'; color:#555;">
   Draft coming soon
 </em>
    <p class="presentation-info" style="margin-top: 7px;">
@@ -230,8 +236,14 @@ shares for radical-left parties in all democratic elections since 1977, a greate
 </div>
 
 
-<div style="text-align: center;">
-  <h2 style="display: inline-block; margin-bottom: 0; border-bottom: 2px solid var(--global-theme-color); padding-bottom: 3px;">
+<div style="text-align: center; font-family: 'EB Garamond', serif;">
+  <h2 style="
+    display: inline-block;
+    margin-bottom: 0;
+    border-bottom: 2px solid var(--global-theme-color);
+    padding-bottom: 2px;
+    font-family: 'EB Garamond', serif;
+  ">
    Research Contributions
   </h2>
 </div>
