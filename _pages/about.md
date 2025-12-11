@@ -13,11 +13,11 @@ social: true # includes social icons at the bottom of the page
 
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
 
-<h1 style="font-family: 'EB Garamond', serif;">
-  Andrea Pop-Catalisan
-</h1>
 
 
+<script> 
+  document.title = "Andrea Pop-Catalisan";
+</script>
 
 <style>
 body {
@@ -85,22 +85,29 @@ body {
        alt="Profile Photo">
 </div>
 
-<div style="text-align: center;"> 
-  <h1 style=" 
-    display: inline-block; 
+<div style="text-align: center; font-family: 'EB Garamond', serif;">
+  <h1 style="
+    display: inline-block;
     font-size: 2.5em;
-    font-weight: 800; 
-    color: #111; 
-    margin-top: 0.55em; 
-    margin-bottom: 0.4em; 
-    border-bottom: 2px solid #F55878; 
-    padding-bottom: 3px; 
-    "> 
+    font-weight: 800;
+    color: #111;
+    margin-top: 0.55em;
+    margin-bottom: 0.4em;
+    border-bottom: 2px solid #F55878;
+    padding-bottom: 3px;
+    font-family: 'EB Garamond', serif;
+  ">
     Andrea Pop-Catalisan
-  </h1> 
-  <p style="margin-top: -4px; font-size: 0.85em; color: #555;"> <strong>PhD student in Economics at PSE</strong> 
+  </h1>
+  <p style="
+    margin-top: -4px;
+    font-size: 0.85em;
+    color: #555;
+    font-family: 'EB Garamond', serif;
+  ">
+    <strong>PhD student in Economics at PSE</strong>
   </p>
-</div> 
+</div>
 
 
 
