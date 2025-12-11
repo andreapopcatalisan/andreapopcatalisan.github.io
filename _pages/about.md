@@ -62,7 +62,7 @@ body {
   .profile {
     float: right;
     margin-top: 178px; 
-    margin-left: 50px;
+    margin-left: 60px;
     text-align: left;
   }
 
@@ -98,15 +98,16 @@ body {
     font-family: 'EB Garamond', serif;
   ">
     Andrea Pop-Catalisan
-  </h1>
-  <p style="
-    margin-top: -4px;
-    font-size: 0.85em;
-    color: #555;
-    font-family: 'EB Garamond', serif;
-  ">
-    <strong>PhD student in Economics at PSE</strong>
-  </p>
+</h1>
+<p style="
+  margin-top: -4px;
+  font-size: 0.85em;
+  color: #555;
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+">
+  <strong>PhD student in Economics at PSE</strong>
+</p>
 </div>
 
 
