@@ -20,6 +20,9 @@ social: true # includes social icons at the bottom of the page
   href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600;700&display=swap"
 >
 
+<link href="https://fonts.googleapis.com/css2?family=STIX+Two+Text:wght@400;600&display=swap" rel="stylesheet">
+
+
 
 <script> 
   document.title = "Andrea Pop-Catalisan";
@@ -91,7 +94,7 @@ body {
        alt="Profile Photo">
 </div>
 
-<div style="text-align: center; font-family: 'Crimson Pro', serif;">
+<div style="text-align: center; font-family: 'STIX Two Text', serif;">
   <h1 style="
     display: inline-block;
     font-size: 2.5em;
@@ -101,7 +104,7 @@ body {
     margin-bottom: 0.4em;
     border-bottom: 2px solid #BF245F;
     padding-bottom: 3px;
-    font-family: 'Crimson Pro', serif;
+    font-family: 'STIX Two Text', serif;
   ">
     Andrea Pop-Catalisan
 </h1>
@@ -135,7 +138,7 @@ body {
 
 <p style="
   text-align: justify;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'STIX Two Text', serif;
   font-weight: 580;     
   font-size: 1.12em;
   color: #333;
