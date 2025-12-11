@@ -13,6 +13,13 @@ social: true # includes social icons at the bottom of the page
 
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
 
+<style>
+  /* About page menu alignment fix */
+  body.about .nav-links {
+    text-align: left; /* or center */
+    margin-left: 0;   /* reset extra spacing */
+  }
+</style>
 
 
 <script> 
@@ -62,7 +69,7 @@ body {
   .profile {
     float: right;
     margin-top: 178px; 
-    margin-left: 60px;
+    margin-left: 20px;
     text-align: left;
   }
 
