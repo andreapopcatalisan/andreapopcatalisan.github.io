@@ -91,17 +91,17 @@ body {
        alt="Profile Photo">
 </div>
 
-<div style="text-align: center; font-family: 'Cormorant Garamond', serif;">
+<div style="text-align: center; font-family: 'Crimson Pro', serif;">
   <h1 style="
     display: inline-block;
     font-size: 2.5em;
-    font-weight: 900;
+    font-weight: 800;
     color: #111;
     margin-top: 0.55em;
     margin-bottom: 0.4em;
     border-bottom: 2px solid #BF245F;
     padding-bottom: 3px;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Crimson Pro', serif;
   ">
     Andrea Pop-Catalisan
 </h1>
