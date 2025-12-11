@@ -24,11 +24,10 @@ body {
 </style>
 
 
-
 <div style="text-align: center; font-family: 'EB Garamond', serif;">
   <h2 style="
     display: inline-block;
-    margin-bottom: 0;
+    margin-bottom: 1.2em; /* increased margin */
     border-bottom: 2px solid var(--global-theme-color);
     padding-bottom: 2px;
     font-family: 'EB Garamond', serif;
