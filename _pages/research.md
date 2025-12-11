@@ -136,11 +136,11 @@ WORKING PAPERS
 <div class="container">
   <div class="jumbotron no-image">
     
-<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1200;">
+<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1000;">
   <a target="_blank" href="#" style="
     font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
-    font-weight: 1200; /* bold */
+    font-weight: 1000; /* bold */
     text-decoration: none; /* remove underline */
     font-size: 1.2em;   /* increase size */
   ">
@@ -171,11 +171,11 @@ WORKING PAPERS
 <div class="jumbotron no-image">
 
   
-  <h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1200;">
+  <h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1000;">
   <a target="_blank" href="#" style="
     font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
-    font-weight: 1200; /* bold */
+    font-weight: 1000; /* bold */
     text-decoration: none; /* remove underline */
     font-size: 1.2em;   /* increase size */
   "> The Price of Settling Down</a></h6>  
@@ -192,15 +192,14 @@ WORKING PAPERS
 
 
 
-<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1200;">
+<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1000;">
   <a target="_blank" href="#" style="
     font-family: 'EB Garamond', serif;
     color: #BF245F;  /* your custom color */
-    font-weight: 1200; /* bold */
+    font-weight: 1000; /* bold */
     text-decoration: none; /* remove underline */
     font-size: 1.2em;   /* increase size */
-  ">
-    Surviving School Holidays: Mothers pay the Price</a></h6>  
+  "> Surviving School Holidays: Mothers pay the Price</a></h6>  
   <span style="font-size = 16px;">(with <a target="_blank" href="https://sites.google.com/view/manuelestevolago/about?authuser=0/">Manuel E. Lago</a>)</span>
 
       <details class="abstract-box">
@@ -234,8 +233,15 @@ Other Research Contributions
 
 <div class="container">
   <div class="jumbotron no-image">
-    <h6 class="paper-title">
-      <a target="_blank" href="#">Inequality and Conflict: The Long-Run Legacy of the Reconquesta</a>
+        
+<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1200;">
+  <a target="_blank" href="#" style="
+    font-family: 'EB Garamond', serif;
+    color: #BF245F;  /* your custom color */
+    font-weight: 1200; /* bold */
+    text-decoration: none; /* remove underline */
+    font-size: 1.2em;   /* increase size */
+  "> Inequality and Conflict: The Long-Run Legacy of the Reconquesta</a>
     </h6>
     <span style="font-size:16px;">
       (with 
@@ -279,9 +285,15 @@ shares for radical-left parties in all democratic elections since 1977, a greate
 
 <div class="container">
   <div class="jumbotron no-image">
-    <h6 class="paper-title">
-      <a target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3762043">
-        Banking Crises Without Panics
+    
+<h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1200;">
+  <a target="_blank" href="#" style="
+    font-family: 'EB Garamond', serif;
+    color: #BF245F;  /* your custom color */
+    font-weight: 1200; /* bold */
+    text-decoration: none; /* remove underline */
+    font-size: 1.2em;   /* increase size */
+  "> Banking Crises Without Panics
       </a>
     </h6>
     <span style="font-size:16px;"></span>
