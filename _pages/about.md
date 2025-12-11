@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 <style>
 body {
-  background-color: #FEFAF8;
+  background-color: #FDF9F9;
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
@@ -33,7 +33,7 @@ body {
 
 <style>
 body {
-  background-color: #FEFAF8;
+  background-color: #FDF9F9;
 }
 
 /* Top fixed bar background */
@@ -111,10 +111,14 @@ body {
 
 
 
-
-
-<p style="text-align: justify;">
-<br><br>
+<p style="
+  text-align: justify;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.05em;
+  color: #333;
+  line-height: 1.55em;
+">
+  <br><br>
 
 I am a Ph.D. student in Economics at the <a href="https://www.parisschoolofeconomics.eu/" target="_blank">Paris School of Economics (PSE)</a>.  I completed my master's and bachelor's degrees in Economics at <a href="https://www.uc3m.es/inicio" target="_blank">University Carlos III of Madrid (UC3M)</a>. My research interests primarily focus on family, health, and gender economics. <br><br>
 
