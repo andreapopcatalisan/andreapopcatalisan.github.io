@@ -51,11 +51,10 @@ img[src*="apcprofile.jpg"] {
 .navbar a,
 .nav-links a,
 .site-nav .page-link {
-  font-family: 'Codystar', cursive !important; /* Codystar fallback is cursive */
-  font-weight: 500;           /* medium weight, adjust as needed */
-  letter-spacing: 0.22px;      /* subtle spacing for readability */
-  text-shadow: 0 0 1px currentColor; 
-  font-size: 1em;          /* slightly larger for navbar */
+  font-family: 'Playfair Display', serif !important; /* elegant, rounded serif */
+  font-weight: 600;           /* semi-bold */
+  letter-spacing: 0.3px;      /* subtle spacing */
+  font-size: 1.05em;          /* slightly larger for navbar */
   font-style: normal;          /* not italic */
 }
 
@@ -65,5 +64,6 @@ img[src*="apcprofile.jpg"] {
 .site-nav .page-link:hover {
   color: #BF245F !important;
 }
+
 
 
