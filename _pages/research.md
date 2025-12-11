@@ -191,6 +191,8 @@ WORKING PAPERS
 </div>
 
 
+<div class="container">
+<div class="jumbotron no-image">
 
 <h6 class="paper-title" style="font-family: 'EB Garamond', serif; font-weight: 1000;">
   <a target="_blank" href="#" style="
