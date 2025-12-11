@@ -118,6 +118,21 @@ body {
 </div>
 
 
+<style>
+  /* Reduce spacing before your text on small screens */
+  @media (max-width: 600px) {
+    .about-text {
+      margin-top: 0.5em;  /* smaller space on phones */
+    }
+  }
+
+  /* Default spacing for larger screens */
+  .about-text {
+    margin-top: 2em; /* roughly equivalent to your <br><br> */
+  }
+</style>
+
+
 
 <p style="
   text-align: justify;
