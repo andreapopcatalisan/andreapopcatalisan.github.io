@@ -139,6 +139,7 @@ body {
 <p style="
   text-align: justify;   
   font-size: 1.12em;
+  font-weight: 400;
   color: #333;
   line-height: 1.55em;
 ">
