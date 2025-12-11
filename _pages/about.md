@@ -61,8 +61,8 @@ body {
 @media (min-width: 992px) {
   .profile {
     float: right;
-    margin-top: 168px; 
-    margin-left: -10px;
+    margin-top: 178px; 
+    margin-left: 40px;
     text-align: left;
   }
 
