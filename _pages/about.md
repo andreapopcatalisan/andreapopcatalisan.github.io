@@ -34,7 +34,7 @@ body {
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFF9F7 !important;
+  background-color: #FFF6F4 !important;
 }
 </style>
 
@@ -47,7 +47,7 @@ body {
 
 /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFF9F7 !important;
+  background-color: #FFF6F4 !important;
 }
 
 .profile {
