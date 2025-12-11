@@ -11,9 +11,11 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-<script>
-  document.title = "Andrea Pop-Catalisan";
-</script>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
+
+<h1 style="font-family: 'EB Garamond', serif;">
+  Andrea Pop-Catalisan
+</h1>
 
 
 
