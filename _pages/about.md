@@ -101,7 +101,7 @@ body {
     margin-bottom: 0.4em;
     border-bottom: 2px solid #BF245F;
     padding-bottom: 3px;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Cormorant Garamond', serif;
   ">
     Andrea Pop-Catalisan
 </h1>
@@ -135,8 +135,8 @@ body {
 
 <p style="
   text-align: justify;
-  font-family: 'Crimson Pro', serif;
-  font-weight: 600;     
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;     
   font-size: 1.12em;
   color: #333;
   line-height: 1.55em;
