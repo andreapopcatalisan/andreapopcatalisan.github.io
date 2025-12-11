@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 <style>
 body {
-  background-color: #FFF2F0;
+  background-color: #FEF5F6;
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
@@ -31,7 +31,7 @@ body {
 
 <style>
 body {
-  background-color: #FBEBED;
+  background-color: #FEF5F6;
 }
 
 /* Top fixed bar background */
