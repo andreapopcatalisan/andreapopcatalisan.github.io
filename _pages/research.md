@@ -136,13 +136,8 @@ WORKING PAPERS
 <div class="container">
   <div class="jumbotron no-image">
     
-<h6 class="paper-title" style="font-family: 'STIX Two Text', serif; font-weight: 700;">
-  <a target="_blank" href="#" style="
-    color: #BF245F;  /* your custom color */
-    font-weight: 700; /* bold */
-    text-decoration: none; /* remove underline */
-    font-size: 1.2em;   /* increase size */
-  ">
+<h6 class="paper-title"> 
+  <a target="_blank" href="#"> 
     Empty Nest Syndrome: Parents’ Labor Supply and Well-Being
   </a>
 </h6>
