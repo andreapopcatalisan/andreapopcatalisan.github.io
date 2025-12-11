@@ -69,7 +69,7 @@ body {
   .profile {
     float: right;
     margin-top: 178px; 
-    margin-left: 20px;
+    margin-left: 15px;
     text-align: left;
   }
 
@@ -78,7 +78,7 @@ body {
     content: "";
     position: absolute;
     bottom: -10px;   /* space below photo */
-    right: 65px;     /* slightly smaller space on right */
+    right: 55px;     /* slightly smaller space on right */
     width: 60%;
     height: 60%;
     border-bottom: 3px solid #BF245F;
@@ -122,7 +122,7 @@ body {
   /* Reduce spacing before your text on small screens */
   @media (max-width: 600px) {
     .about-text {
-      margin-top: 0.5em;  /* smaller space on phones */
+      margin-top: -1.5em;  /* smaller space on phones */
     }
   }
 
