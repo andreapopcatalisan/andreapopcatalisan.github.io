@@ -24,8 +24,8 @@ body {
 
 <style>
   .container .jumbotron {
-    padding-top: 12px; 
-    padding-bottom: 8px; 
+    padding-top: 6px; 
+    padding-bottom: 4px; 
     padding-left: 20px; 
     padding-right: 20px; 
     display: flex; /* Enable flexbox layout */
