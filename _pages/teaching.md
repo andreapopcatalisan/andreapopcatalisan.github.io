@@ -59,7 +59,7 @@ body {
 </div>
 
 <div style="background-color: #FFFCFB; padding: 10px; border-radius: 5px;">
-##### 2025–present: Mentor for <a href="https://www.women-in-economics.com/" target="_blank">The Women in Economics Initiative</a>
-##### 2023–present: UC3M Alumni Mentoring Program
+  <h5>2025–present: Mentor for <a href="https://www.women-in-economics.com/" target="_blank">The Women in Economics Initiative</a></h5>
+  <h5>2023–present: UC3M Alumni Mentoring Program</h5>
 </div>
 
