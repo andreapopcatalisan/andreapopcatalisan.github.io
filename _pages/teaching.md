@@ -17,11 +17,18 @@ nav_order: 2
 body {
   background-color: #FFFCFB;
 }
-  /* Top fixed bar background */
+
+/* Top fixed bar background */
 .navbar, .navbar-fixed-top {
   background-color: #FFF6F4 !important;
 }
+
+/* Main content wrapper background */
+.container, .page-content, .content-wrapper {
+  background-color: #FFFCFB !important;
+}
 </style>
+
 
 
 <div style="text-align: center; font-family: 'EB Garamond', serif;">
