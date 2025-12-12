@@ -17,17 +17,12 @@ nav_order: 2
 body {
   background-color: #FFFCFB;
 }
-
-/* Top fixed bar background */
+  /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
   background-color: #FFF6F4 !important;
 }
-
-/* Main content wrapper background */
-.container, .page-content, .content-wrapper {
-  background-color: #FFFCFB !important;
-}
 </style>
+  
 
 
 
@@ -63,8 +58,8 @@ body {
   </h2>
 </div>
 
-> ##### 2025–present: Mentor for <a href="https://www.women-in-economics.com/" target="_blank">The Women in Economics Initiative</a>
->
-> #####  2023–present: UC3M Alumni Mentoring Program
-
+<div style="background-color: #FFFCFB; padding: 10px; border-radius: 5px;">
+##### 2025–present: Mentor for <a href="https://www.women-in-economics.com/" target="_blank">The Women in Economics Initiative</a>
+##### 2023–present: UC3M Alumni Mentoring Program
+</div>
 
