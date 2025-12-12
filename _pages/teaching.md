@@ -58,12 +58,23 @@ body {
   </h2>
 </div>
 
-<div style="background-color: #FFFCFB; padding: 10px; border-radius: 5px;">
-  <blockquote>
-    ##### 2025–present: Mentor for <a href="https://www.women-in-economics.com/" target="_blank">The Women in Economics Initiative</a>
+<style>
+.custom-quote {
+  background-color: #FFFCFB;       /* pale background */
+  padding: 10px 15px;              /* spacing around text */
+  border-left: 5px solid #BF245F;  /* vertical line color */
+  border-radius: 5px;              /* optional: rounded corners */
+  margin: 10px 0;                  /* spacing above/below block */
+}
+.custom-quote h5 {
+  margin: 5px 0;
+}
+</style>
 
-    ##### 2023–present: UC3M Alumni Mentoring Program
-  </blockquote>
-</div>
+<blockquote class="custom-quote">
+##### 2025–present: Mentor for <a href="https://www.women-in-economics.com/" target="_blank">The Women in Economics Initiative</a>
+
+##### 2023–present: UC3M Alumni Mentoring Program
+</blockquote>
 
 
