@@ -150,6 +150,10 @@ WORKING PAPERS
       </p>
     </details>
 
+    <em style="font-size: 0.9em; font-family: 'STIX Two Text'; color:#555;">
+ Draft available upon request
+</em>
+
     <!-- Presented at text in LaTeX-style -->
     <p class="presentation-info" style="margin-top: 7px; font-family: 'STIX Two Text', serif;">
       Presented at: European Health Economics Association (Brussels); ECONtribute European Doctoral Program Jamboree (Bonn); PSE Behavioural Atelier (Paris); GENDHI (EHESS, Paris).
@@ -194,7 +198,11 @@ The Price of Settling Down</a></h6>
         Exploiting the quasi-random timing of interviews relative to school holidays, we assess whether parental responsibilities induce short-term changes in well-being and work behavior.
       </p>
     </details>
-    
+
+        <em style="font-size: 0.9em; font-family: 'STIX Two Text'; color:#555;">
+ Draft available upon request
+</em>
+
 </div>
 </div>
 
