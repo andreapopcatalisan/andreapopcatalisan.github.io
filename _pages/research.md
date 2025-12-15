@@ -155,8 +155,8 @@ of mothers re-entering the labour market, nor are there significant effects on d
   style="
     display: inline-block;
     margin-top: 7px;
-    padding: 6px 12px;
-    background-color: #991F43; /* light vanilla */
+    padding: 4.5px 10px;
+    background-color: #f7f1e3; /* light vanilla */
     border-radius: 5px;
     font-size: 0.9em;
     font-family: 'STIX Two Text';
@@ -166,7 +166,7 @@ of mothers re-entering the labour market, nor are there significant effects on d
     href="https://hq.ssrn.com/submissions/MyPapers.cfm?partid=7517893"
     target="_blank"
     style="
-      color: #FFFFFF; /* white */
+      color: #A11F54; /* marron */
       text-decoration: none;
       font-style: normal;
     "
