@@ -150,9 +150,31 @@ WORKING PAPERS
       </p>
     </details>
 
-    <em style="font-size: 0.9em; font-family: 'STIX Two Text'; color:#555;">
- Draft available upon request
-</em>
+   <div 
+  style="
+    display: inline-block;
+    margin-top: 8px;
+    padding: 6px 12px;
+    background-color: #f7f1e3; /* light vanilla */
+    border-radius: 6px;
+    font-size: 0.9em;
+    font-family: 'STIX Two Text';
+  "
+>
+  <a 
+    href="https://hq.ssrn.com/submissions/MyPapers.cfm?partid=7517893"
+    target="_blank"
+    style="
+      color: #7b1e1e; /* maroon */
+      text-decoration: none;
+      font-style: normal;
+    "
+  >
+    SSRN Working Paper
+  </a>
+</div>
+
+
 
     <!-- Presented at text in LaTeX-style -->
     <p class="presentation-info" style="margin-top: 7px; font-family: 'STIX Two Text', serif;">
