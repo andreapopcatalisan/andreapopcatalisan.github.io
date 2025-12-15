@@ -146,7 +146,8 @@ WORKING PAPERS
     <details class="abstract-box">
       <summary><span class="triangle"></span>Abstract</summary>
       <p style="text-align: justify;">
-        Exploring how children's departure from the household affects parents' work patterns and psychological outcomes.
+        When children leave the parental home, parents may gain additional time to allocate to either leisure or employment. This paper examines how the transition to an empty nest—defined as the point when all children have moved out of the parental household—affects parents’ labour supply and well-being. Focusing on mothers and fathers separately, I employ an event-study approach using data from the Survey of Health, Ageing, and Retirement in Europe (SHARE). The results show that mothers who are already working tend to increase their weekly hours following the empty-nest transition, while there is little change in fathers’ labour supply. However, there is no evidence
+of mothers re-entering the labour market, nor are there significant effects on depressive outcomes for either parent.
       </p>
     </details>
 
@@ -155,7 +156,7 @@ WORKING PAPERS
     display: inline-block;
     margin-top: 8px;
     padding: 6px 12px;
-    background-color: #f7f1e3; /* light vanilla */
+    background-color: #FFE3D6; /* light vanilla */
     border-radius: 6px;
     font-size: 0.9em;
     font-family: 'STIX Two Text';
@@ -165,7 +166,7 @@ WORKING PAPERS
     href="https://hq.ssrn.com/submissions/MyPapers.cfm?partid=7517893"
     target="_blank"
     style="
-      color: #7b1e1e; /* maroon */
+      color: #AB1557; /* maroon */
       text-decoration: none;
       font-style: normal;
     "
