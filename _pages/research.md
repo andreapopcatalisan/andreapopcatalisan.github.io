@@ -158,7 +158,7 @@ of mothers re-entering the labour market, nor are there significant effects on d
     padding: 2.5px 5px;
     background-color: #f7f1e3; /* light vanilla */
     border-radius: 6.5px;
-    font-size: 0.9em;
+    font-size: 0.75em;
     font-family: 'STIX Two Text';
   "
 >
