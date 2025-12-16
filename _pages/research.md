@@ -163,7 +163,7 @@ of mothers re-entering the labour market, nor are there significant effects on d
   "
 >
   <a 
-    href="https://hq.ssrn.com/submissions/MyPapers.cfm?partid=7517893"
+    href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5924702"
     target="_blank"
     style="
       color: #A11F54; /* marron */
