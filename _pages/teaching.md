@@ -39,7 +39,7 @@ body {
 </div>
 
 
-<div style="background-color:#FFFCFB; font-size:0.9em; padding:6px 10px;">
+<div style="background-color:#FFFCFB; font-size:1.2em; padding:6px 10px;">
   <strong>Graduate Level – Sciences Po</strong><br>
   2025–2026: Applied Econometrics
 </div>
@@ -58,8 +58,10 @@ body {
   </h2>
 </div>
 
-> ##### 2025–present: Mentor for <a href="https://www.women-in-economics.com/" target="_blank">The Women in Economics Initiative</a>
->
-> #####  2023–present: UC3M Alumni Mentoring Program 
+<div style="background-color:#FFFCFB; font-size:1.2em; padding:6px 10px;">
+  <strong><a href="https://www.women-in-economics.com/" target="_blank">The Women in Economics Initiative</a>><br>
+     <strong>UC3M Alumni Mentoring Program</strong><br>
+</div>
+
 
 
