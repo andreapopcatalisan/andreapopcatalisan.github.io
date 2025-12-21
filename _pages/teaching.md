@@ -31,7 +31,7 @@ body {
     display: inline-block;
     margin-bottom: 1.2em; /* increased margin */
     border-bottom: 2px solid var(--global-theme-color);
-    padding-bottom: 2px;
+    padding-bottom: 0.5px;
     font-family: 'EB Garamond', serif;
   ">
     Teaching Experience
@@ -51,7 +51,7 @@ body {
     display: inline-block;
     margin-bottom: 1.2em;
     border-bottom: 2px solid var(--global-theme-color);
-    padding-bottom: 2px;
+    padding-bottom: 0.5px;
     font-family: 'EB Garamond', serif;
   ">
     Mentoring
