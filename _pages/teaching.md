@@ -58,9 +58,15 @@ body {
   </h2>
 </div>
 
-<div style="background-color:#FFFCFB; font-size:1.2em; padding:6px 10px;">
-  <strong><a href="https://www.women-in-economics.com/" target="_blank">The Women in Economics Initiative</a>><br>
-     <strong>UC3M Alumni Mentoring Program</strong><br>
+
+
+<div style="background-color:#FFFCFB; font-size:0.9em; padding:6px 10px;">
+  <strong>
+    <a href="https://www.women-in-economics.com/" target="_blank">
+      The Women in Economics Initiative
+    </a>
+  </strong><br>
+  <strong>UC3M Alumni Mentoring Program</strong>
 </div>
 
 
