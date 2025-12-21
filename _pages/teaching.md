@@ -46,7 +46,11 @@ body {
 
 
 <!-- Header -->
-<div style="text-align: center; font-family: 'EB Garamond', serif;">
+<div style="
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+  margin-top: 4em;
+">
   <h2 style="
     display: inline-block;
     margin-bottom: 1.2em;
@@ -57,6 +61,7 @@ body {
     Mentoring
   </h2>
 </div>
+
 
 
 
