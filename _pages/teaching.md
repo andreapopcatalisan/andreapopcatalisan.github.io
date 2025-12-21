@@ -39,7 +39,7 @@ body {
 </div>
 
 
-<div style="background-color:#FFFCFB; font-size:1.2em; padding:10px 14px;">
+<div style="background-color:#FFFCFB; font-size:1.1em; padding:10px 14px;">
   <strong>Graduate Level – Sciences Po</strong><br>
   2025–2026: Applied Econometrics
 </div>
@@ -60,7 +60,7 @@ body {
 
 
 
-<div style="background-color:#FFFCFB; font-size:0.9em; padding:10px 14px;">
+<div style="background-color:#FFFCFB; font-size:1.1em; padding:10px 14px;">
   <strong>
     <a href="https://www.women-in-economics.com/" target="_blank">
       The Women in Economics Initiative
