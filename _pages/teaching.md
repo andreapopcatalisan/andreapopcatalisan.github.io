@@ -39,10 +39,10 @@ body {
 </div>
 
 
-> ##### **Graduate Level - Sciences Po**
->
-> 2025-2026: Applied Econometrics
-
+<div style="background-color:#FFFCFB; font-size:0.9em; padding:6px 10px;">
+  <strong>Graduate Level – Sciences Po</strong><br>
+  2025–2026: Applied Econometrics
+</div>
 
 
 <!-- Header -->
