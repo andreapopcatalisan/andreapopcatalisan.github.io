@@ -55,7 +55,7 @@ body {
   <h3> Age at Leaving the Parental Home in Europe (2005–2019) </h3>
 
   <img
-    src="https://andreapopcatalisan.github.io/assets/img/eurostat.pdf"
+    src="https://andreapopcatalisan.github.io/assets/img/eurostat.png"
     alt="Eurostat"
     style="width:100%; border-radius:6px; margin:12px 0;"
   >
