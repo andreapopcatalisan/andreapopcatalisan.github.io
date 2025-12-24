@@ -39,7 +39,7 @@ body {
 
 
 <div
-  onclick="window.open('https://andreapopcatalisan.shinyapps.io/eurotravels-master/', '_blank')"
+  onclick="window.open('https://andreapopcatalisan.shinyapps.io', '_blank')"
   style="
     cursor: pointer;
     border: 1px solid #ddd;
