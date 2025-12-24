@@ -57,14 +57,20 @@ body {
   <img
     src="https://andreapopcatalisan.github.io/assets/img/map.png"
     alt="EuroTravels map preview"
-    style="width:50%; border-radius:6px; margin:12px 0;"
+    style="width:100%; border-radius:6px; margin:12px 0;"
   >
 
   <p>
-    Interactive Shiny dashboard exploring travel patterns across European countries.
+    Interactive Shiny dashboard exploring my travel patterns across European countries.
   </p>
 
-  <p><strong>Click to open the interactive app →</strong></p>
+  <p>
+  <strong>
+    <a href="https://github.com/andreapopcatalisan/world-happiness-prediction" target="_blank">
+      Code →
+    </a>
+  </strong>
+</p>
 </div>
 
 
