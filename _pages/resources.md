@@ -57,7 +57,7 @@ body {
   <img
     src="https://andreapopcatalisan.github.io/assets/img/map.png"
     alt="EuroTravels map preview"
-    style="width:100%; border-radius:6px; margin:12px 0;"
+    style="width:50%; border-radius:6px; margin:12px 0;"
   >
 
   <p>
