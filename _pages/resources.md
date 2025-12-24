@@ -5,8 +5,15 @@ permalink: /resources/
 title: RESOURCES
 description: 
 nav: true
-nav_order: 4
+nav_order: 2
 ---
+
+
+<script>
+  document.title = "Teaching: Andrea Pop-Catalisan";
+</script>
+
+
 
 <a href="https://andreapopcatalisan.shinyapps.io/eurotravels-master/" target="_blank" style="text-decoration: none;">
   <div style="
