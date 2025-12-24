@@ -52,7 +52,48 @@ body {
   onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'"
   onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'"
 >
-  <h3>EuroTravels</h3>
+  <h3> Age at Leaving the Parental Home in Europe (2005–2019) </h3>
+
+  <img
+    src="https://andreapopcatalisan.github.io/assets/img/eurostat.pdf"
+    alt="Eurostat"
+    style="width:100%; border-radius:6px; margin:12px 0;"
+  >
+
+  <p>
+    Interactive Shiny dashboard visualizing cross-country differences in the average age of leaving the parental home in Europe (Source: EU-SILC).
+  </p>
+
+  <p>
+  <strong>
+    <a href="https://github.com/andreapopcatalisan" target="_blank">
+      Code Coming Soon →
+    </a>
+  </strong>
+</p>
+</div>
+
+
+
+
+
+
+
+<div
+  onclick="window.open('https://andreapopcatalisan.shinyapps.io/eurotravels-master/', '_blank')"
+  style="
+    cursor: pointer;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+  "
+  onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'"
+  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'"
+>
+  <h3>Travel patterns across Europe </h3>
 
   <img
     src="https://andreapopcatalisan.github.io/assets/img/map.png"
