@@ -57,7 +57,7 @@ body {
   <img
     src="https://andreapopcatalisan.github.io/assets/img/eurostat.png"
     alt="Eurostat"
-    style="width:100%; border-radius:6px; margin:12px 0;"
+    style="width:100%; border-radius:3px; margin:6px 0;"
   >
 
   <p>
@@ -98,7 +98,7 @@ body {
   <img
     src="https://andreapopcatalisan.github.io/assets/img/map.png"
     alt="EuroTravels map preview"
-    style="width:100%; border-radius:6px; margin:12px 0;"
+    style="width:100%; border-radius:3px; margin:6px 0;"
   >
 
   <p>
