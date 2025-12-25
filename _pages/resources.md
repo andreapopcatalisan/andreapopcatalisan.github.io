@@ -84,34 +84,37 @@ body {
   style="
     cursor: pointer;
     border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 20px;
-    margin: 20px 0;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    transition: transform 0.2s, box-shadow 0.2s;
+    border-radius: 6px;
+    padding: 12px;
+    margin: 12px 0;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+    transition: transform 0.15s, box-shadow 0.15s;
+    max-width: 500px;
   "
-  onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'"
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'"
+  onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
+  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 1px 4px rgba(0,0,0,0.1)'"
 >
-  <h3>Travel patterns across Europe </h3>
+  <h3 style="margin: 0 0 6px 0; font-size: 1rem;">
+    Travel patterns across Europe
+  </h3>
 
   <img
     src="https://andreapopcatalisan.github.io/assets/img/map.png"
     alt="EuroTravels map preview"
-    style="width:100%; border-radius:1px; margin:3px 0;"
+    style="width:100%; border-radius:2px; margin:4px 0;"
   >
 
-  <p>
+  <p style="margin: 6px 0; font-size: 0.85rem; line-height: 1.3;">
     Interactive Shiny dashboard exploring my travel patterns across European countries.
   </p>
 
-  <p>
-  <strong>
-    <a href="https://github.com/andreapopcatalisan/world-happiness-prediction" target="_blank">
-      Code →
-    </a>
-  </strong>
-</p>
+  <p style="margin: 4px 0; font-size: 0.85rem;">
+    <strong>
+      <a href="https://github.com/andreapopcatalisan/world-happiness-prediction" target="_blank">
+        Code →
+      </a>
+    </strong>
+  </p>
 </div>
 
 
