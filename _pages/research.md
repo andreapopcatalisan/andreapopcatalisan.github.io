@@ -318,9 +318,9 @@ shares for radical-left parties in all democratic elections since 1977, a greate
     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'"
   >
 
-    <h6 class="paper-title" style="margin-bottom: 6px;">
-      Banking Crises Without Panics
-    </h6>
+  <h6 class="paper-title" style="margin-bottom: 6px; color:#BF245F;">
+  Banking Crises Without Panics
+</h6>
 
     <p class="presentation-info" style="margin-top: 7px;">
       [
@@ -347,7 +347,7 @@ shares for radical-left parties in all democratic elections since 1977, a greate
   </div>
 </div>
 
-</div>
+
 
 
 
