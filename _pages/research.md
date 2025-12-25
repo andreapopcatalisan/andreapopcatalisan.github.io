@@ -283,36 +283,69 @@ shares for radical-left parties in all democratic elections since 1977, a greate
 
 
 
-<div
-  onclick="window.open('https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf052/8314061', '_blank')"
-  style="
-    cursor: pointer;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 20px;
-    margin: 20px 0;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    background: #fff;
-  "
-  onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'"
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'"
->
-  
-  <h6 class="paper-title" style="margin-bottom: 6px;">
-    Banking Crises Without Panics
-  </h6>
 
-  <p class="presentation-info" style="margin: 0;">
-    <a
-      href="https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf052/8314061"
-      target="_blank"
-      style="color:#B45346; text-decoration:none;"
-      onclick="event.stopPropagation();"
-    >
-      Quarterly Journal of Economics
-    </a>
-  </p>
+<!-- ====== RESEARCH CONTRIBUTIONS TITLE ====== -->
+
+<div style="text-align: center; font-family: 'STIX Two Text', serif;">
+  <h2 style="
+    display: inline-block;
+    margin-bottom: 0;
+    border-bottom: 2px solid var(--global-theme-color);
+    padding-bottom: 2px;
+    font-family: 'EB Garamond', serif;
+  ">
+    Research Contributions
+  </h2>
+</div>
+
+<!-- ====== SECOND PAPER ====== -->
+
+<div class="container">
+  <div
+    class="jumbotron no-image"
+    onclick="window.open('https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf052/8314061', '_blank')"
+    style="
+      cursor: pointer;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 20px;
+      margin: 20px 0;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      background: #fff;
+    "
+    onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'"
+  >
+
+    <h6 class="paper-title" style="margin-bottom: 6px;">
+      Banking Crises Without Panics
+    </h6>
+
+    <p class="presentation-info" style="margin-top: 7px;">
+      [
+      <a
+        href="https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf052/8314061"
+        target="_blank"
+        style="color:#B45346"
+        onclick="event.stopPropagation();"
+      >
+        Quarterly Journal of Economics
+      </a>
+      ]
+    </p>
+
+    <p class="abstract">
+      During my stay at the European Central Bank (ECB), I provided research assistance to
+      Luc Laeven and Matthew Baron.
+    </p>
+
+    <p class="presentation-info">
+      Presented at: European Central Bank.
+    </p>
+
+  </div>
+</div>
 
 </div>
 
