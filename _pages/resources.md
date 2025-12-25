@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /resources/
-title: RESOURCES
+permalink: /codes/
+title: CODES
 description: 
 nav: true
 nav_order: 4
