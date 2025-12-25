@@ -44,8 +44,8 @@ body {
     cursor: pointer;
     border: 1px solid #ddd;
     border-radius: 8px;
-    padding: 10px;
-    margin: 10px 0;
+    padding: 20px;
+    margin: 20px 0;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     transition: transform 0.2s, box-shadow 0.2s;
   "
@@ -57,7 +57,7 @@ body {
   <img
     src="https://andreapopcatalisan.github.io/assets/img/eurostat.png"
     alt="Eurostat"
-    style="width:100%; border-radius:3px; margin:6px 0;"
+    style="width:100%; border-radius:1px; margin:3px 0;"
   >
 
   <p>
@@ -85,8 +85,8 @@ body {
     cursor: pointer;
     border: 1px solid #ddd;
     border-radius: 8px;
-    padding: 10px;
-    margin: 10px 0;
+    padding: 20px;
+    margin: 20px 0;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     transition: transform 0.2s, box-shadow 0.2s;
   "
@@ -98,7 +98,7 @@ body {
   <img
     src="https://andreapopcatalisan.github.io/assets/img/map.png"
     alt="EuroTravels map preview"
-    style="width:100%; border-radius:3px; margin:6px 0;"
+    style="width:100%; border-radius:1px; margin:3px 0;"
   >
 
   <p>
