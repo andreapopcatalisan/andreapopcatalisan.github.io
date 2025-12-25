@@ -85,8 +85,8 @@ body {
     cursor: pointer;
     border: 1px solid #ddd;
     border-radius: 6px;
-    padding: 12px;
-    margin: 12px 0;
+    padding: 18px;
+    margin: 18px 0;
     box-shadow: 0 1px 4px rgba(0,0,0,0.1);
     transition: transform 0.15s, box-shadow 0.15s;
     max-width: 500px;
