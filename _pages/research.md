@@ -191,15 +191,19 @@ WORKING PAPERS
 <div class="container">
   <div
     class="jumbotron no-image"
+    onclick="window.open('#', '_blank')"
     style="
-      cursor: default;
+      cursor: pointer;
       border: 1px solid #ddd;
       border-radius: 8px;
       padding: 20px;
       margin: 20px 0;
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
       background: #fff;
     "
+    onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'"
   >
 
     <h6 class="paper-title" style="color:#BF245F;">
@@ -208,10 +212,17 @@ WORKING PAPERS
 
     <span style="font-size:16px;">
       (with
-      <a href="https://svemanfre.github.io/" target="_blank">
+      <a href="https://svemanfre.github.io/" target="_blank" onclick="event.stopPropagation();">
         Sveva Manfredi
       </a>)
     </span>
+
+    <details class="abstract-box" style="margin-top:6px;" onclick="event.stopPropagation();">
+      <summary><span class="triangle"></span>Abstract</summary>
+      <p style="text-align: justify;">
+        Rising singlehood and a broader “relationship recession” are reshaping rich societies, with more adults leaving partnerships or avoiding them altogether. A common assumption is that, compared with singlehood, cohabiting relationships are unambiguously beneficial for well-being—economically, socially and emotionally. One underexplored possibility is that cohabitation carries invisible psychological and social costs, which vary with local norms and may gradually erode well-being and make separation more attractive. In this paper we study these potential “settlement costs” of cohabitation using repeated cross-sections from the European Social Survey and a pseudo–event-study design. We approximate within-person dynamics by comparing individuals at different durations since moving in with a partner, while controlling for observables and time-invariant regional factors. We trace how mental well-being, self-rated health, and time use evolve across the cohabitation spell and how these patterns differ across European normative regimes. We find little evidence of large, universal well-being gains from cohabitation. Instead, we document modest but systematic increases in negative affect—especially depressive symptoms, tiredness and feelings of strain—in more traditional or family-normative European regions, alongside region-specific shifts in socializing and leisure. Self-rated health is largely unaffected. These results suggest that cohabitation can entail small but persistent emotional and social costs in certain normative contexts.
+      </p>
+    </details>
 
     <em style="display:block; margin-top:6px; font-size:0.9em; font-family:'STIX Two Text'; color:#555;">
       Draft coming soon
@@ -221,18 +232,23 @@ WORKING PAPERS
 </div>
 
 
+
 <div class="container">
   <div
     class="jumbotron no-image"
+    onclick="window.open('#', '_blank')"
     style="
-      cursor: default;
+      cursor: pointer;
       border: 1px solid #ddd;
       border-radius: 8px;
       padding: 20px;
       margin: 20px 0;
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
       background: #fff;
     "
+    onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'"
   >
 
     <h6 class="paper-title" style="color:#BF245F;">
@@ -241,12 +257,16 @@ WORKING PAPERS
 
     <span style="font-size:16px;">
       (with
-      <a href="https://sites.google.com/view/manuelestevolago/about?authuser=0/" target="_blank">
+      <a
+        href="https://sites.google.com/view/manuelestevolago/about?authuser=0/"
+        target="_blank"
+        onclick="event.stopPropagation();"
+      >
         Manuel E. Lago
       </a>)
     </span>
 
-    <details class="abstract-box" style="margin-top:6px;">
+    <details class="abstract-box" style="margin-top:6px;" onclick="event.stopPropagation();">
       <summary><span class="triangle"></span>Abstract</summary>
       <p style="text-align: justify;">
         Exploiting the quasi-random timing of interviews relative to school holidays, we assess whether parental responsibilities induce short-term changes in well-being and work behavior.
@@ -259,7 +279,6 @@ WORKING PAPERS
 
   </div>
 </div>
-
 
 
 
