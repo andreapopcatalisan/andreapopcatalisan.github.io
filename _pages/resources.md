@@ -44,8 +44,8 @@ body {
     cursor: pointer;
     border: 1px solid #ddd;
     border-radius: 8px;
-    padding: 20px;
-    margin: 20px 0;
+    padding: 10px;
+    margin: 10px 0;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     transition: transform 0.2s, box-shadow 0.2s;
   "
@@ -85,8 +85,8 @@ body {
     cursor: pointer;
     border: 1px solid #ddd;
     border-radius: 8px;
-    padding: 20px;
-    margin: 20px 0;
+    padding: 10px;
+    margin: 10px 0;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     transition: transform 0.2s, box-shadow 0.2s;
   "
