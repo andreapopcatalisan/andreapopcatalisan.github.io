@@ -28,27 +28,20 @@ social: true # includes social icons at the bottom of the page
   document.title = "Andrea Pop-Catalisan";
 </script>
 
+
+
 <style>
 body {
-  background-color: #FFFCFB;
+  background-color: #FFF8F8;
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFFCFB !important;
+  background-color: #FFF0F0 !important;
 }
 </style>
 
 
 
-<style>
-body {
-  background-color: #FFFCFB;
-}
-
-/* Top fixed bar background */
-.navbar, .navbar-fixed-top {
-  background-color: #FFFCFB !important;
-}
 
 .profile {
   position: relative; /* needed for the contour positioning */
