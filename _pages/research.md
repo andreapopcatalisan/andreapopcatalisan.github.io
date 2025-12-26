@@ -11,17 +11,33 @@ nav_order: 1
 </script>
 
 
+<script> 
+  document.title = "Andrea Pop-Catalisan";
+</script>
 
-  
 <style>
 body {
   background-color: #FFFCFB;
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFFCFB !important;
+  background-color: #F7D8D6 !important;
 }
 </style>
+
+
+
+<style>
+body {
+  background-color: #FFFCFB;
+}
+
+/* Top fixed bar background */
+.navbar, .navbar-fixed-top {
+  background-color: #F7D8D6 !important;
+}
+
+
   
 
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
