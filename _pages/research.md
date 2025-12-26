@@ -11,15 +11,7 @@ nav_order: 1
 </script>
 
 
-<style>
-body {
-  background-color: #FFFCFB;
-}
 
-/* Top fixed bar background */
-.navbar, .navbar-fixed-top {
-  background-color: #FFFCFB !important;
-}
   
 <style>
 body {
