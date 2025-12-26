@@ -71,7 +71,7 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
-        height: 180px;
+        height: 160px;
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
@@ -118,7 +118,7 @@ body {
       alt="EuroTravels map preview"
       style="
         width: 100%;
-        height: 180px;
+        height: 160px;
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
