@@ -21,21 +21,10 @@ body {
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFFFFC !important;
+  background-color: #FFF6F4 !important;
 }
 </style>
 
-
-
-<style>
-body {
-  background-color: #FFFCFB;
-}
-
-/* Top fixed bar background */
-.navbar, .navbar-fixed-top {
-  background-color: #F7D8D6 !important;
-}
 
 
   
