@@ -50,6 +50,10 @@ body {
   background-color: #FFF6F4 !important;
 }
 
+
+
+
+
 .profile {
   position: relative; /* needed for the contour positioning */
   text-align: center;
