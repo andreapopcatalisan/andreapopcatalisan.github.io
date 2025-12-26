@@ -16,11 +16,11 @@ nav_order: 2
 
 <style>
 body {
-  background-color: #FFFFFC;
+  background-color: #FFFCFB;
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFFDFC !important;
+  background-color: #FFF6F4 !important;
 }
 </style>
   
