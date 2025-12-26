@@ -28,6 +28,17 @@ social: true # includes social icons at the bottom of the page
   document.title = "Andrea Pop-Catalisan";
 </script>
 
+<style>
+body {
+  background-color: #FFFCFB;
+}
+  /* Top fixed bar background */
+.navbar, .navbar-fixed-top {
+  background-color: #FFF6F4 !important;
+}
+</style>
+
+
 
 <style>
 body {
@@ -36,23 +47,8 @@ body {
 
 /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFFCFB !important;
+  background-color: #FFF6F4 !important;
 }
-  
-
-
-<style>
-body {
-  background-color: #FFF8F8;
-}
-  /* Top fixed bar background */
-.navbar, .navbar-fixed-top {
-  background-color: #FFF0F0 !important;
-}
-</style>
-
-
-
 
 .profile {
   position: relative; /* needed for the contour positioning */
@@ -122,6 +118,7 @@ body {
   <strong>PhD student in Economics at PSE</strong>
 </p>
 </div>
+
 
 
 <style>
