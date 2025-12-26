@@ -70,7 +70,7 @@ body {
       src="https://andreapopcatalisan.github.io/assets/img/eurostat.png"
       alt="Eurostat"
       style="
-        width: 80%;
+        width: 100%;
         height: 180px;
         object-fit: cover;
         border-radius: 2px;
@@ -117,7 +117,7 @@ body {
       src="https://andreapopcatalisan.github.io/assets/img/map.png"
       alt="EuroTravels map preview"
       style="
-        width: 80%;
+        width: 100%;
         height: 180px;
         object-fit: cover;
         border-radius: 2px;
