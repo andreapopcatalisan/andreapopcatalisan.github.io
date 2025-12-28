@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /codes/
-title: CODES
+permalink: /resources/
+title: RESOURCES
 description: 
 nav: true
 nav_order: 3
@@ -114,7 +114,7 @@ body {
     </h3>
 
     <img
-      src="https://andreapopcatalisan.github.io/assets/img/map.png"
+      src="https://andreapopcatalisan.github.io/assets/img/mapa.png"
       alt="EuroTravels map preview"
       style="
         width: 100%;
