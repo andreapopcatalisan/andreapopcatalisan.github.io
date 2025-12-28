@@ -132,7 +132,7 @@ body {
 
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
-        <a href="https://github.com/andreapopcatalisan/world-happiness-prediction" target="_blank">
+        <a href="https://github.com/andreapopcatalisan/euroTrips" target="_blank">
           Code →
         </a>
       </strong>
