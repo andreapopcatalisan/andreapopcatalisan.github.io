@@ -79,9 +79,7 @@ body {
     >
 
   <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
-  Interactive Shiny dashboard visualizing cross-country differences in the
-  estimated average age of leaving the parental home across Europe
-  (sources: EU-SILC and EU-LFS).
+ An interactive visualization tool to explore cross-country differences in the estimated average age of leaving the parental home across Europe (sources: EU-SILC and EU-LFS).
 </p>
 
 <p style="font-size: 0.75rem; line-height: 1.3; margin: 4px 0; font-style: italic;">
