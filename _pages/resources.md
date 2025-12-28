@@ -89,7 +89,7 @@ body {
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
         <a href="https://github.com/andreapopcatalisan" target="_blank">
-          Code coming soon →
+          Code →
         </a>
       </strong>
     </p>
