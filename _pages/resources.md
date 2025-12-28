@@ -93,8 +93,9 @@ body {
   </div>
 
   <!-- Card 2 -->
+  <!-- Card 2 -->
+<a href="https://andreapopcatalisan.shinyapps.io/eurotravels-master/" target="_blank" style="text-decoration: none; color: inherit;">
   <div
-    onclick="window.open('https://andreapopcatalisan.shinyapps.io/eurotravels-master/', '_blank')"
     style="
       cursor: pointer;
       border: 1px solid #ddd;
@@ -132,15 +133,13 @@ body {
 
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
-        <a href="https://github.com/andreapopcatalisan/euroTrips" target="_blank">
+        <a href="https://github.com/andreapopcatalisan/euroTrips" target="_blank" onclick="event.stopPropagation();" style="text-decoration: none; color: #BF245F;">
           Code →
         </a>
       </strong>
     </p>
   </div>
-
-</div>
-
+</a>
 
 
 
