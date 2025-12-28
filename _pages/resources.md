@@ -63,7 +63,7 @@ body {
     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 1px 4px rgba(0,0,0,0.1)'"
   >
     <h3 style="margin: 0 0 8px 0; font-size: 1rem; color: #BF245F;">
-      Age at Leaving the Parental Home in Europe (2005–2019)
+      Age at Leaving the Parental Home in Europe (1997–2024)
     </h3>
 
     <img
@@ -80,7 +80,7 @@ body {
 
     <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
       Interactive Shiny dashboard visualizing cross-country differences in the
-      average age of leaving the parental home in Europe (Source: EU-SILC).
+      average age of leaving the parental home in Europe (Source: ECHP, EU-SILC & SHARE).
     </p>
 
     <p style="margin-top: auto; font-size: 0.85rem;">
