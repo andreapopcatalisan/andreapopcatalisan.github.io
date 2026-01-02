@@ -56,6 +56,7 @@ body {
       box-shadow: 0 1px 4px rgba(0,0,0,0.1);
       transition: transform 0.15s, box-shadow 0.15s;
       width: 460px;
+      background: #fff;
       display: flex;
       flex-direction: column;
     "
@@ -103,6 +104,7 @@ body {
       cursor: pointer;
       border: 1px solid #ddd;
       border-radius: 6px;
+      background: #fff;
       padding: 16px;
       box-shadow: 0 1px 4px rgba(0,0,0,0.1);
       transition: transform 0.15s, box-shadow 0.15s;
