@@ -30,11 +30,11 @@ social: true # includes social icons at the bottom of the page
 
 <style>
 body {
-  background-color: #FFFCFB;
+  background-color: #FFFEF8;
 }
   /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFFCFB !important;
+  background-color: #FFFEF8 !important;
 }
 </style>
 
@@ -42,12 +42,12 @@ body {
 
 <style>
 body {
-  background-color: #FFFCFB;
+  background-color: #FFFEF8;
 }
 
 /* Top fixed bar background */
 .navbar, .navbar-fixed-top {
-  background-color: #FFFCFB !important;
+  background-color: #FFFEF8 !important;
 }
 
 
