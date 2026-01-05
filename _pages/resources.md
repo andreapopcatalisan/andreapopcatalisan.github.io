@@ -64,7 +64,7 @@ body {
     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 1px 4px rgba(0,0,0,0.1)'"
   >
     <h3 style="margin: 0 0 8px 0; font-size: 1rem; color: #BF245F;">
-      Age at Leaving the Parental Home in Europe (2000–2024)
+     Average Age at Moving-Out in Europe (2000–2024)
     </h3>
 
     <img
@@ -98,7 +98,7 @@ body {
 
 
 
-  <!-- Card 4 -->
+  <!-- Card 2 -->
 <a href="https://andreapopcatalisan.shinyapps.io/eurotravels-master/" target="_blank" style="text-decoration: none; color: inherit;">
   <div
     style="
@@ -116,13 +116,13 @@ body {
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 1px 4px rgba(0,0,0,0.1)'"
   >
-    <h3 style="margin: 0 0 8px 0; font-size: 1rem; color: #BF245F;">
-      Travel patterns across Europe
+  <h3 style="margin: 0 0 8px 0; font-size: 1rem; color: #BF245F;">
+      Average Age at Marriage in Europe (2000–2024)
     </h3>
 
     <img
-      src="https://andreapopcatalisan.github.io/assets/img/mapa.png"
-      alt="EuroTravels map preview"
+      src="https://andreapopcatalisan.github.io/assets/img/eurostat.png"
+      alt="Eurostat"
       style="
         width: 100%;
         height: 160px;
@@ -132,25 +132,22 @@ body {
       "
     >
 
-    <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
-      Interactive Shiny dashboard exploring my travel patterns across European
-      countries.
-    </p>
+  <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
+ An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC & EU-LFS).
+</p>
+
+<p style="font-size: 0.75rem; line-height: 1.3; margin: 4px 0; font-style: italic;">
+  Under development for the years 1990–1999.
+</p>
 
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
-        <a href="https://github.com/andreapopcatalisan/euroTrips" target="_blank" onclick="event.stopPropagation();" style="text-decoration: none; color: #BF245F;">
+        <a href="https://github.com/andreapopcatalisan" target="_blank">
           Code →
         </a>
       </strong>
     </p>
   </div>
-</a>
-
-
-<!-- Spacer -->
-<div style="grid-column: 1 / -1; height: 48px;"></div>
-
 
 
 
@@ -173,7 +170,7 @@ body {
     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 1px 4px rgba(0,0,0,0.1)'"
   >
     <h3 style="margin: 0 0 8px 0; font-size: 1rem; color: #BF245F;">
-      Age at Leaving the Parental Home in Europe (2000–2024)
+    Average Age at First Birth in Europe (2000–2024)
     </h3>
 
     <img
