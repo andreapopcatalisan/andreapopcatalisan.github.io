@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /resources/
-title: RESOURCES
+permalink: /tools/
+title: TOOLS
 description: 
 nav: true
 nav_order: 3
@@ -148,9 +148,13 @@ body {
 </a>
 
 
+<!-- Spacer -->
+<div style="grid-column: 1 / -1; height: 48px;"></div>
 
 
- <!-- Card 2 -->
+
+
+ <!-- Card 3 -->
   <div
     onclick="window.open('https://andreapopcatalisan.shinyapps.io/average-age-when-leaving-home', '_blank')"
     style="
