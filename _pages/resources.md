@@ -90,7 +90,7 @@ body {
 
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
-        <a href="https://github.com/andreapopcatalisan" target="_blank">
+        <a href="https://github.com/andreapopcatalisan/average-age-when-leaving-home" target="_blank">
           Code & Data →
         </a>
       </strong>
@@ -141,7 +141,7 @@ body {
 
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
-        <a href="https://github.com/andreapopcatalisan" target="_blank">
+        <a href="https://github.com/andreapopcatalisan/average-age-first-marriage" target="_blank">
           Code & Data →
         </a>
       </strong>
@@ -191,8 +191,8 @@ body {
 
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
-        <a href="https://github.com/andreapopcatalisan" target="_blank">
-          Code →
+        <a href="https://github.com/andreapopcatalisan/age_at_first_birth" target="_blank">
+          Code & Data →
         </a>
       </strong>
     </p>
