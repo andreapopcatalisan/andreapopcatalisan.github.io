@@ -90,7 +90,7 @@ body {
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
         <a href="https://github.com/andreapopcatalisan" target="_blank">
-          Code →
+          Code & Data →
         </a>
       </strong>
     </p>
@@ -143,7 +143,7 @@ body {
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
         <a href="https://github.com/andreapopcatalisan" target="_blank">
-          Code →
+          Code & Data →
         </a>
       </strong>
     </p>
@@ -196,7 +196,7 @@ body {
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
         <a href="https://github.com/andreapopcatalisan" target="_blank">
-          Code →
+          Code & Data →
         </a>
       </strong>
     </p>
@@ -248,7 +248,7 @@ body {
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
         <a href="https://github.com/andreapopcatalisan/euroTrips" target="_blank" onclick="event.stopPropagation();" style="text-decoration: none; color: #BF245F;">
-          Code →
+          Code & Data →
         </a>
       </strong>
     </p>
