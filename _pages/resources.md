@@ -73,12 +73,22 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
-        height: 160px;
+        height: 150px;
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
-      "
-    >
+         "
+  class="responsive-img"
+/>
+
+<style>
+  /* Make image smaller on small screens */
+  @media (max-width: 250px) {
+    .responsive-img {
+      height: 120px; /* smaller height on phones */
+    }
+  }
+</style>
 
   <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
  An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC & EU-LFS).
@@ -127,12 +137,22 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
-        height: 160px;
+        height: 150px;
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
-      "
-    >
+       "
+  class="responsive-img"
+/>
+
+<style>
+  /* Make image smaller on small screens */
+  @media (max-width: 250px) {
+    .responsive-img {
+      height: 120px; /* smaller height on phones */
+    }
+  }
+</style>
 
   <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
  An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC).
@@ -178,7 +198,7 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
-        height: 160px;
+        height: 150px;
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
@@ -188,7 +208,7 @@ body {
 
 <style>
   /* Make image smaller on small screens */
-  @media (max-width: 300px) {
+  @media (max-width: 250px) {
     .responsive-img {
       height: 120px; /* smaller height on phones */
     }
