@@ -112,7 +112,7 @@ body {
       transition: transform 0.15s, box-shadow 0.15s;
       width: 460px;
       display: flex;
-      margin-bottom: 28px;
+      margin-bottom: 32px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
@@ -163,7 +163,7 @@ body {
       width: 460px;
       background: #fff;
       display: flex;
-      margin-bottom: 28px;
+      margin-bottom: 32px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
@@ -215,7 +215,7 @@ body {
       transition: transform 0.15s, box-shadow 0.15s;
       width: 460px;
       display: flex;
-      margin-bottom: 28px;
+      margin-bottom: 32px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
@@ -235,7 +235,17 @@ body {
         border-radius: 2px;
         margin: 6px 0;
       "
-    >
+  class="responsive-img"
+/>
+
+<style>
+  /* Make image smaller on small screens */
+  @media (max-width: 600px) {
+    .responsive-img {
+      height: 120px; /* smaller height on phones */
+    }
+  }
+</style>
 
     <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
       Interactive Shiny dashboard exploring my travel patterns across European
