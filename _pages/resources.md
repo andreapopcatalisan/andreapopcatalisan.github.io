@@ -73,7 +73,7 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
-        height: 150px;
+        height: 170px;
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
@@ -83,7 +83,7 @@ body {
 
 <style>
   /* Make image smaller on small screens */
-  @media (max-width: 250px) {
+  @media (max-width: 180px) {
     .responsive-img {
       height: 120px; /* smaller height on phones */
     }
@@ -137,7 +137,7 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
-        height: 150px;
+        height: 160px;
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
@@ -147,7 +147,7 @@ body {
 
 <style>
   /* Make image smaller on small screens */
-  @media (max-width: 250px) {
+  @media (max-width: 240px) {
     .responsive-img {
       height: 120px; /* smaller height on phones */
     }
@@ -198,7 +198,7 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
-        height: 150px;
+        height: 160px;
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
@@ -208,7 +208,7 @@ body {
 
 <style>
   /* Make image smaller on small screens */
-  @media (max-width: 250px) {
+  @media (max-width: 220px) {
     .responsive-img {
       height: 120px; /* smaller height on phones */
     }
