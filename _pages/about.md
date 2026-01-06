@@ -11,6 +11,20 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
+<section id="research">
+  {% include projects.html %}
+</section>
+
+<section id="resources">
+  {% include research.html %}
+</section>
+
+<section id="teaching">
+  {% include contact.html %}
+</section>
+
+
+
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap" rel="stylesheet">
