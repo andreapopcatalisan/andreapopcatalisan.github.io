@@ -11,11 +11,6 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-<section id="research">
-  <h2>Research</h2>
-  <p><a href="{{ site.baseurl }}/research/">See my research</a></p>
-</section>
-
 
 
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
