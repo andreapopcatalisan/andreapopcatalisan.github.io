@@ -38,7 +38,7 @@ body {
 <!-- Cards container -->
 <div style="
   display: flex;
-  gap: 20px;
+  gap: 30px;
   justify-content: center;
   align-items: stretch;
   flex-wrap: wrap;
@@ -196,7 +196,7 @@ body {
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
         <a href="https://github.com/andreapopcatalisan" target="_blank">
-          Code & Data →
+          Code →
         </a>
       </strong>
     </p>
