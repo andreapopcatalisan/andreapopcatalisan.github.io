@@ -137,7 +137,7 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
-        height: 160px;
+        height: 140px;
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
