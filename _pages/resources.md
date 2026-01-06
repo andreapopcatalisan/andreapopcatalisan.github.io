@@ -102,19 +102,18 @@ body {
 <!-- Card 2 -->
 <a href="https://andreapopcatalisan.shinyapps.io/average-age-at-first-marriage" target="_blank" style="text-decoration: none; color: inherit;">
   <div
-    style="
+   style="
       cursor: pointer;
       border: 1px solid #ddd;
       border-radius: 6px;
-      background: #fff;
       padding: 16px;
       box-shadow: 0 1px 4px rgba(0,0,0,0.1);
       transition: transform 0.15s, box-shadow 0.15s;
-      width: 100%;
-      max-width: 460px;
+      width: 460px;
+      background: #fff;
       display: flex;
+      margin-bottom: 45px;
       flex-direction: column;
-      margin: 0 auto 45px auto;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 1px 4px rgba(0,0,0,0.1)'"
@@ -163,6 +162,7 @@ body {
       box-shadow: 0 1px 4px rgba(0,0,0,0.1);
       transition: transform 0.15s, box-shadow 0.15s;
       width: 460px;
+      background: #fff;
       display: flex;
       margin-bottom: 45px;
       flex-direction: column;
