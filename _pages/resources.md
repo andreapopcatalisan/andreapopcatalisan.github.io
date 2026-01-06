@@ -58,7 +58,7 @@ body {
       width: 460px;
       background: #fff;
       display: flex;
-      margin-bottom: 45px;
+      margin-bottom: 30px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
@@ -112,7 +112,7 @@ body {
       width: 460px;
       background: #fff;
       display: flex;
-      margin-bottom: 45px;
+      margin-bottom: 30px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
@@ -164,7 +164,7 @@ body {
       width: 460px;
       background: #fff;
       display: flex;
-      margin-bottom: 45px;
+      margin-bottom: 30px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
@@ -217,7 +217,7 @@ body {
       transition: transform 0.15s, box-shadow 0.15s;
       width: 460px;
       display: flex;
-      margin-bottom: 45px;
+      margin-bottom: 30px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
