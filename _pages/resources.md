@@ -100,7 +100,7 @@ body {
 
 
   <!-- Card 2 -->
-<a href="https://andreapopcatalisan.shinyapps.io/eurotravels-master/" target="_blank" style="text-decoration: none; color: inherit;">
+<a href="https://andreapopcatalisan.shinyapps.io/average-age-at-first-marriage" target="_blank" style="text-decoration: none; color: inherit;">
   <div
     style="
       cursor: pointer;
@@ -119,11 +119,11 @@ body {
     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 1px 4px rgba(0,0,0,0.1)'"
   >
   <h3 style="margin: 0 0 8px 0; font-size: 1rem; color: #BF245F;">
-      Average Age at Marriage in Europe (2000–2024)
+      Average Age at Marriage in Europe (2013–2013)
     </h3>
 
     <img
-      src="https://andreapopcatalisan.github.io/assets/img/eurostat.png"
+      src="https://andreapopcatalisan.github.io/assets/img/marriage.png"
       alt="Eurostat"
       style="
         width: 100%;
@@ -135,12 +135,9 @@ body {
     >
 
   <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
- An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC & EU-LFS).
+ An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC).
 </p>
 
-<p style="font-size: 0.75rem; line-height: 1.3; margin: 4px 0; font-style: italic;">
-  Under development for the years 1990–1999.
-</p>
 
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
@@ -155,7 +152,7 @@ body {
 
  <!-- Card 3 -->
   <div
-    onclick="window.open('https://andreapopcatalisan.shinyapps.io/average-age-when-leaving-home', '_blank')"
+    onclick="window.open('https://andreapopcatalisan.shinyapps.io/age_first_birth', '_blank')"
     style="
       cursor: pointer;
       border: 1px solid #ddd;
@@ -173,11 +170,11 @@ body {
     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 1px 4px rgba(0,0,0,0.1)'"
   >
     <h3 style="margin: 0 0 8px 0; font-size: 1rem; color: #BF245F;">
-    Average Age at First Birth in Europe (2000–2024)
+    Average Age at First Birth in Europe (2012–2023)
     </h3>
 
     <img
-      src="https://andreapopcatalisan.github.io/assets/img/eurostat.png"
+      src="https://andreapopcatalisan.github.io/assets/img/birth.png"
       alt="Eurostat"
       style="
         width: 100%;
@@ -190,10 +187,6 @@ body {
 
   <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
  An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC & EU-LFS).
-</p>
-
-<p style="font-size: 0.75rem; line-height: 1.3; margin: 4px 0; font-style: italic;">
-  Under development for the years 1990–1999.
 </p>
 
     <p style="margin-top: auto; font-size: 0.85rem;">
@@ -252,7 +245,7 @@ body {
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
         <a href="https://github.com/andreapopcatalisan/euroTrips" target="_blank" onclick="event.stopPropagation();" style="text-decoration: none; color: #BF245F;">
-          Code & Data →
+          Code →
         </a>
       </strong>
     </p>
