@@ -232,7 +232,7 @@ body {
       alt="EuroTravels map preview"
       style="
         width: 100%;
-        height: 160px;
+        height: 180px;
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
