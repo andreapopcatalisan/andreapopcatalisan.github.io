@@ -182,7 +182,8 @@ body {
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
-    class="responsive-img"
+      "
+  class="responsive-img"
 />
 
 <style>
