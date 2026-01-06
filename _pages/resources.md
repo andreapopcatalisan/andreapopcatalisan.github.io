@@ -58,7 +58,7 @@ body {
       width: 460px;
       background: #fff;
       display: flex;
-      margin-bottom: 28px;
+      margin-bottom: 35px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
@@ -83,7 +83,7 @@ body {
 
 <style>
   /* Make image smaller on small screens */
-  @media (max-width: 180px) {
+  @media (max-width: 80px) {
     .responsive-img {
       height: 120px; /* smaller height on phones */
     }
@@ -122,7 +122,7 @@ body {
       transition: transform 0.15s, box-shadow 0.15s;
       width: 460px;
       display: flex;
-      margin-bottom: 32px;
+      margin-bottom: 35px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
@@ -147,9 +147,9 @@ body {
 
 <style>
   /* Make image smaller on small screens */
-  @media (max-width: 240px) {
+  @media (max-width: 140px) {
     .responsive-img {
-      height: 120px; /* smaller height on phones */
+      height: 100px; /* smaller height on phones */
     }
   }
 </style>
@@ -183,7 +183,7 @@ body {
       width: 460px;
       background: #fff;
       display: flex;
-      margin-bottom: 32px;
+      margin-bottom: 35px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
@@ -245,7 +245,7 @@ body {
       transition: transform 0.15s, box-shadow 0.15s;
       width: 460px;
       display: flex;
-      margin-bottom: 32px;
+      margin-bottom: 35px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
