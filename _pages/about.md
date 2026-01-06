@@ -12,15 +12,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <section id="research">
-  {% include projects.html %}
-</section>
-
-<section id="resources">
-  {% include research.html %}
-</section>
-
-<section id="teaching">
-  {% include contact.html %}
+  <h2>Research</h2>
+  <p><a href="{{ site.baseurl }}/research/">See my research</a></p>
 </section>
 
 
