@@ -85,7 +85,7 @@ body {
   /* Make image smaller on small screens */
   @media (max-width: 80px) {
     .responsive-img {
-      height: 60px; /* smaller height on phones */
+      height: 40px; /* smaller height on phones */
     }
   }
 </style>
@@ -108,8 +108,7 @@ body {
   </div>
 
 
-
-  <!-- Card 2 -->
+<!-- Card 2 -->
 <a href="https://andreapopcatalisan.shinyapps.io/average-age-at-first-marriage" target="_blank" style="text-decoration: none; color: inherit;">
   <div
     style="
@@ -120,15 +119,16 @@ body {
       padding: 16px;
       box-shadow: 0 1px 4px rgba(0,0,0,0.1);
       transition: transform 0.15s, box-shadow 0.15s;
-      width: 460px;
+      width: 100%;
+      max-width: 460px;
       display: flex;
-      margin-bottom: 35px;
       flex-direction: column;
+      margin: 0 auto 35px auto;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 1px 4px rgba(0,0,0,0.1)'"
   >
-  <h3 style="margin: 0 0 8px 0; font-size: 1rem; color: #BF245F;">
+    <h3 style="margin: 0 0 8px 0; font-size: 1rem; color: #BF245F;">
       Average Age at Marriage in Europe (2013–2013)
     </h3>
 
@@ -137,27 +137,17 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
-        height: 170px;
+        height: auto; /* lets height adjust automatically */
+        max-height: 180px; /* max height for large screens */
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
-       "
-  class="responsive-img"
-/>
+      "
+    >
 
-<style>
-  /* Make image smaller on small screens */
-  @media (max-width: 100px) {
-    .responsive-img {
-      height: 60px; /* smaller height on phones */
-    }
-  }
-</style>
-
-  <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
- An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC).
-</p>
-
+    <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
+      An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC).
+    </p>
 
     <p style="margin-top: auto; font-size: 0.85rem;">
       <strong>
@@ -167,6 +157,7 @@ body {
       </strong>
     </p>
   </div>
+</a>
 
 
 
