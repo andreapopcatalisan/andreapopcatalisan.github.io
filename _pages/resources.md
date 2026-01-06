@@ -177,7 +177,7 @@ body {
       src="https://andreapopcatalisan.github.io/assets/img/birth.png"
       alt="Eurostat"
       style="
-        width: 80%;
+        width: 100%;
         height: 160px;
         object-fit: cover;
         border-radius: 2px;
@@ -188,7 +188,7 @@ body {
 
 <style>
   /* Make image smaller on small screens */
-  @media (max-width: 400px) {
+  @media (max-width: 300px) {
     .responsive-img {
       height: 120px; /* smaller height on phones */
     }
