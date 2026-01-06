@@ -73,6 +73,8 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
+        max-width: 460px;
+        margin: 0 auto;
         height: 170px;
         object-fit: cover;
         border-radius: 2px;
@@ -138,7 +140,7 @@ body {
       style="
         width: 100%;
         height: auto; /* lets height adjust automatically */
-        max-height: 180px; /* max height for large screens */
+        max-height: 170px; /* max height for large screens */
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
@@ -189,6 +191,8 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
+        max-width: 460px;
+        margin: 0 auto;
         height: 160px;
         object-fit: cover;
         border-radius: 2px;
