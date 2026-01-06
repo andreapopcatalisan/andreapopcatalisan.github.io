@@ -79,18 +79,8 @@ body {
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
-         "
-  class="responsive-img"
-/>
-
-<style>
-  /* Make image smaller on small screens */
-  @media (max-width: 80px) {
-    .responsive-img {
-      height: 40px; /* smaller height on phones */
-    }
-  }
-</style>
+  "
+    >
 
   <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
  An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC & EU-LFS).
@@ -140,7 +130,7 @@ body {
       style="
         width: 100%;
         height: auto; /* lets height adjust automatically */
-        max-height: 170px; /* max height for large screens */
+        max-height: 150px; /* max height for large screens */
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
@@ -197,18 +187,8 @@ body {
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
-      "
-  class="responsive-img"
-/>
-
-<style>
-  /* Make image smaller on small screens */
-  @media (max-width: 220px) {
-    .responsive-img {
-      height: 120px; /* smaller height on phones */
-    }
-  }
-</style>
+       "
+    >
 
   <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
  An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC & EU-LFS).
@@ -259,18 +239,8 @@ body {
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
-      "
-  class="responsive-img"
-/>
-
-<style>
-  /* Make image smaller on small screens */
-  @media (max-width: 600px) {
-    .responsive-img {
-      height: 120px; /* smaller height on phones */
-    }
-  }
-</style>
+       "
+    >
 
     <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
       Interactive Shiny dashboard exploring my travel patterns across European
