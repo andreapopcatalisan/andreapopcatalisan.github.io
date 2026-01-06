@@ -85,7 +85,7 @@ body {
   /* Make image smaller on small screens */
   @media (max-width: 80px) {
     .responsive-img {
-      height: 120px; /* smaller height on phones */
+      height: 60px; /* smaller height on phones */
     }
   }
 </style>
@@ -137,7 +137,7 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
-        height: 140px;
+        height: 170px;
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
@@ -147,9 +147,9 @@ body {
 
 <style>
   /* Make image smaller on small screens */
-  @media (max-width: 140px) {
+  @media (max-width: 100px) {
     .responsive-img {
-      height: 100px; /* smaller height on phones */
+      height: 60px; /* smaller height on phones */
     }
   }
 </style>
