@@ -163,7 +163,6 @@ body {
       box-shadow: 0 1px 4px rgba(0,0,0,0.1);
       transition: transform 0.15s, box-shadow 0.15s;
       width: 460px;
-      background: #fff;
       display: flex;
       margin-bottom: 45px;
       flex-direction: column;
