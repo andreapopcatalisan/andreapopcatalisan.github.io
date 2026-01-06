@@ -38,7 +38,7 @@ body {
 <!-- Cards container -->
 <div style="
   display: flex;
-  gap: 30px;
+  gap: 40px;
   justify-content: center;
   align-items: stretch;
   flex-wrap: wrap;
@@ -81,8 +81,8 @@ body {
       "
     >
 
-  <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
- An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC & EU-LFS).
+<p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0; text-align: justify;">
+  An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC & EU-LFS).
 </p>
 
 <p style="font-size: 0.75rem; line-height: 1.3; margin: 4px 0; font-style: italic;">
@@ -135,7 +135,7 @@ body {
       "
     >
 
-    <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
+   <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0; text-align: justify;">
       An interactive visualization tool to explore the estimated average age of marriage across Europe (sources: EU-SILC).
     </p>
 
@@ -187,7 +187,7 @@ body {
       "
     >
 
-  <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
+  <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0; text-align: justify;">
  An interactive visualization tool to explore the estimated average age at first birth across Europe (sources: EU-SILC & EU-LFS).
 </p>
 
@@ -239,7 +239,7 @@ body {
        "
     >
 
-    <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
+    <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0; text-align: justify;">
       Interactive Shiny dashboard exploring my travel patterns across European
       countries.
     </p>
