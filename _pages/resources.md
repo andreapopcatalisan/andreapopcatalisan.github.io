@@ -73,13 +73,12 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
-        max-width: 460px;
-        margin: 0 auto;
-        height: 170px;
+        height: auto; /* lets height adjust automatically */
+        max-height: 170px; /* max height for large screens */
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
-  "
+      "
     >
 
   <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
@@ -130,7 +129,7 @@ body {
       style="
         width: 100%;
         height: auto; /* lets height adjust automatically */
-        max-height: 150px; /* max height for large screens */
+        max-height: 170px; /* max height for large screens */
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
