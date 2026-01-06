@@ -58,7 +58,7 @@ body {
       width: 460px;
       background: #fff;
       display: flex;
-      margin-bottom: 35px;
+      margin-bottom: 45px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
@@ -114,7 +114,7 @@ body {
       max-width: 460px;
       display: flex;
       flex-direction: column;
-      margin: 0 auto 35px auto;
+      margin: 0 auto 45px auto;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 1px 4px rgba(0,0,0,0.1)'"
@@ -129,7 +129,7 @@ body {
       style="
         width: 100%;
         height: auto; /* lets height adjust automatically */
-        max-height: 170px; /* max height for large screens */
+        max-height: 190px; /* max height for large screens */
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
@@ -137,7 +137,7 @@ body {
     >
 
     <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
-      An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC).
+      An interactive visualization tool to explore the estimated average age of marriage across Europe (sources: EU-SILC).
     </p>
 
     <p style="margin-top: auto; font-size: 0.85rem;">
@@ -165,7 +165,7 @@ body {
       width: 460px;
       background: #fff;
       display: flex;
-      margin-bottom: 35px;
+      margin-bottom: 45px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
@@ -180,17 +180,16 @@ body {
       alt="Eurostat"
       style="
         width: 100%;
-        max-width: 460px;
-        margin: 0 auto;
-        height: 160px;
+        height: auto; /* lets height adjust automatically */
+        max-height: 190px; /* max height for large screens */
         object-fit: cover;
         border-radius: 2px;
         margin: 6px 0;
-       "
+      "
     >
 
   <p style="font-size: 0.85rem; line-height: 1.35; margin: 6px 0;">
- An interactive visualization tool to explore the estimated average age of leaving the parental home across Europe (sources: EU-SILC & EU-LFS).
+ An interactive visualization tool to explore the estimated average age at first birth across Europe (sources: EU-SILC & EU-LFS).
 </p>
 
     <p style="margin-top: auto; font-size: 0.85rem;">
@@ -219,7 +218,7 @@ body {
       transition: transform 0.15s, box-shadow 0.15s;
       width: 460px;
       display: flex;
-      margin-bottom: 35px;
+      margin-bottom: 45px;
       flex-direction: column;
     "
     onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.15)'"
