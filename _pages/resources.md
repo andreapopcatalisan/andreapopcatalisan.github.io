@@ -38,7 +38,7 @@ body {
 <!-- Cards container -->
 <div style="
   display: flex;
-  gap: 40px;
+  gap: 30px;
   justify-content: center;
   align-items: stretch;
   flex-wrap: wrap;
