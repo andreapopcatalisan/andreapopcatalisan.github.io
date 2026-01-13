@@ -220,8 +220,8 @@ WORKING PAPERS
     <span style="font-size:16px;">
       (with
       <a href="https://svemanfre.github.io/" target="_blank" onclick="event.stopPropagation();">
-        Sveva Manfredi
-      </a>)
+        Sveva Manfredi)
+      </a>
     </span>
 
     <details class="abstract-box" style="margin-top:6px;" onclick="event.stopPropagation();">
@@ -269,8 +269,8 @@ WORKING PAPERS
         target="_blank"
         onclick="event.stopPropagation();"
       >
-        Manuel E. Lago
-      </a>)
+        Manuel E. Lago)
+      </a>
     </span>
 
     <details class="abstract-box" style="margin-top:6px;" onclick="event.stopPropagation();">
