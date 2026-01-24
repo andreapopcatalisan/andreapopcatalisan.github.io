@@ -148,44 +148,44 @@ You can email me at <a href="mailto:andrea.pop@psemail.eu">andrea.pop@psemail.eu
          
 
                                   <div class="o-grid">
-<div class="o-grid" style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: space-between; gap: 5px;">
 
-  <!-- Navigation Links -->
+<!-- Desktop navigation -->
+<div class="o-grid desktop-only" style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: space-between; gap: 5px;">
   <div class="o-grid__col" style="flex: 1;">
     <a href="#WorkinProgress"><h4 style="margin: 0; color: #BF245F;">Work in Progress</h4></a>
   </div>
-
   <div class="o-grid__col" style="flex: 1;">
     <a href="#workingPapers"><h4 style="margin: 0; color: #BF245F;">Working Papers</h4></a>
   </div>
-
   <div class="o-grid__col" style="flex: 1;">
     <a href="assets/cv/CV_ANDREAPOP.pdf" target="_blank"><h4 style="margin: 0; color: #BF245F;">CV</h4></a>
   </div>
-
   <div class="o-grid__col" style="flex: 1;">
     <a href="#Teaching"><h4 style="margin: 0; color: #BF245F;">Teaching</h4></a>
   </div>
-
   <div class="o-grid__col" style="flex: 1;">
     <a href="#Tools"><h4 style="margin: 0; color: #BF245F;">Tools</h4></a>
   </div>
+</div>
 
-
-
-<div class="o-grid" style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: space-between; gap: 5px;"
-     id="desktop-nav">
-  <!-- your nav links here -->
+<!-- Mobile message -->
+<div class="mobile-only" style="display: none; text-align: center; margin: 10px 0; color: #BF245F;">
+  You can find out about my research below.
 </div>
 
 <style>
-  /* Hide on small screens */
+  /* Hide desktop nav on small screens */
   @media (max-width: 768px) {
-    #desktop-nav {
+    .desktop-only {
       display: none;
+    }
+    .mobile-only {
+      display: block;
     }
   }
 </style>
+
+                                      
 
 
 
