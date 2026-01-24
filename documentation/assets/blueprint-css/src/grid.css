@@ -153,8 +153,8 @@ input.span-24, textarea.span-24 { width: 938px!important; }
 
 /* Border on right hand side of a column. */
 div.border {
-  padding-right: 4px;
-  margin-right: 5px;
+  padding-right: 2px;
+  margin-right: 2px;
   border-right: 1px solid #eee;
 }
 
