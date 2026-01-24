@@ -148,11 +148,11 @@ You can email me at <a href="mailto:andrea.pop@psemail.eu">andrea.pop@psemail.eu
          
 
                                   <div class="o-grid">
-<div class="o-grid" style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: space-between; gap: 20px;">
+<div class="o-grid" style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: space-between; gap: 5px;">
 
   <!-- Navigation Links -->
   <div class="o-grid__col" style="flex: 1;">
-    <a href="#workInProgress"><h4 style="margin: 0; color: #BF245F;">Work in Progress</h4></a>
+    <a href="#WorkinProgress"><h4 style="margin: 0; color: #BF245F;">Work in Progress</h4></a>
   </div>
 
   <div class="o-grid__col" style="flex: 1;">
@@ -173,7 +173,19 @@ You can email me at <a href="mailto:andrea.pop@psemail.eu">andrea.pop@psemail.eu
 
 
 
+<div class="o-grid" style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: space-between; gap: 5px;"
+     id="desktop-nav">
+  <!-- your nav links here -->
+</div>
 
+<style>
+  /* Hide on small screens */
+  @media (max-width: 768px) {
+    #desktop-nav {
+      display: none;
+    }
+  }
+</style>
 
 
 
@@ -215,7 +227,7 @@ You can email me at <a href="mailto:andrea.pop@psemail.eu">andrea.pop@psemail.eu
 
                         <header class="o-section__header  t-section__header">
                             <div class="o-content">
-                                <a name="publications"> </a>
+                                <a name="WorkinProgress"> </a>
                                     <h2 class="o-section__heading">
                                         Work in Progress
                                     </h2>
@@ -1043,8 +1055,8 @@ You can email me at <a href="mailto:andrea.pop@psemail.eu">andrea.pop@psemail.eu
                                             <div class="o-content__body">
                                                 <h4>Location</h4>
                                                     <address>
-                                                         Paris School of Economics
-                                                         48 Bd Jourdan, 75014
+                                                         Paris School of Economics<br>
+                                                         48 Bd Jourdan, 75014<br>
                                                         Paris
                                                     </address>
                                             </div>
@@ -1079,7 +1091,8 @@ You can email me at <a href="mailto:andrea.pop@psemail.eu">andrea.pop@psemail.eu
 
         
         <!-- Social buttons -->
-                                            <li class="a-footer">
+                                          <ul class="c-footer__social-buttons c-social-buttons o-content__body" style="display: flex; justify-content: flex-end; gap: 10px;">
+    <li class="a-footer">
                                                 <a href="https://www.linkedin.com/in/andreapop/" target="_blank" class="c-social-button  t-social-button">
                                                     <i class="fa  fa-lg  fa-linkedin"></i>
                                                 </a>
