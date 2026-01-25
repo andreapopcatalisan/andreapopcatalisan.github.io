@@ -82,13 +82,25 @@
                             <header class="o-section__header  c-header__header  t-section__header">
                                 <div class="c-header__inner-header">
 
+
                                 <div class="c-header__avatar">
     <div class="a-header c-avatar">
         <img class="c-avatar__img" src="assets/images/header/apcprofile.png" alt="">
-        <p class="c-avatar__title">PhD Candidate in Economics</p>
-        <p class="c-avatar__subtitle">Paris School of Economics</p>
+        <p class="c-avatar__title hide-mobile" style="transform: translate(-6px, 4px);">
+            PhD Candidate in Economics
+        </p>
+        <p class="c-avatar__subtitle hide-mobile" style="transform: translate(-6px, 6px);">
+            Paris School of Economics
+        </p>
     </div><!-- /c-avatar -->
 </div><!-- /c-header-avatar -->
+
+@media (max-width: 768px) {
+    .hide-mobile {
+        display: none;
+    }
+}
+                                    
                                     
 
                                 </div><!-- /c-header__inner-header -->
