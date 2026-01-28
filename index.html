@@ -213,32 +213,22 @@ You can find my <a href="assets/cv/CV_ANDREAPOP.pdf" target="_blank">CV</a> here
 
 
 <style>
-  /* Default: show desktop nav, hide mobile message */
-  .nav-desktop {
-    display: block;
-  }
-  .nav-mobile {
-    display: none;
+  summary {
+    cursor: pointer;
+    list-style: none;
   }
 
-  /* On small screens (phones) */
-  @media (max-width: 768px) {
-    .nav-desktop {
-      display: none !important; /* override any existing display */
-    }
-    .nav-mobile {
-      display: block !important;
-    }
+  .triangle::before {
+    content: "> ";
+  }
+
+  details[open] .triangle::before {
+    content: "v ";
   }
 </style>
-
                                       
 
-
-
-                                     
-                                                     
-                                                        
+                                        
                                                     </div>
                                                 </div><!-- /o-content -->
                                             </div><!-- /o-grid__col -->
