@@ -399,18 +399,31 @@ You can find my <a href="assets/cv/CV_ANDREAPOP.pdf" target="_blank">CV</a> here
   Empty Nest Syndrome: Parents’ Labor Supply and Well-Being
 </h6>
 
-  <style>
+ <style>
   summary {
     cursor: pointer;
     list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 8px;
   }
 
-  .triangle::before {
-    content: "▶ ";
+  summary::-webkit-details-marker {
+    display: none;
   }
 
-  details[open] .triangle::before {
-    content: "▼ ";
+  .triangle {
+    width: 8px;
+    height: 8px;
+    border-right: 2px solid #000;
+    border-bottom: 2px solid #000;
+    transform: rotate(-45deg); /* > */
+    transition: transform 0.2s ease;
+    margin-top: 2px;
+  }
+
+  details[open] .triangle {
+    transform: rotate(45deg); /* v */
   }
 </style>
 
