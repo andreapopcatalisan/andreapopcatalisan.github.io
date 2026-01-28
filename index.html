@@ -108,6 +108,34 @@
 </style>
 
 
+<style>
+  /* Default: show desktop nav, hide mobile message */
+  .nav-desktop {
+    display: block;
+  summary {
+    cursor: pointer;
+    list-style: none;
+  }
+  .nav-mobile {
+    display: none;
+
+  .triangle::before {
+    content: "> ";
+  }
+
+  /* On small screens (phones) */
+  @media (max-width: 768px) {
+    .nav-desktop {
+      display: none !important; /* override any existing display */
+    }
+    .nav-mobile {
+      display: block !important;
+    }
+  details[open] .triangle::before {
+    content: "v ";
+  }
+</style>
+
 
                                     
 
@@ -375,25 +403,6 @@ You can find my <a href="assets/cv/CV_ANDREAPOP.pdf" target="_blank">CV</a> here
 
 
 
-<style>
-  summary {
-    cursor: pointer;
-    list-style: none;
-  }
-
-  .triangle::before {
-    content: "▶ ";
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.9em;
-  }
-
-  details[open] .triangle::before {
-    content: "▼ ";
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.9em;
-  }
-</style>         
-      
 
     <details class="abstract-box" onclick="event.stopPropagation();">
       <summary><span class="triangle"></span>Abstract</summary>
